@@ -38,6 +38,13 @@ def test_api_date_portuguese_prefaces_from_divinum_officium(client):
     assert 200 == resp.status_code
 
 
+def test_api_date_latin(client):
+    resp = client.get('/la/api/v5/proper/2026-04-29')
+    assert 200 == resp.status_code
+    proper = resp.json()[0]
+    assert "S. Petri Martyris" == proper["info"]["title"]
+
+
 def test_api_date_portuguese_returns_only_portuguese_sections(client):
     resp = client.get('/pt/api/v5/proper/2026-04-29')
     assert 200 == resp.status_code

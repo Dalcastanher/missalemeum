@@ -3,14 +3,14 @@ import type { NextRequest } from 'next/server'
 import { resolveAcceptLanguage } from 'resolve-accept-language'
 
 const DEFAULT_LOCALE = 'en-US'
-const SUPPORTED = ['en-US', 'pl-PL'] as const
-const SUPPORTED_LOCALES = new Set(['en', 'pl'])
+const SUPPORTED = ['en-US', 'pl-PL', 'pt-PT', 'la'] as const
+const SUPPORTED_LOCALES = new Set(['en', 'pl', 'pt', 'la'])
 const APP_SECTIONS = new Set(['calendar', 'ordo', 'oratio', 'canticum', 'supplement', 'votive', 'widgets'])
 const COOKIE_OPTIONS = { path: '/', maxAge: 60 * 60 * 24 * 365 }
 
-const toSupportedLocale = (value?: string): 'en' | 'pl' => {
+const toSupportedLocale = (value?: string): 'en' | 'pl' | 'pt' | 'la' => {
   if (value && SUPPORTED_LOCALES.has(value)) {
-    return value as 'en' | 'pl'
+    return value as 'en' | 'pl' | 'pt' | 'la'
   }
   return 'en'
 }
@@ -58,5 +58,5 @@ export function proxy(request: NextRequest) {
 }
 
 export const config = {
-  matcher: ['/', '/calendar', '/(en|pl)/:path*'],
+  matcher: ['/', '/calendar', '/(en|pl|pt|la)/:path*'],
 }

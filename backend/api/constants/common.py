@@ -17,7 +17,7 @@ LANGUAGE_LATIN = 'la'
 LANGUAGE_ENGLISH = 'en'
 LANGUAGE_POLSKI = 'pl'
 LANGUAGE_PORTUGUESE = 'pt'
-LANGUAGES = {'en': 'English', 'pl': 'Polski', 'pt': 'Português'}
+LANGUAGES = {'la': 'Latin', 'en': 'English', 'pl': 'Polski', 'pt': 'Português'}
 DIVOFF_LANG_MAP = {'la': 'Latin'}
 DIVOFF_LANG_MAP.update(LANGUAGES)
 DIVOFF_LANG_MAP[LANGUAGE_PORTUGUESE] = 'Portugues'
