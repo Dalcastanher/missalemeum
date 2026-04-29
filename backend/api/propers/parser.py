@@ -185,6 +185,14 @@ class ProperParser:
                         nested_proper: ParsedSource = self._parse_source(
                             nested_path, lang=lang, coming_from=partial_path, lookup_section=nested_section_name)
                         nested_section = nested_proper.get_section(nested_section_name)
+                        if nested_section is None and lang != LANGUAGE_LATIN:
+                            nested_proper = self._parse_source(
+                                nested_path,
+                                lang=LANGUAGE_LATIN,
+                                coming_from=partial_path,
+                                lookup_section=nested_section_name,
+                            )
+                            nested_section = nested_proper.get_section(nested_section_name)
                         if nested_section is not None:
                             nested_section_body = nested_section.body
                             if substitutions:
