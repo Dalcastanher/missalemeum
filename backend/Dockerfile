@@ -28,27 +28,14 @@ COPY pdf ./pdf
 RUN pip install --upgrade pip \
     && pip install --no-cache-dir -e .
 
-RUN apt-get update && apt-get install -y --no-install-recommends git && rm -rf /var/lib/apt/lists/*
-RUN git clone --depth=1 --filter=blob:none --sparse \
-        https://github.com/joaodalcastanher/divinum-officium.git /tmp/divoff \
-    && cd /tmp/divoff \
-    && git sparse-checkout set \
-        web/www/missa/Latin \
-        web/www/missa/English \
-        web/www/missa/Polski \
-        web/www/missa/Portugues \
-        web/www/horas/Latin/Commune \
-        web/www/horas/English/Commune \
-        web/www/horas/Polski/Commune \
-    && mkdir -p resources/divinum-officium/web/www \
-    && cp -r /tmp/divoff/web/www/missa resources/divinum-officium/web/www/missa \
-    && cp -r /tmp/divoff/web/www/horas resources/divinum-officium/web/www/horas \
-    && rm -rf /tmp/divoff
-
+COPY resources/divinum-officium ./resources/divinum-officium
 COPY resources/ordo ./resources/ordo
 COPY resources/propers ./resources/propers
 COPY resources/supplement ./resources/supplement
 COPY resources/divinum-officium-local ./resources/divinum-officium-local
+
+RUN test -f resources/divinum-officium/web/www/missa/Latin/Ordo/Prefationes.txt \
+    && test -f resources/divinum-officium/web/www/missa/Portugues/Ordo/Prefationes.txt
 
 ENV PORT=8080
 CMD gunicorn --bind "0.0.0.0:${PORT}" -w 2 -k uvicorn.workers.UvicornWorker api.app:app --access-logfile -
