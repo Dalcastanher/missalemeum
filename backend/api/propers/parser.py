@@ -109,6 +109,13 @@ class ProperParser:
                         pass
                     else:
                         parsed_source.merge(parsed_source_latin)
+                elif lookup_section == RULE:
+                    try:
+                        parsed_source_latin = self._read_source(partial_path, LANGUAGE_LATIN, lookup_section)
+                    except ProperNotFound:
+                        pass
+                    else:
+                        parsed_source.merge(parsed_source_latin)
 
         if is_local:
             parsed_source = self._resolve_references(parsed_source, partial_path, lang, coming_from)
@@ -388,21 +395,23 @@ class ProperParser:
 
     @staticmethod
     def _get_full_path(partial_path, lang, is_local=False):
+        local_full_path = os.path.join(
+            cc.LOCAL_DIVOFF_DIR, 'web', 'www', 'missa', DIVOFF_LANG_MAP[lang], partial_path)
         if is_local:
-            full_path = os.path.join(cc.LOCAL_DIVOFF_DIR, 'web', 'www', 'missa', DIVOFF_LANG_MAP[lang], partial_path)    
-            if not os.path.exists(full_path):
+            if not os.path.exists(local_full_path):
                 return None
-            return full_path
-        full_path = os.path.join(DIVOFF_DIR, 'web', 'www', 'missa', DIVOFF_LANG_MAP[lang], partial_path)
-        if not os.path.exists(full_path):
-            # If it's commune, try in horas
-            if partial_path.startswith('Commune'):
-                full_path = os.path.join(DIVOFF_DIR, 'web', 'www', 'horas', DIVOFF_LANG_MAP[lang], partial_path)
-                if not os.path.exists(full_path):
-                    return None
+            return local_full_path
+
+        candidate_paths = [
+            os.path.join(DIVOFF_DIR, 'web', 'www', 'missa', DIVOFF_LANG_MAP[lang], partial_path),
+            local_full_path,
+            os.path.join(DIVOFF_DIR, 'web', 'www', 'horas', DIVOFF_LANG_MAP[lang], partial_path),
+            os.path.join(DIVOFF_DIR, 'obsolete', 'missa', DIVOFF_LANG_MAP[lang], partial_path),
+        ]
+        for full_path in candidate_paths:
+            if os.path.exists(full_path):
                 return full_path
-            return None
-        return full_path
+        return None
 
     def _get_partial_path(self):
         try:
