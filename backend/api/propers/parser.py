@@ -8,7 +8,7 @@ from api.exceptions import InvalidInput, ProperNotFound
 
 from api.constants import TRANSLATION
 from api.constants import common as cc
-from api.constants.common import (DIVOFF_DIR, LANGUAGE_LATIN, DIVOFF_LANG_MAP, PATTERN_COMMENT_SPLIT, PATTERN_REF_SUBSTITUTION_DELIM, PATTERN_REF_SUBSTITUTION_SPLIT,
+from api.constants.common import (DIVOFF_DIR, LANGUAGE_LATIN, LANGUAGE_PORTUGUESE, DIVOFF_LANG_MAP, PATTERN_COMMENT_SPLIT, PATTERN_REF_SUBSTITUTION_DELIM, PATTERN_REF_SUBSTITUTION_SPLIT,
                               REFERENCE_REGEX,
                               SECTION_REGEX, EXCLUDE_SECTIONS_IDX, ASTERISK, PATTERN_COMMEMORATION,
                               PREFATIO_COMMUNIS,
@@ -64,7 +64,10 @@ class ProperParser:
         # Moving data from "Comment" section up as direct properties of a Proper object
         parsed_comment: dict = self._parse_comment(proper.pop_section('Comment'))
         title_id = self.config.title_id or self.proper_id
-        proper.title = self.translations[lang].TITLES.get(title_id) or parsed_comment['title']
+        if lang == LANGUAGE_PORTUGUESE:
+            proper.title = parsed_comment['title'] or self.translations[lang].TITLES.get(title_id)
+        else:
+            proper.title = self.translations[lang].TITLES.get(title_id) or parsed_comment['title']
         if proper.title is None:
             # Handling very rare case when proper's source exists but rank or color in the ID is invalid
             raise ProperNotFound(f"Proper {title_id} not found")
@@ -404,7 +407,6 @@ class ProperParser:
 
         candidate_paths = [
             os.path.join(DIVOFF_DIR, 'web', 'www', 'missa', DIVOFF_LANG_MAP[lang], partial_path),
-            local_full_path,
             os.path.join(DIVOFF_DIR, 'web', 'www', 'horas', DIVOFF_LANG_MAP[lang], partial_path),
             os.path.join(DIVOFF_DIR, 'obsolete', 'missa', DIVOFF_LANG_MAP[lang], partial_path),
         ]
