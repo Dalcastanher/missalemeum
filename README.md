@@ -17,7 +17,7 @@ and presenting the data. The application utilizes data files from
 * Generates high-quality, well-styled PDF documents
 * Shows everything in a slick, responsive UI
 
-At the moment the application supports English and Polish vernacular languages. As the data for many other languages
+At the moment the application supports English, Polish, and Portuguese vernacular languages. As the data for many other languages
 is available in Divinum Officium, it is relatively easy to support them. Volunteers are welcome to contribute (see below). 
 
 ## API specficiation
@@ -132,7 +132,24 @@ $ python -m api.cli proper-cols 2018-05-03
 3. Copy folder [backend/resources/ordo/en](backend/resources/ordo/en) into `backend/resources/ordo/<Your-language>` and translate the files
 4. Copy folder [backend/resources/supplement/en](backend/resources/supplement/en) into `backend/resources/supplement/<Your-language>` and translate the files
 5. Add mapping between your language ISO-639-1 code and [Divinum Officium language folder](https://github.com/DivinumOfficium/divinum-officium/tree/master/web/www/missa) in `LANGUAGES` in `backend/api/constants/common.py`
-6. Add tests to your language version in [test_propers.py](backend/tests/test_propers.py). You can use  `generate_fixtures_for_propers_by_dates` from [backend/tests/util.py](backend/tests/util.py) to generate fixtures
+6. Add `<your-lang-code> = "<your-lang-code>"` to the `LanguageCode` enum in `backend/api/apiv5.py`
+7. Add tests to your language version in [test_propers.py](backend/tests/test_propers.py). You can use  `generate_fixtures_for_propers_by_dates` from [backend/tests/util.py](backend/tests/util.py) to generate fixtures
+
+### Portuguese Language Support
+
+Portuguese language support is now included in this repository, with data sourced from the [Divinum Officium fork](https://github.com/joaodalcastanher/divinum-officium). The Portuguese language files are retrieved via the git submodule in `backend/resources/divinum-officium`.
+
+Portuguese translation constants for the API are defined in:
+- `backend/api/constants/pt/translation.py` - UI labels and translations
+- `backend/api/constants/pt/blocks.py` - Inherits block definitions from Latin
+- `backend/api/constants/pt/pages.py` - Pages and document layout
+- `backend/api/constants/pt/supplements.py` - Supplement content translations
+- `backend/resources/ordo/pt/ordo.yaml` - Portuguese Ordinary of the Mass
+
+To continue translation work:
+1. Update dictionary entries in `backend/api/constants/pt/translation.py` (especially TITLES, SECTION_LABELS, and PATERNOSTER)
+2. Complete translation of `backend/resources/ordo/pt/ordo.yaml` body content
+3. Translate remaining sections in `backend/api/constants/pt/pages.py` and `backend/api/constants/pt/supplements.py`
 
 ### Frontend
 
