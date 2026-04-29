@@ -8,7 +8,7 @@ from api.exceptions import InvalidInput, ProperNotFound
 
 from api.constants import TRANSLATION
 from api.constants import common as cc
-from api.constants.common import (DIVOFF_DIR, LANGUAGE_LATIN, DIVOFF_LANG_MAP, PATTERN_COMMENT_SPLIT, PATTERN_REF_SUBSTITUTION_DELIM, PATTERN_REF_SUBSTITUTION_SPLIT,
+from api.constants.common import (DIVOFF_DIR, LANGUAGE_LATIN, LANGUAGE_PORTUGUESE, DIVOFF_LANG_MAP, PATTERN_COMMENT_SPLIT, PATTERN_REF_SUBSTITUTION_DELIM, PATTERN_REF_SUBSTITUTION_SPLIT,
                               REFERENCE_REGEX,
                               SECTION_REGEX, EXCLUDE_SECTIONS_IDX, ASTERISK, PATTERN_COMMEMORATION,
                               PREFATIO_COMMUNIS,
@@ -63,11 +63,14 @@ class ProperParser:
 
         # Moving data from "Comment" section up as direct properties of a Proper object
         parsed_comment: dict = self._parse_comment(proper.pop_section('Comment'))
-        try:
-            proper.title = self.translations[lang].TITLES[self.config.title_id or self.proper_id]
-        except KeyError:
+        title_id = self.config.title_id or self.proper_id
+        if lang == LANGUAGE_PORTUGUESE:
+            proper.title = parsed_comment['title'] or self.translations[lang].TITLES.get(title_id)
+        else:
+            proper.title = self.translations[lang].TITLES.get(title_id) or parsed_comment['title']
+        if proper.title is None:
             # Handling very rare case when proper's source exists but rank or color in the ID is invalid
-            raise ProperNotFound(f"Proper {self.config.title_id or self.proper_id} not found")
+            raise ProperNotFound(f"Proper {title_id} not found")
         proper.description = parsed_comment['description']
         proper.tags = parsed_comment['tags']
         proper.tags.extend(self.translations[lang].PAGES.get(self.proper_id, []))
@@ -95,10 +98,27 @@ class ProperParser:
         else:
             try:
                 parsed_source = self._read_source(partial_path, lang, lookup_section, is_local=is_local)
-                parsed_source_latin = self._read_source(partial_path, LANGUAGE_LATIN, lookup_section, is_local=is_local)
-                parsed_source.merge(parsed_source_latin)
             except ProperNotFound:
-                parsed_source = self._read_source(partial_path, LANGUAGE_LATIN, lookup_section)
+                if is_local:
+                    parsed_source = self._read_source(partial_path, LANGUAGE_LATIN, lookup_section, is_local=True)
+                else:
+                    raise
+            else:
+                if is_local:
+                    try:
+                        parsed_source_latin = self._read_source(
+                            partial_path, LANGUAGE_LATIN, lookup_section, is_local=True)
+                    except ProperNotFound:
+                        pass
+                    else:
+                        parsed_source.merge(parsed_source_latin)
+                elif lookup_section == RULE:
+                    try:
+                        parsed_source_latin = self._read_source(partial_path, LANGUAGE_LATIN, lookup_section)
+                    except ProperNotFound:
+                        pass
+                    else:
+                        parsed_source.merge(parsed_source_latin)
 
         if is_local:
             parsed_source = self._resolve_references(parsed_source, partial_path, lang, coming_from)
@@ -165,6 +185,14 @@ class ProperParser:
                         nested_proper: ParsedSource = self._parse_source(
                             nested_path, lang=lang, coming_from=partial_path, lookup_section=nested_section_name)
                         nested_section = nested_proper.get_section(nested_section_name)
+                        if nested_section is None and lang != LANGUAGE_LATIN:
+                            nested_proper = self._parse_source(
+                                nested_path,
+                                lang=LANGUAGE_LATIN,
+                                coming_from=partial_path,
+                                lookup_section=nested_section_name,
+                            )
+                            nested_section = nested_proper.get_section(nested_section_name)
                         if nested_section is not None:
                             nested_section_body = nested_section.body
                             if substitutions:
@@ -378,21 +406,22 @@ class ProperParser:
 
     @staticmethod
     def _get_full_path(partial_path, lang, is_local=False):
+        local_full_path = os.path.join(
+            cc.LOCAL_DIVOFF_DIR, 'web', 'www', 'missa', DIVOFF_LANG_MAP[lang], partial_path)
         if is_local:
-            full_path = os.path.join(cc.LOCAL_DIVOFF_DIR, 'web', 'www', 'missa', DIVOFF_LANG_MAP[lang], partial_path)    
-            if not os.path.exists(full_path):
+            if not os.path.exists(local_full_path):
                 return None
-            return full_path
-        full_path = os.path.join(DIVOFF_DIR, 'web', 'www', 'missa', DIVOFF_LANG_MAP[lang], partial_path)
-        if not os.path.exists(full_path):
-            # If it's commune, try in horas
-            if partial_path.startswith('Commune'):
-                full_path = os.path.join(DIVOFF_DIR, 'web', 'www', 'horas', DIVOFF_LANG_MAP[lang], partial_path)
-                if not os.path.exists(full_path):
-                    return None
+            return local_full_path
+
+        candidate_paths = [
+            os.path.join(DIVOFF_DIR, 'web', 'www', 'missa', DIVOFF_LANG_MAP[lang], partial_path),
+            os.path.join(DIVOFF_DIR, 'web', 'www', 'horas', DIVOFF_LANG_MAP[lang], partial_path),
+            os.path.join(DIVOFF_DIR, 'obsolete', 'missa', DIVOFF_LANG_MAP[lang], partial_path),
+        ]
+        for full_path in candidate_paths:
+            if os.path.exists(full_path):
                 return full_path
-            return None
-        return full_path
+        return None
 
     def _get_partial_path(self):
         try:

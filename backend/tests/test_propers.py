@@ -71,6 +71,13 @@ def test_get_proper_from_observance():
     assert 'Deus, qui hodiérna die' in proper_latin.get_section(ORATIO).body[0]
 
 
+def test_latin_st_peter_of_verona_has_gospel():
+    _, proper_latin = ProperParser(c.SANCTI_04_29, LANGUAGE_LATIN).parse()
+    evangelium = proper_latin.get_section(EVANGELIUM)
+    assert evangelium is not None
+    assert 'Matt 10:34-42' in evangelium.serialize()["body"]
+
+
 def test_get_proper_from_day():
     missal = get_missal(2018, language)
     proper_vernacular, proper_latin = missal.get_day(date(2018, 1, 6)).get_proper()[0]
