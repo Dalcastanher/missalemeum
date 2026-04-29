@@ -7,7 +7,7 @@ and presenting the data. The application utilizes data files from
  [Divinum Officium](https://github.com/DivinumOfficium/divinum-officium), which is linked through a
  [git submodule](./backend/resources).
 
-## Features 
+## Features
 
 * Calculates the 1962 calendar for given liturgical year
 * Shows Proprium Missae (variable parts of the Mass) for a given date
