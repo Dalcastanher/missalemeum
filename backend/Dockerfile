@@ -28,25 +28,27 @@ COPY pdf ./pdf
 RUN pip install --upgrade pip \
     && pip install --no-cache-dir -e .
 
-RUN mkdir -pv \
-             resources/divinum-officium/web/www/missa/Latin \
-             resources/divinum-officium/web/www/missa/English \
-             resources/divinum-officium/web/www/missa/Polski \
-             resources/divinum-officium/web/www/missa/Portugues \
-             resources/divinum-officium/web/www/horas/Latin/Commune \
-             resources/divinum-officium/web/www/horas/English/Commune \
-             resources/divinum-officium/web/www/horas/Polski/Commune
-COPY resources/divinum-officium/web/www/missa/Latin ./resources/divinum-officium/web/www/missa/Latin
-COPY resources/divinum-officium/web/www/missa/English ./resources/divinum-officium/web/www/missa/English
-COPY resources/divinum-officium/web/www/missa/Polski ./resources/divinum-officium/web/www/missa/Polski
-COPY resources/divinum-officium/web/www/missa/Portugues ./resources/divinum-officium/web/www/missa/Portugues
-COPY resources/divinum-officium/web/www/horas/Latin/Commune ./resources/divinum-officium/web/www/horas/Latin/Commune
-COPY resources/divinum-officium/web/www/horas/English/Commune ./resources/divinum-officium/web/www/horas/English/Commune
-COPY resources/divinum-officium/web/www/horas/Polski/Commune ./resources/divinum-officium/web/www/horas/Polski/Commune
+RUN apt-get update && apt-get install -y --no-install-recommends git && rm -rf /var/lib/apt/lists/*
+RUN git clone --depth=1 --filter=blob:none --sparse \
+        https://github.com/joaodalcastanher/divinum-officium.git /tmp/divoff \
+    && cd /tmp/divoff \
+    && git sparse-checkout set \
+        web/www/missa/Latin \
+        web/www/missa/English \
+        web/www/missa/Polski \
+        web/www/missa/Portugues \
+        web/www/horas/Latin/Commune \
+        web/www/horas/English/Commune \
+        web/www/horas/Polski/Commune \
+    && mkdir -p resources/divinum-officium/web/www \
+    && cp -r /tmp/divoff/web/www/missa resources/divinum-officium/web/www/missa \
+    && cp -r /tmp/divoff/web/www/horas resources/divinum-officium/web/www/horas \
+    && rm -rf /tmp/divoff
 
 COPY resources/ordo ./resources/ordo
 COPY resources/propers ./resources/propers
 COPY resources/supplement ./resources/supplement
 COPY resources/divinum-officium-local ./resources/divinum-officium-local
 
-CMD ["gunicorn", "--bind", "0.0.0.0:8080", "-w", "2", "-k", "uvicorn.workers.UvicornWorker", "api.app:app", "--access-logfile", "-"]
+ENV PORT=8080
+CMD gunicorn --bind "0.0.0.0:${PORT}" -w 2 -k uvicorn.workers.UvicornWorker api.app:app --access-logfile -
