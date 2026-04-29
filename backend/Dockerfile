@@ -38,17 +38,8 @@ COPY resources/divinum-officium-local ./resources/divinum-officium-local
 RUN if ! test -f resources/divinum-officium/web/www/missa/Latin/Ordo/Prefationes.txt \
         || ! test -f resources/divinum-officium/web/www/missa/Portugues/Ordo/Prefationes.txt; then \
         rm -rf resources/divinum-officium \
-        && git clone --depth=1 --filter=blob:none --sparse \
+        && git clone --depth=1 \
             https://github.com/joaodalcastanher/divinum-officium.git /tmp/divoff \
-        && cd /tmp/divoff \
-        && git sparse-checkout set \
-            web/www/missa/Latin \
-            web/www/missa/English \
-            web/www/missa/Polski \
-            web/www/missa/Portugues \
-            web/www/horas/Latin/Commune \
-            web/www/horas/English/Commune \
-            web/www/horas/Polski/Commune \
         && mkdir -p /app/resources/divinum-officium/web/www \
         && cp -r /tmp/divoff/web/www/missa /app/resources/divinum-officium/web/www/missa \
         && cp -r /tmp/divoff/web/www/horas /app/resources/divinum-officium/web/www/horas \
