@@ -1,3 +1,0 @@
-[submodule "backend/resources/divinum-officium"]
-	path = backend/resources/divinum-officium
-	url = https://github.com/joaodalcastanher/divinum-officium.git

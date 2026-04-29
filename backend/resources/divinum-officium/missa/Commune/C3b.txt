@@ -1,0 +1,97 @@
+[Name]
+Commune plurimorum martirum extra Tempus Paschale; Salus autem
+
+[Introitus]
+!Ps 36:39
+v. A salvação dos justos vem do Senhor; Ele é o refúgio deles em tempos de ~
+sofrimento.
+!Ps 36:1
+Não te irrites com os malfeitores, nem tenhas ciúmes dos que praticam o mal.
+&Gloria
+v. A salvação dos justos vem do Senhor; Ele é o refúgio deles em tempos de ~
+sofrimento.
+
+[Oratio]: Dos Mártires, não dos Bispos
+Ó Deus, que nos alegras com o festival anual de Teus Mártires N. e N., concede ~
+para que possamos ser inspirados pelo exemplo daqueles em cujos méritos nos regozijamos.
+$Per Dominum
+
+[Oratio1]: Dos Bispos Mártires
+Que a festa dos bem-aventurados Mártires e Bispos N. e N. nos proteja, Senhor, ~
+nós te suplicamos, e que sua santa oração nos recomende a ti.
+$Per Dominum
+
+[Lectio]
+Lição da carta de São Paulo Apóstolo aos Judeus
+!Heb 10:32 - 38.
+Irmãos: Lembrem-se dos dias passados, nos quais, depois de terem sido iluminados, vocês suportaram um grande conflito de sofrimentos; em parte por se tornar um espetáculo público por meio de censuras e tribulações, e em parte por fazer causa comum com aqueles que assim passaram. Pois vocês dois tiveram compaixão dos que estão na prisão e aceitaram com alegria o saque de seus próprios bens, sabendo que possuem uma posse melhor e duradoura. Não perca, portanto, a confiança, que traz uma grande recompensa. Pois vocês precisam de paciência para que, fazendo a vontade de Deus, possam receber a promessa: Porque ainda muito pouco tempo, e Aquele que há de vir virá, e não tardará. Agora o Meu único vive pela fé.
+
+[Graduale]
+!Ps 39:18-19
+Quando os justos clamam, o Senhor os ouve e, apesar de toda a sua angústia, Ele ~
+os resgata.
+V. O Senhor está perto dos contritos de coração; e aqueles que são ~
+humilde de espírito Ele salva. Aleluia, aleluia.
+V. O exército de mártires vestidos de branco Te louva, ó Senhor. Aleluia.
+
+[Tractus]
+!Ps 39:18-19
+Quando os justos clamam, o Senhor os ouve e, apesar de toda a sua angústia, Ele ~
+os resgata.
+V. O Senhor está perto dos contritos de coração; e aqueles que são ~
+humilde de espírito Ele salva.
+!Ps 125:5-6
+Aqueles que semeiam em lágrimas colherão com alegria. V} Embora saiam chorando, carregando a semente a ser semeada.
+V. Eles voltarão alegres, carregando seus molhos.
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo Lucas
+!Luke 12:1 - 8.
+Naquele tempo, disse Jesus aos seus discípulos: Guardai-vos do fermento dos fariseus.
+o que é hipocrisia. Mas não há nada oculto que não seja divulgado, ~
+e nada oculto que não seja divulgado. Pelo que você disse em ~
+as trevas serão ditas na luz; e o que você sussurrou no interior ~
+câmaras serão pregadas nos telhados. Mas eu digo a vocês, meus amigos: não ~
+tenha medo daqueles que matam o corpo, e depois disso não têm mais nada do que eles ~
+pode fazer. Mas eu lhe mostrarei de quem você terá medo; tenha medo daquele que, ~
+depois que Ele matou, tem poder para lançar no inferno. Sim, eu digo a você, tenha medo ~
+Dele. Não se vendem cinco pardais por dois centavos? E ainda assim nenhum deles ~
+é esquecido diante de Deus. Sim, até os cabelos da sua cabeça estão todos numerados.~
+Portanto, não tenha medo, você vale mais do que muitos pardais. E eu digo ~
+para vós, todo aquele que Me reconhece diante dos homens, esse também será o Filho do Homem.
+reconhecer diante dos anjos de Deus.
+
+[Offertorium]
+!Wis 3:1 - 3.
+As almas dos justos estão nas mãos de Deus e nenhum tormento as atingirá.
+Eles pareciam, aos olhos dos tolos, estar mortos: mas estão em ~
+paz, aleluia.
+(sed post Septuagesimam dicitur)
+paz.
+
+[Secreta]: Dos Mártires, não dos Bispos
+Seja apaziguado pelos dons que lhe oferecemos, ó Senhor, e pela intercessão de ~
+Seus santos Mártires N. e N., protejam-nos de todos os perigos.
+$Per Dominum
+
+[Secreta1]: Dos Bispos Mártires
+Olhe com favor, ó Senhor, para nossas humildes orações que oferecemos em ~
+comemoração dos Teus Santos, para que nós, que não confiamos nos nossos ~
+justiça, pode ser ajudada pelos méritos daqueles que têm agradado a ~
+Você.
+$Per Dominum
+
+[Communio]
+!Matt 10:27
+O que eu te digo nas trevas, diga-o na luz, diz o Senhor; e o que você ~
+ouça sussurros, pregue nos telhados.
+
+[Postcommunio]: Dos Mártires, não dos Bispos
+Que esta Comunhão, ó Senhor, nos purifique do pecado e, pela intercessão de ~
+Seus santos Mártires N. e N., tornem-nos participantes da salvação celestial.
+$Per Dominum
+
+[Postcommunio1]: Dos Bispos Mártires
+Cheios do sacramento da salvação, rogamos-te, Senhor, que sejamos~
+ajudado pelas orações daqueles cuja festa celebramos.
+$Per Dominum

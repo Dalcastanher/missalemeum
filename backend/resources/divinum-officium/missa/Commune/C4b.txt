@@ -1,0 +1,76 @@
+[Name]
+Comuna Summorum Pontificum; Si diligis
+
+[Rule]
+Prefácio = Apostolis
+
+[Introitus]
+!John 21:15-17
+v. Se você me ama, Simão Pedro, alimente meus cordeiros, alimente minhas ovelhas.
+!Ps 29:2
+v. Eu te exaltarei, ó Senhor, porque me sustentaste e não fizeste com que os meus inimigos se alegrassem por mim.
+&Gloria
+v. Se você me ama, Simão Pedro, alimente meus cordeiros, alimente minhas ovelhas.
+
+[Oratio]
+Olha com perdão para o teu rebanho, Pastor Eterno, e guarda-o na tua constante proteção, pela intercessão do bem-aventurado N. teu (Mártir e) Soberano Pontífice, a quem constituiste Pastor de toda a Igreja.
+$Per Dominum
+
+[Oratio1]
+Ó Deus, que resgatas a tua Igreja, construída sobre a sólida rocha apostólica, do terror das portas do inferno, concede, oramos, que através da intercessão do bem-aventurado N. (teu mártir e) Sumo Pontífice, ela possa continuar na tua verdade e possa ser fortalecida pela segurança contínua.
+$Per Dominum
+
+[Oratio91]
+Olha com perdão para o teu rebanho, Pastor Eterno, e guarda-o na tua proteção constante, pela intercessão dos bem-aventurados N. e N. teus (Mártires e) Soberanos Pontífices, a quem constituiste Pastores de toda a Igreja.
+$Per Dominum
+
+[Lectio]
+Lição da primeira carta de São Pedro Apóstolo
+!1 Pet 5:1-4; 5:10-11.
+Amados irmãos: Rogo-vos, pois, aos antigos que estão entre vós, que também sou um ancião e uma testemunha dos sofrimentos de Cristo: como também um participante daquela glória que será revelada no tempo por vir: Apascentai o rebanho de Deus que está entre vós, cuidando dele, não por constrangimento, mas de boa vontade, segundo Deus: não por torpe lucro, mas voluntariamente: Nem como dominando sobre o clero, mas sendo feito um modelo do rebanho de coração. E quando o príncipe dos pastores aparecer, você receberá uma coroa de glória que nunca desaparece. Mas o Deus de toda a graça, que nos chamou para a sua glória eterna em Cristo Jesus, depois de teres sofrido um pouco, ele mesmo te aperfeiçoará, e te confirmará, e te estabelecerá. A ele seja a glória e o império para todo o sempre. Amém.
+
+[Graduale]
+!Ps 106:32; 106:31
+v. E exaltem-no na igreja do povo: e louvem-no na cátedra dos antigos.
+V. Que as misericórdias do Senhor lhe dêem glória, e suas maravilhas aos filhos dos homens. Aleléja, aleléja
+!Matt 16:18
+v. E eu te digo: Que tu és Pedro; e sobre esta pedra edificarei a minha igreja, Alelíja.
+
+[Tractus]
+!Ps 106:32; 106:31
+v. E exaltem-no na igreja do povo: e louvem-no na cátedra dos antigos.
+V. Que as misericórdias do Senhor lhe dêem glória, e suas maravilhas aos filhos dos homens.
+!Ps 39:10-11
+v. Eu declarei a tua justiça em uma grande igreja, eis que não restringirei meus lábios: Ó Senhor, tu o sabes. 
+V. Não escondi a tua justiça dentro do meu coração: declarei a tua verdade e a tua salvação.
+V. Não escondi a tua misericórdia e a tua verdade de um grande conselho.
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo Mateus
+!Matt 16:13-19
+v. Naquele tempo: Jesus chegou aos bairros de Cesaréia de Filipe: e perguntou aos seus discípulos, dizendo: Quem dizem os homens ser o Filho do homem? Mas eles disseram: Alguns João Batista, e outros alguns Elias, e outros Jeremias, ou um dos profetas. Jesus lhes disse: Mas vós, quem dizeis que eu sou? Simão Pedro respondeu e disse: Tu és Cristo, o Filho do Deus vivo. E Jesus, respondendo, disse-lhe: Bem-aventurado és tu, Simão Bar-Jonas, porque não foi carne e sangue que to revelou, mas meu Pai que está nos céus. E eu te digo: que tu és Pedro; e sobre esta pedra edificarei a minha igreja, e as portas do inferno não prevalecerão contra ela. E eu te darei as chaves do reino dos céus. E tudo o que ligares na terra, será ligado também nos céus; e tudo o que desligares na terra, será desligado também nos céus.
+
+[Offertorium]
+!Jer 1:9-10
+v. Eis que coloquei as minhas palavras na tua boca: Eis que te coloquei sobre as nações e sobre os reinos, para arrancares, e derrubares, e para devastares, e para destruires, e para edificares, e para plantares.
+
+[Secreta]
+Pelas dádivas oferecidas, suplicamos-te, ó Senhor, que gentilmente ilumine a tua Igreja, para que o teu rebanho possa progredir e prosperar em todos os lugares, e os teus pastores, sob a tua orientação, possam agradar ao teu nome.
+$Per Dominum
+
+[Secreta1]
+Por tua bondade, ó Senhor, recebe os dons que te oferecemos com alegria e concede, pela intercessão do bem-aventurado N., que a tua Igreja possa regozijar-se na solidez da fé e sempre se alegrar com dias de paz.
+$Per Dominum
+
+[Communio]
+!Matt 16:18
+v. Tu és Pedro; e sobre esta pedra edificarei a minha igreja, e as portas do inferno não prevalecerão contra ela.
+
+[Postcommunio]
+Estando apaziguado, ó Senhor, guia a tua Igreja, que foi nutrida pelo santo refrigério, para que, sob a tua direção e governo poderoso, ela possa receber aumento de liberdade e continuar na integridade religiosa.
+$Per Dominum
+
+[Postcommunio1]
+Multiplica, nós te suplicamos, ó Senhor, na tua Igreja o espírito de graça que concedeste, para que por intercessão do bem-aventurado N. (teu mártir e) Sumo Pontífice, a obediência do rebanho não falte ao pastor, nem o cuidado do pastor falte ao rebanho.
+$Per Dominum
+

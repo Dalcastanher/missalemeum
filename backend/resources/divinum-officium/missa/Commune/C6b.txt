@@ -1,0 +1,59 @@
+[Name]
+Comuna Virginum tantum; Dilexistas
+
+[Rule]
+Prefácio = Virginis
+
+[Introitus]
+!Ps 44:8
+v. Amaste a justiça e odiaste a iniqüidade; por isso Deus, teu Deus, te ungiu com óleo de alegria mais do que a teus companheiros.
+!Ps 44:2
+v. Meu coração pronunciou uma boa palavra. Falo minhas obras ao rei; 
+&Gloria
+v. Amaste a justiça e odiaste a iniqüidade; por isso Deus, teu Deus, te ungiu com óleo de alegria mais do que a teus companheiros.
+
+[Oratio]
+Ouve-nos, ó Deus, nosso Salvador, para que, assim como nos alegramos com a festa da bem-aventurada N. tua virgem, possamos aprender com ela piedade e devoção.
+$Per Dominum
+
+[Lectio]
+Lição da segunda carta do Apóstolo São Paulo aos Coríntios
+!2 Cor 10:17-18; 11:1-2
+v. Irmãos: Quem se gloria, glorie-se no Senhor. Porque não é aprovado aquele que a si mesmo se recomenda, mas aquele a quem Deus recomenda. Oxalá você pudesse suportar um pouco da minha loucura: mas tenha paciência comigo. Pois tenho ciúme de você com o ciúme de Deus. Pois eu te desposei com um só marido para poder apresentá-la como uma virgem casta a Cristo.
+
+[Graduale]
+!Ps 44:5
+v. Com a tua formosura e a tua beleza expostas, prossiga com prosperidade e reine. Por causa da verdade, da mansidão e da justiça; e a tua destra te conduzirá maravilhosamente. Aleluia, aleluia.
+!Ps 44:15-16
+v. Depois dela as virgens serão trazidas ao rei: Elas serão trazidas com alegria e regozijo: Aleluia.
+
+[Tractus]
+!Ps 44:5
+v. Com a tua formosura e a tua beleza expostas, prossiga com prosperidade e reine. Por causa da verdade, da mansidão e da justiça; e a tua destra te conduzirá maravilhosamente.
+!Ps 44:11-12
+v. Ouve, ó filha, e vê, e inclina o teu ouvido: E o rei desejará muito a tua formosura; 
+!Ps 44:13; 44:10
+v. Todos os ricos do povo suplicarão o teu semblante. as filhas dos reis te deleitaram na tua glória. 
+!Ps 44:15-16
+v. Depois dela serão trazidas virgens ao rei: seus vizinhos serão trazidos a ti. Eles serão trazidos com alegria e regozijo; serão levados ao templo do rei.
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo Mateus
+!Matt 25:1-13
+v. Naquele tempo Jesus disse ao povo: será o reino dos céus semelhante a dez virgens, que tomando as suas lâmpadas saíram ao encontro do noivo e da noiva. E cinco deles eram tolos e cinco sábios. Mas as cinco néscias, tomando as suas lâmpadas, não levaram azeite consigo; mas as prudentes levaram azeite nos seus vasos, junto com as lâmpadas. E o noivo demorando, todos cochilaram e dormiram. E à meia-noite ouviu-se um grito: Eis que vem o noivo, saí ao seu encontro. Então todas aquelas virgens se levantaram e acenderam suas lâmpadas. E as néscias disseram às prudentes: Dai-nos do vosso azeite, porque as nossas lâmpadas estão apagadas. Os sábios responderam, dizendo: Para que não haja o suficiente para nós e para vocês, ide antes aos que vendem e comprai para vós. Ora, enquanto iam comprar, chegou o noivo; e as que estavam preparadas entraram com ele para as bodas, e a porta foi fechada. Mas por fim vieram também as outras virgens, dizendo: Senhor, Senhor, abre-nos. Mas ele, respondendo, disse: Em verdade, eu te digo, não te conheço. Vigiai, pois, porque não sabeis o dia nem a hora.
+
+[Offertorium]
+!Ps 44:10
+v. As filhas dos reis te deleitaram na tua glória. A rainha estava à tua direita, com roupas douradas; rodeado de variedade.
+
+[Secreta]
+Que o serviço do teu povo santo seja aceitável para ti, ó Senhor, e honroso para os teus santos, por cujos méritos sabemos que recebemos ajuda nas dificuldades.
+$Per Dominum
+
+[Communio]
+!Matt 25:4; 25:6
+v. As cinco virgens prudentes levaram óleo em seus vasos junto com as lâmpadas. E à meia-noite ouviu-se um grito: Eis que vem o noivo, saí ao seu encontro.
+
+[Postcommunio]
+Tu alimentaste os teus servos, ó Senhor, com os presentes sagrados; conforte-nos sempre que oramos, por sua intercessão cuja festa celebramos.
+$Per Dominum

@@ -1,0 +1,48 @@
+[Name]
+Comuna Confessoris Pontificis Tempore Paschali
+
+[Rule]
+
+[Introitus]
+!Sir 45:30
+v. O Senhor fez com ele uma aliança de amizade e fez dele um príncipe; que ele deveria possuir a dignidade do sacerdócio para sempre. Aleluia, aleluia. 
+!Ps. 131:1
+Lembra-te, Senhor, de David e de toda a sua mansidão. 
+&Gloria
+v. O Senhor fez com ele uma aliança de amizade e fez dele um príncipe; que ele deveria possuir a dignidade do sacerdócio para sempre. Aleluia, aleluia. 
+
+[Oratio]
+Conceda, nós te pedimos, Deus Todo-Poderoso, que a venerável festa do Teu bendito Confessor e Bispo aumente a nossa devoção e promova a nossa salvação. 
+$Per DominumThrough our Lord.
+
+[Lectio]
+Lição do livro de Eclesiástico
+!Sir 44:16-27 45:3-20.
+Eis um grande sacerdote, que nos seus dias agradou a Deus e foi considerado justo; e no tempo da ira ele foi reconciliado.  Não foi encontrado igual àquele que guardava a lei do Altíssimo. Portanto, por juramento, o Senhor o fez crescer entre o seu povo. Ele deu-lhe a bênção de todas as nações e confirmou Sua aliança sobre sua cabeça. Ele o reconheceu em Suas bênçãos; Ele preservou para ele Sua misericórdia; e ele encontrou graça diante dos olhos do Senhor. Ele o glorificou diante dos reis e lhe deu uma coroa de glória. Fez com ele um convênio eterno e deu-lhe um grande sacerdócio; e o fez abençoado em glória. Para executar o ofício do sacerdócio, e receber louvor em Seu nome, e oferecer-Lhe um incenso digno de cheiro suave.
+
+[Graduale]
+Aleluia, aleluia. 
+!Ps. 109:4
+Você é sacerdote para sempre, segundo a ordem de Melquisedeque. Aleluia. 
+V. Este é o sacerdote que o Senhor coroou. Aleluia. 
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo Mateus
+!Matt 25:14-23
+Naquele tempo, Jesus contou esta parábola aos seus discípulos: Um homem, indo para o estrangeiro, chamou os seus servos e entregou-lhes os seus bens. E a um deu cinco talentos, a outro dois, e a outro um, a cada um segundo a sua capacidade particular, e depois seguiu viagem. E o que recebera cinco talentos foi negociar com eles e ganhou mais cinco. Da mesma forma, aquele que recebeu os dois ganhou mais dois. Mas aquele que recebera aquele foi e cavou na terra e escondeu o dinheiro do seu senhor. Então, depois de muito tempo, o senhor daqueles servos veio e acertou contas com eles. E veio o que recebera os cinco talentos e trouxe outros cinco talentos, dizendo: Mestre, entregaste-me cinco talentos; eis que ganhei ainda outros cinco.” Disse-lhe o seu senhor: “Muito bem, servo bom e fiel; porque foste fiel no pouco, sobre muito te colocarei; entra no gozo do teu senhor. E chegou também aquele que recebera os dois talentos e disse: Mestre, entregaste-me dois talentos; eis que ganhei mais dois. Disse-lhe o seu senhor: Muito bem, servo bom e fiel; porque foste fiel no pouco, sobre muito te colocarei; entre na alegria do seu mestre.�
+
+[Offertorium]
+!Ps 88:21-22
+Encontrei Davi, meu servo; com o meu santo óleo o ungi, para que a minha mão esteja sempre com ele, e para que o meu braço o fortaleça. Aleluia, aleluia.
+
+[Secreta]
+Que os Teus Santos, Senhor, te suplicamos, nos alegrem em todos os lugares: para que, enquanto refletimos sobre os seus méritos, possamos desfrutar da sua ajuda. 
+$Per Dominum
+
+[Communio]
+!Luke 12:42
+O servo fiel e prudente a quem o senhor colocará sobre sua casa para dar-lhes sua ração de grãos no devido tempo. Aleluia, aleluia.
+
+[Postcommunio]
+Conceda, nós te pedimos, Deus todo-poderoso, que ao agradecer-te pelos favores que recebemos, possamos, pela intercessão do bem-aventurado N., teu confessor e bispo, obter bênçãos ainda maiores. 
+$Per Dominum

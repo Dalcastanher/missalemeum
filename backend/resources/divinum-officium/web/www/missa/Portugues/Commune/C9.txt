@@ -1,0 +1,160 @@
+[Name]
+Missa Defunctorum quotidianis
+
+[Rule]
+não, Glória
+sem Credo
+Prefácio=Defunctorum
+Sequência
+
+[Introitus]
+!4 Esd. 2:34-35.
+v. Dê-lhes descanso eterno, ó Senhor; e deixe a luz perpétua brilhar sobre eles.
+!Ps 64:2-3
+A Ti devemos nosso hino de louvor, ó Deus, em Sião; para você deve os votos serem cumpridos ~
+em Jerusalém. Ouça minha oração; a Ti toda a carne deve vir.
+v. Dê-lhes descanso eterno, ó Senhor; e deixe a luz perpétua brilhar sobre eles.
+
+[Oratio]
+Ó Deus, Criador e Redentor de todos os fiéis, concede às almas dos Teus ~
+servos e servas a remissão de todos os seus pecados, que através de orações amorosas ~
+eles podem obter o perdão que sempre desejaram.
+$Qui vivis
+
+[Lectio]
+Lição do livro de Apocalipse
+!Apoc 14:13.
+Naqueles dias ouvi uma voz do céu que dizia: Escreve: Bem-aventurados os mortos que doravante morrem no Senhor. Sim, diz o Espírito, deixe-os descansar de seus trabalhos, pois suas obras os acompanham.
+
+[Graduale]
+!4 Esd. 2:34 - 35.
+Dá-lhes o descanso eterno, Senhor; e deixe a luz perpétua brilhar sobre eles.
+!Ps 111:7
+O justo terá lembrança eterna; um mau relatório ele não deve ~
+temer.
+_
+!Tractus
+Ó Senhor, absolve as almas de todos os fiéis que se afastaram de todos os laços do pecado.
+V. E com a ajuda de Tua graça que eles sejam dignos de escapar da sentença de ~
+vingança.
+V. E desfrutar de toda a bem-aventurança da luz eterna.
+
+[Sequentia]
+Dia temido, aquele dia de ira,
+Quando o mundo derreter no fogo,
+Contado pela lira de Sibyl e David.
+_
+Os corações dos homens assustados mudarão rudemente,
+Como o juiz através de uma fenda brilhante
+Vem cada alma peneirar de perto.
+_
+Então, o refrão estridente da trombeta,
+Perfurando tumbas por colinas e planícies,
+As almas serão julgadas.
+_
+A morte e a natureza ficam horrorizadas,
+À medida que os corpos sobem rapidamente,
+Olá para ouvir a sentença proferida.
+_
+Então, diante Dele será colocado,
+Aquilo em que o veredicto se baseia,
+Livro onde está traçada cada escritura.
+_
+Quando o juiz ganhar seu lugar,
+Tudo o que está oculto ficará claro,
+Nada permanecerá sem julgamento.
+_
+Homem miserável, o que posso implorar?
+A quem pedir para interceder,
+Quando a necessidade de muita misericórdia?
+_
+Você, ó Senhor inspirador,
+Salvando mesmo quando não explorado,
+Salve-me, fonte de misericórdia adorada.
+_
+Ó doce Jesus, esteja atento,
+Que você veio à terra por mim:
+Não me lance longe de você hoje.
+_
+Procurando por mim Sua força foi gasta
+Resgatando Seus membros foram dilacerados:
+Este trabalho é sem intenção?
+_
+Você, concedendo dores condignas,
+Os ouvidos da Misericórdia se inclinam para mim,
+Antes do acerto de contas você atribui.
+_
+Eu, como um criminoso, lamento,
+Bochechas inchadas minha vergonha revela:
+Deus! Ó, deixe minha oração prevalecer.
+_
+A alma de Maria Você moldou o branco,
+E fez para o céu o ladrão convidar;
+Espero em mim que isso agora excite.
+_
+Minhas orações ascendem em vão:
+Você é bom e vai defender,
+Em fogo inextinguível minha vida terminará.
+_
+Quando os amaldiçoados pela vergonha oprimem,
+Entre nas chamas a seu comando,
+Me chame então para me juntar aos bem-aventurados.
+_
+Coloque em meio ao seu acordo de ovelhas,
+Mantenha-me longe da horda contaminada,
+Coloque-me à sua vista, ó Senhor.
+_
+Prostrado, suplicante, agora não mais
+Implacável, como antigamente,
+Salve-me de morrer, eu imploro.
+_
+Dia triste naquele dia de suspiros,
+Quando do pó o homem surgir,
+Manchado de culpa, seu destino é saber,
+_
+Misericórdia, Senhor, conceda-lhe.
+Jesus, gentil! Suas almas se libertam,
+Conduziu-os daí para reinos de paz.
+Amém.
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo João
+!John 6:51-55.
+Naquele tempo, Jesus disse às multidões de judeus: Eu sou o pão vivo.
+que desceu do céu. Se alguém comer deste pão viverá~
+para sempre; e o pão que darei é a Minha Carne para a vida do mundo.~
+Os judeus, por causa disso, discutiram entre si, dizendo: Como pode este homem dar?
+nos dá Sua Carne para comer? Disse-lhes, pois, Jesus: Amém, em verdade vos digo:
+a menos que você coma a Carne do Filho do Homem e beba Seu Sangue, você não
+tenha vida em você. Quem come a Minha Carne e bebe o Meu Sangue tem a vida eterna~
+e eu o ressuscitarei no último dia.
+
+[Offertorium]
+Ó Senhor, Jesus Cristo, Rei da glória, livrai as almas de todos os ~
+os fiéis partiram das dores do inferno e do abismo; entregá-los do ~
+boca do leão, para que o inferno não os engula, nem caiam nas trevas, mas que ~
+Miguel, o santo porta-estandarte, traga-os para a luz sagrada * que você ~
+uma vez prometido a Abraão e sua semente.
+V. Oferecemos-te, Senhor, sacrifícios e orações de louvor; aceite-os por aqueles ~
+almas que hoje homenageamos; concede-lhes, ó Senhor, que passem da morte para ~
+a vida * que uma vez prometeste a Abraão e à sua descendência.
+
+[Secreta]
+Olha misericordiosamente, nós te suplicamos, ó Senhor, para os dons sacrificiais que te oferecemos.
+pelas almas dos Teus servos e servas; e já que você deu a eles ~
+mérito da fé cristã, conceda-lhes também a sua recompensa.
+$Per Dominum
+
+[Communio]
+!4 Esdr 2:35; 2:34
+Que a luz eterna brilhe sobre eles, ó Senhor, com Teus Santos para sempre, pois Tu és ~
+tipo.
+V. Conceda-lhes o descanso eterno, ó Senhor; e deixe a luz perpétua brilhar sobre eles: ~
+com Teus Santos para sempre, pois Tu és bondoso.
+
+[Postcommunio]
+Que as orações de Teus suplicantes sejam úteis às almas de Teus servos e ~
+servas, nós te suplicamos, Senhor, que as libertes de todo pecado e faças ~
+eles são participantes da Tua redenção.
+$Qui vivis
+

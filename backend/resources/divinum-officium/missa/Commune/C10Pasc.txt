@@ -1,0 +1,61 @@
+[Name]
+Sancta Maria Sabbato Tempore Paschali; Salve Sancta parens
+
+[Rule]
+Glória
+Suffr=Spiritu;;Ecclesiae,Papa
+Prefácio=Maria=Festa;
+
+[Introitus]
+!Sedelius
+v. Salve, Santo Pai, que trouxeste o Rei, que governa o céu e a terra para sempre, allelāja, allelāja.
+!Ps 44:2
+v. Meu coração pronunciou uma boa palavra. Falo minhas obras ao rei; Minha língua é a caneta de um escrivão que escreve rapidamente.
+&Gloria
+v. Salve, Santo Pai, que trouxeste o Rei, que governa o céu e a terra para sempre, allelāja, allelāja.
+
+[Oratio]
+Conceda, nós te pedimos, ó Senhor Deus, a todos os teus servos, que eles possam permanecer ~
+continuamente no gozo da saúde da mente e do corpo, e pelo ~
+gloriosa intercessão de Maria Santíssima, sempre Virgem, seja entregue ~
+da tristeza presente e entre na alegria da tua alegria eterna.
+$Per Dominum
+
+[Oratio1]
+Conc�de nos f�mulos tuos, qu�sumus, D�mine Deus, perp�tua mentis et~
+c�rporis sanit�te gaud�re: et, glori�sa be�t� Mar�� sempre V�rginis~
+intercessi�na, a pr�s�nti liber�ri trist�tia et �t�rna p�rfrui l�t�tia.
+$Per Dominum
+
+[Lectio]
+Lição do livro de Eclesiástico
+!Sir 24:14-16
+v. Desde o princípio e antes do mundo fui criado, e no mundo vindouro não deixarei de existir, e na morada sagrada ministrei diante dele. E assim fui estabelecido em Sião, e na cidade santa também descansei, e meu poder estava em Jerusalém. E criei raízes num povo honrado, e na porção de mg Deus sua herança, e minha morada é na plena assembléia dos santos.
+
+[Graduale]
+Aleléja, aleléja
+!Num 17:8
+v. A vara de Jessé floresceu, a virgem deu à luz Deus e o homem: Deus restaurou a paz, reconciliando em si mesmo o mais baixo com o mais alto, aleluia.
+!Luke 1:28
+v. Salve, cheia de graça, o Senhor é contigo: bendita és tu entre as mulheres. Alelíja.
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo João
+!John 19:25-27
+v. Agora estavam perto da cruz de Jesus, sua mãe e a irmã de sua mãe, Maria de Cléofas, e Maria Madalena. Vendo, pois, Jesus a sua mãe e o discípulo que ele amava, disse à sua mãe: Mulher, eis o teu filho. Depois disso, ele disse ao discípulo: Eis aí tua mãe. E a partir daquela hora o discípulo a levou para sua casa.
+
+[Offertorium]
+!  
+Bendita és tu, ó Virgem Maria, que deste à luz o Criador de todas as coisas, tu trouxeste quem te fez, e permaneceste virgem para sempre. Aleluia.
+
+[Secreta]
+Pela tua misericórdia, Senhor, por intercessão da bem-aventurada Maria, sempre Virgem, que esta oferta nos obtenha bem-estar e paz, agora e para sempre
+$Per Dominum
+
+[Communio]
+!  
+Bendito o ventre da Virgem Maria, que deu à luz o Filho do Pai Eterno, aleluia.
+
+[Postcommunio]
+Concede, ó Senhor, que nós, que participamos das ajudas da salvação, possamos ser defendidos em todos os lugares pela intercessão da Bem-Aventurada Maria sempre Virgem, em cuja honra oferecemos estes presentes à tua majestade.
+$Per D�minum

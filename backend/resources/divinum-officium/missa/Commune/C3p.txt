@@ -1,0 +1,92 @@
+[Name]
+Commune plurimorum Martyrum Tempore Paschali; Protextisti
+
+[Rule]
+
+[Introitus]
+!Ps 63:3
+v. Tu me protegeste da assembléia dos malignos, aleluia; da multidão dos que praticam a iniqüidade, aleluia, aleluia.
+!Ps. 63:2
+Ouve, ó Deus, a minha oração, quando te faço súplica: livra a minha alma do medo do inimigo.
+&Gloria
+v. Tu me protegeste da assembléia dos malignos, aleluia; da multidão dos que praticam a iniqüidade, aleluia, aleluia.
+
+[Oratio]
+Considere misericordiosamente nossa fraqueza, ó Deus Todo-Poderoso, e considerando que pelo fardo de ~
+nossos pecados estamos doloridos, deixe N. seu Mártir ter misericórdia de nos livrar de ~
+todas as coisas que podem ferir nossos corpos, e de todos os maus pensamentos que podem ~
+contaminar nossas almas.
+$Per Dominum.
+
+[Oratio1]
+Ó Deus, que nos alegras pela solenidade anual do bem-aventurado N. Teu mártir e bispo, concede misericordiosamente que possamos nos alegrar com sua proteção cujo aniversário celebramos.
+$Per Dominum.
+
+[Oratio2]
+Conceda-nos, suplicamos ao Deus Todo-Poderoso, que nós que celebramos o martírio de ~
+bem-aventurado N., por sua intercessão seja fortalecido em seu amor.
+$Per Dominum.
+
+[Oratio3]
+Considere misericordiosamente nossa fraqueza, ó Deus Todo-Poderoso, e considerando que pelo fardo de ~
+nossos pecados estamos doloridos, deixe N. seu Mártir ter misericórdia de nos livrar de ~
+todas as coisas que podem ferir nossos corpos, e de todos os maus pensamentos que podem ~
+contaminar nossas almas.
+$Per Dominum.
+
+[Lectio]
+Lição do livro da Sabedoria
+!Wis 5:1-5
+Então os justos resistirão com grande constância contra aqueles que os afligiram e tiraram seus trabalhos. Estes, vendo isso, ficarão perturbados por um medo terrível e ficarão surpresos com a rapidez de sua salvação inesperada. Dizendo consigo mesmos, arrependendo-se e gemendo de angústia de espírito: Estes são eles, de quem por algum tempo zombamos e por uma parábola de reprovação. Nós, tolos, considerávamos sua vida uma loucura e seu fim sem honra. Veja como eles são contados entre os filhos de Deus, e sua sorte está entre os santos. 
+
+[Graduale]
+Allelàja, allelàja.
+!Ps 88:6.
+Os céus confessarão as tuas maravilhas, ó Senhor, e a tua verdade na igreja dos santos. Aleluia.
+!Ps 20:4
+Pois tu o preveniste com bênçãos de doçura; puseste em sua cabeça uma coroa de pedras preciosas. Aleluia.
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo João
+!John 15:1-7
+Naquele tempo, Jesus disse aos seus discípulos: Eu sou a videira verdadeira; e meu Pai é o lavrador. Todo ramo em mim que não dá fruto, ele o tirará; e todo o que dá fruto, ele o limpará, para que dê mais fruto. Agora você está limpo pela palavra que eu lhe falei. Permaneça em mim e eu em você. Assim como o ramo não pode dar fruto por si mesmo, se não permanecer na videira, assim também vocês não podem dar fruto, se não permanecerem em mim. Eu sou a videira, vocês, os ramos; quem permanece em mim, e eu nele, esse dá muito fruto; porque sem mim nada podeis fazer. Se alguém não permanecer em mim, será lançado fora como um ramo, e secará; e colhê-lo-ão, e lançá-lo-ão no fogo, e arderá. Se você permanecer em mim, e minhas palavras permanecerem em você, você pedirá tudo o que quiser, e isso será feito a você.
+
+[Offertorium]
+!Ps 88:6 
+Os céus confessarão as tuas maravilhas, Senhor, e a tua verdade na igreja dos santos, aleluia, aleluia.
+
+[Secreta]
+Ó Senhor, aceita graciosamente as ofertas consagradas a Ti, através dos méritos de Teu abençoado Mártir e Pontífice, N.: e concede que elas possam ser para nós uma fonte permanente de ajuda.
+$Per Dominum.
+
+[Secreta1]
+Santifica, ó Senhor, as ofertas consagradas a Ti, e apaziguadas pela intercessão do bem-aventurado Blaise, Teu mártir e bispo, e da mesma forma por este sacrifício, olha favoravelmente para nós.
+$Per Dominum.
+
+[Secreta2]
+Como recebeste nossas dádivas e orações, ó Senhor, purifica-nos, pedimos por teus mistérios celestiais e ouve-nos graciosamente.
+$Per Dominum
+
+[Secreta3]
+Que a nossa oferta, ó Senhor, seja aceitável aos Teus olhos, e seja para nós uma ajuda para a salvação através das orações daqueles cuja festa é oferecida.
+$Per Dominum.
+
+[Communio]
+!Ps 63:11.
+Os justos se alegrarão no Senhor e nele esperarão; e todos os retos de coração serão louvados, aleluia, aleluia.
+
+[Postcommunio]
+Revigorados pela participação neste santo dom, suplicamos-Te, ó Senhor nosso Deus, que pela intercessão do bem-aventurado N. Teu mártir e bispo, possamos experimentar o efeito do culto que realizamos.
+$Per Dominum.
+
+[Postcommunio1]
+Que esta Comunhão, ó Senhor, nos purifique da culpa: e pela intercessão do bem-aventurado N. Teu mártir e bispo, faça-nos participantes do remédio celestial.
+$Per Dominum
+
+[Postcommunio2]
+Conceda, nós te suplicamos, ó nosso Deus, que nós, que no tempo prestamos alegres serviços em memória dos teus santos, possamos nos alegrar com sua companhia na eternidade.
+$Per Dominum
+
+[Postcommunio3]
+Tendo sido revigorados pela recepção de Teu dom sagrado, ó Senhor nosso Deus, que as orações de Teu abençoado mártir N. nos façam sentir o benefício do rito sagrado que realizamos.
+$Per Dominum

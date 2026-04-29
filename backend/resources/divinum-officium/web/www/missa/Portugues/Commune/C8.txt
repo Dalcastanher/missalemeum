@@ -1,0 +1,128 @@
+[Name]
+Missa Dedicatória Ecclesiae
+
+[Rule]
+Glória
+Credo
+Prefácio = Dedicação
+
+[Introitus]
+!Gen. 28:17.
+v. Quão incrível é este lugar! Esta não é outra senão a casa de Deus; isso é ~
+a porta do céu; e será chamada corte de Deus. (Aleluia, ~
+Aleluia.)
+!Ps 83:2-3
+Quão adorável é a tua morada, ó Senhor dos Exércitos! Minha alma anseia e anseia por ~
+os átrios do Senhor.
+&Gloria
+v. Quão incrível é este lugar! Esta não é outra senão a casa de Deus; isso é ~
+a porta do céu; e será chamada corte de Deus. (Aleluia, ~
+Aleluia.)
+
+[Oratio] Oração no aniversário da dedicação:
+Ó Deus, que para nós traz a cada ano a recorrência do dia de consagração deste ~
+Seu templo sagrado, e sempre nos traga de volta em segurança aos ritos sagrados, ouça o ~
+orações do Teu povo e concede que quem entrar neste templo ore por ~
+bênçãos, pode regozijar-se por ter obtido tudo o que buscava.
+$Per Dominum
+
+[Oratio1] Oração no dia da dedicação:
+Ó Deus, que sustenta invisivelmente todas as coisas, e ainda assim, para a salvação da humanidade, ~
+mostre visivelmente os sinais do Seu poder, ilumine este templo pelo poder do Seu ~
+presença residente, e conceda que todos os que aqui se reúnem para orar, possam obter o ~
+bênçãos de Seu apoio em quaisquer provações que eles possam invocar.
+$Per Dominum
+
+[Lectio]
+Lição do livro de Apocalipse
+!Rev 21:2-5
+Naqueles dias, vi a cidade santa, a Nova Jerusalém, que descia do céu, da parte de Deus, preparada como uma noiva adornada para o seu marido. E ouvi uma grande voz vinda do trono, que dizia: Eis a habitação de Deus com os homens, e Ele habitará com eles. E eles serão o Seu povo, e o próprio Deus estará com eles como o seu Deus. E Deus enxugará de seus olhos toda lágrima. E a morte não existirá mais; não haverá mais pranto, nem choro, nem dor, porque as coisas antigas já passaram. E Aquele que estava sentado no trono disse: Eis que faço novas todas as coisas!
+
+[Graduale]
+!  
+Este lugar foi feito por Deus, um mistério inestimável; é sem repreensão.
+V. Ó Deus, diante de Quem está o coro dos anjos, dá ouvidos às orações de ~
+Seus servos. Aleluia, aleluia.
+!Ps 137:2
+Adorarei no Teu santo templo e darei graças ao Teu nome. Aleluia.
+
+[Tractus]
+Este lugar foi feito por Deus, um mistério inestimável; é sem repreensão.
+V. Ó Deus, diante de Quem está o coro dos anjos, dá ouvidos às orações de ~
+Seus servos.
+!Ps. 124:1 - 2.
+Aqueles que confiam no Senhor são como o Monte Sinai, que é imóvel; que permanece para sempre.
+V. Montanhas circundam Jerusalém; então o Senhor está ao redor de Seu povo, agora e para sempre.
+
+[GradualeP]
+Aleluia, aleluia. Salmo 137:2
+V. Adorarei no Teu santo templo e darei graças ao Teu nome. Aleluia.
+V. A casa do Senhor está bem alicerçada sobre uma rocha firme. Aleluia.
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo Lucas
+!Luke 19:1-10
+Naquele tempo, Jesus entrou e estava passando por Jericó. E eis aí ~
+havia um homem chamado Zaqueu; e ele era um importante publicano e era rico. E ~
+ele estava tentando ver Jesus, quem Ele era, mas não conseguiu, por causa da multidão, ~
+porque ele era de baixa estatura. Então ele correu na frente e subiu em um ~
+sicômoro para vê-lo, pois Ele ia passar por ali. E quando Jesus veio ~
+ao lugar, ergueu os olhos e viu-o, e disse-lhe: Zaqueu, apressa-te.
+e desça; pois hoje devo ficar em sua casa. E ele se apressou e veio.
+desceu e o acolheu com alegria. E ao ver tudo isso começou a murmurar, dizendo: ~
+Ele foi hospedar-se com um homem pecador. Mas Zaqueu levantou-se e...
+disse ao Senhor: Eis, Senhor, que dou metade dos meus bens aos pobres, ~
+e se defraudei alguém em alguma coisa, restituo-o quatro vezes mais. Jesus disse para ~
+ele: Hoje a salvação chegou a esta casa, pois também ele é filho de Abraão.
+Pois o Filho do Homem veio buscar e salvar o que estava perdido.
+
+[Offertorium]
+!1 Par 29:17-18
+Ó Senhor Deus, na simplicidade do meu coração ofereci com alegria tudo isso ~
+coisas; e vi com grande alegria o Teu povo que está aqui presente: Ó Deus ~
+de Israel, guarde este testamento. (Aleluia.)
+
+[Secreta] 
+!Secret on the anniversary of the dedication in the church dedicated
+Olhe com favor para nossas orações, nós te imploramos, ó Senhor, que nós que somos ~
+reunidos dentro dos limites deste templo para celebrar o dia do aniversário ~
+de sua dedicação, possa agradá-lo com devoção plena e perfeita, possa agradá-lo ~
+com plena e perfeita devoção de corpo e alma, que agora oferecemos estes ~
+orações, podemos, com Sua ajuda, ser considerados dignos de alcançar a eternidade ~
+recompensas.
+$Per Dominum
+
+[Secreta2] 
+!Outside the dedicated church
+Olhe com favor para nossas orações, nós te imploramos, ó Senhor, que ao oferecermos nossos ~
+orações diante de Ti, podemos, com Sua ajuda, alcançar recompensas eternas.
+$Per Dominum
+
+[Secreta1] 
+!On the day of dedication
+Ó Deus, o criador das coisas dignas de sacrifício a Ti, derrama o Teu ~
+bênção sobre esta casa de oração, para que todos os que aqui invocam o Teu nome ~
+pode desfrutar do apoio de Sua proteção.
+$Per Dominum
+
+[Communio]
+!Matt. 21:13
+A minha casa será chamada casa de oração, diz o Senhor; nele todos que ~
+pede, recebe; e quem busca, encontra, e ao que bate, será aberto.
+
+[Postcommunio] 
+!On the anniversary of the dedication
+Ó Deus, que de pedras vivas e escolhidas preparas uma morada eterna para ~
+Sua Majestade, ajude Seu povo que Te invoca, para que quaisquer benefícios venham ~
+materialmente à Tua Igreja pode ser ainda maior através da sua extensão espiritual.
+$Per Dominum
+
+[Postcommunio]
+!On the day of dedication
+Suplicamos-te, Deus todo-poderoso, que neste lugar que nós, todos indignos, tenhamos~
+dedicado ao Seu nome, Você dará uma audiência favorável a todos os que solicitarem ~
+Você.
+$Per Dominum
+
+[ ]
+!In the Mass of Dedication in the act of the Consecration of the Church there is added, under a single conclusion, the prayer of the Mystery or Saint in whose honor the Church or the Oratory is consecrated, and no other commemoration is added, not even a privileged one. After the Solemn Blessing of a Church or Oratory, and after the consecration of the altar, there is said, as a Votive Mass of the Second Class, a Mass of the Mystery or Saint in whose honor the Church or Oratory is blessed or the altar consecrated.

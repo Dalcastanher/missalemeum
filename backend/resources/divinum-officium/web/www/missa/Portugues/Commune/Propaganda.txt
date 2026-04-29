@@ -1,0 +1,20 @@
+[Rank]
+Para a Propagação da Fé;;Duplex;;3
+
+[Classificação] (rubrica 1960)
+Para a Propagação da Fé;;Duplex II. classe;;5
+
+[Regra] (rubrica 1960)
+Conclusão sub única em comemoração
+
+[Oratio]
+Ó Deus, que desejas que todos os homens sejam salvos e cheguem ao conhecimento da verdade: envia, pedimos-te, trabalhadores para a tua colheita, e concede-lhes a graça de falar a tua palavra com toda a confiança, para que as tuas palavras possam correr e ser glorificadas, e que todas as nações possam conhecer a ti, o único Deus verdadeiro, e aquele a quem enviaste, Jesus Cristo, teu Filho, nosso Senhor.
+$Qui tecum
+
+[Secreta]
+Volta teus olhos, ó Deus, nosso protetor, e olha para a face de teu Cristo, que se entregou como resgate por todos, e concede que desde o nascer do sol até o pôr do sol teu nome seja grande entre os gentios, e que em todo lugar haja sacrifício e uma oblação limpa oferecida ao teu nome.
+$Per eundem
+
+[Postcommunio]
+Reavivados por este sacrifício expiatório, nós te rogamos, ó Senhor, que por meio desta ajuda para a salvação eterna a verdadeira Fé possa sempre avançar.
+$Per Dominum

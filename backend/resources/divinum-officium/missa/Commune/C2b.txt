@@ -1,0 +1,72 @@
+[Name]
+Comuna Unius Martyris Pontificis, Sacerdotes Dei
+
+[Rule]
+
+[Introitus]
+!Dan 3:84, 87.
+v. Sacerdotes do Senhor, bendizei o Senhor; homens santos de coração humilde, louvem a Deus.
+!Dan 3:57
+Abençoe o Senhor, todas as obras do Senhor, louvem e exaltem-no acima de tudo ~
+para sempre.
+&Gloria
+v. Sacerdotes do Senhor, bendizei o Senhor; homens santos de coração humilde, louvem a Deus.
+
+[Oratio]
+Ó Deus, que nos alegras com a festa anual do bem-aventurado N., Teu Mártir e ~
+Bispo, conceda misericordiosamente que, enquanto veneramos o aniversário do seu martírio, ~
+também podemos nos alegrar com sua proteção.
+$Per Dominum
+
+[Lectio]
+Lição da segunda carta do Apóstolo São Paulo aos Coríntios
+!2 Cor. 1:3-7
+Irmãos: Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e o Deus de todo conforto, que nos consola em todas as nossas aflições, para que também possamos consolar aqueles que estão em qualquer angústia, pelo conforto com que nós mesmos somos consolados por Deus. Pois assim como os sofrimentos de Cristo abundam em nós, também por meio de Cristo abunda o nosso conforto. Porque, se somos afligidos, é para sua instrução e salvação; ou se somos consolados, é para nosso conforto; o que mostra a sua eficácia na resistência aos mesmos sofrimentos que também sofremos. E a nossa esperança para vocês é inabalável, sabendo que assim como vocês são participantes dos sofrimentos, vocês também serão consolados, em Cristo Jesus, nosso Senhor.
+
+[Graduale]
+!Ps 8:6-7
+Você o coroou com glória e honra.
+V. Tu lhe deste domínio sobre as obras das tuas mãos, ó Senhor. Aleluia, ~
+Aleluia.
+V. Este é o sacerdote que o Senhor coroou. Aleluia.
+
+[Tractus]
+!Ps 8:6-7
+Você o coroou com glória e honra.
+V. Tu lhe deste domínio sobre as obras das tuas mãos, ó Senhor.
+!Ps 8:6-7
+Você o coroou com glória e honra.
+V. Tu lhe deste domínio sobre as obras das tuas mãos, ó Senhor.
+!Ps 111:1-3
+Feliz o homem que teme ao Senhor, que se deleita em Seus mandamentos.
+V. Sua posteridade será poderosa na terra; a geração justa será abençoada.
+V. Riqueza e riquezas estarão em sua casa; sua generosidade durará para sempre.
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo Mateus
+!Matt 16:24 - 27.
+Naquele tempo, disse Jesus aos seus discípulos: Se alguém quiser vir após mim, ~
+negue-se a si mesmo, tome a sua cruz e siga-me. Para quem iria ~
+salvar sua vida irá perdê-la; mas quem perder a vida por minha causa, achá-la-á.
+Pois que aproveita ao homem ganhar o mundo inteiro, mas sofrer a perda?
+de sua própria alma? Pois o Filho do Homem virá com Seus anjos na glória de ~
+Seu Pai, e então Ele retribuirá a todos de acordo com Sua conduta.
+
+[Offertorium]
+!Ps 88:21-22
+Encontrei Davi, meu servo; com Meu santo óleo eu o ungi, para que Meu ~
+a mão esteja sempre com ele, e que Meu braço o fortaleça.
+
+[Secreta]
+Santifica as ofertas dedicadas a Ti, ó Senhor, e pela intercessão de ~
+bem-aventurado N., seu mártir e bispo, olhe para nós com misericórdia por causa deles.
+$Per Dominum
+
+[Communio]
+!Ps 20:4
+Você colocou em sua cabeça, ó Senhor, uma coroa de ouro puro.
+
+[Postcommunio]
+Que esta Comunhão, ó Senhor, nos purifique do pecado, e através da intercessão de ~
+bem-aventurado N., vosso mártir e bispo, que nos torne participantes da cura celeste.
+$Per Dominum

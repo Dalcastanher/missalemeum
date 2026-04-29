@@ -1,0 +1,84 @@
+[Name]
+Sancta Maria Sabbato ex Nativitate ad Purificationem; Vultum tuum
+
+[Rule]
+Glória
+Suffr=Spiritu;;Ecclesiae,Papa
+Prefácio=Maria=Festa;
+
+[Introitus]
+!Ps 44:13 44:15-16.
+v. Todos os ricos do povo buscam o seu favor. Atrás dela as virgens dela ~
+trem são trazidos ao rei. Eles são levados a Ti com alegria e alegria.
+!Ps 44:2
+Meu coração transborda com um belo tema; enquanto canto minha ode ao Rei.
+&Gloria
+v. Todos os ricos do povo buscam o seu favor. Atrás dela as virgens dela ~
+trem são trazidos ao rei. Eles são levados a Ti com alegria e alegria.
+
+[Oratio]
+Ó Deus, que pela fecunda virgindade da bem-aventurada Maria, concedestes à humanidade ~
+a recompensa da salvação eterna, concede, nós te imploramos, que possamos desfrutar do ~
+intercessão daquela por quem fomos considerados dignos de receber entre nós ~
+o autor da vida, nosso Senhor Jesus Cristo, Teu Filho,
+$Qui tecum
+
+[Lectio]
+Lição da carta do Apóstolo São Paulo a Tito
+!Titus 3:4-7
+Amados: Quando a bondade e a bondade de Deus nosso Salvador apareceram, então não por causa das boas obras que nós mesmos fizemos, mas de acordo com a Sua misericórdia, Ele nos salvou através do banho de regeneração e renovação pelo Espírito Santo; O qual Ele derramou abundantemente sobre nós por meio de Jesus Cristo, nosso salvador, para que, justificados pela Sua graça, sejamos herdeiros no salto da eternidade, em Cristo Jesus, nosso Senhor.
+
+[Graduale]
+!Ps 44:3, 2.
+Mais formosos sois vós do que os filhos dos homens; graça é derramada sobre você ~
+lábios.
+V. Meu coração transborda com um belo tema; enquanto canto minha ode ao Rei, meu~
+a língua é ágil como a pena de um escriba habilidoso. Aleluia, aleluia.
+V. Depois do parto, você ainda permaneceu virgem inviolável: Ó Mãe de Deus, ~
+interceda por nós. Aleluia.
+
+[Tractus]
+!Ps 44:3, 2.
+Mais formosos sois vós do que os filhos dos homens; graça é derramada sobre você ~
+lábios.
+V. Meu coração transborda com um belo tema; enquanto canto minha ode ao Rei, meu~
+a língua é ágil como a pena de um escriba habilidoso. 
+!  
+Alegra-te, ó Virgem Maria; sozinho você pôs fim a todas as heresias.
+V. Você que acreditou nas palavras do Arcanjo Gabriel.
+V. Ainda virgem, você deu à luz Deus e o homem; e depois do parto você permaneceu virgem inviolável.
+V. Ó Mãe de Deus, intercede por nós.
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo Lucas
+!Luke 2:15-20
+Naquele tempo, os pastores diziam uns aos outros: Vamos para ~
+Belém e veja isso que aconteceu, que o Senhor fez ~
+conhecido por nós. Então eles foram com pressa, e encontraram Maria e José, e o ~
+Babe deitado na manjedoura. E quando eles viram, eles entenderam o que tinha sido ~
+disse-lhes sobre esta criança. E todos os que ouviram ficaram maravilhados com as coisas contadas ~
+eles pelos pastores. Mas Maria manteve em mente todas essas coisas, ponderando sobre elas ~
+o coração dela. E os pastores voltaram, glorificando e louvando a Deus por tudo isso~
+eles ouviram e viram, assim como lhes foi falado.
+
+[Offertorium]
+!  
+Você é feliz, ó santa Virgem Maria, e digna de todos os elogios; para fora ~
+de vós nasceu o sol da justiça, Cristo nosso Deus.
+
+[Secreta]
+Pela Vossa misericórdia, Senhor, e pela intercessão da bem-aventurada Maria, sempre virgem, ~
+a Mãe do Teu Filho unigênito, que esta oferta nos beneficie para a prosperidade ~
+e paz, agora e para sempre.
+$Per Dominum
+
+[Communio]
+!  
+Bem-aventurado o ventre da Virgem Maria, que deu à luz o Filho do eterno.
+Pai.
+
+[Postcommunio]
+Que esta Comunhão, Senhor, nos purifique do pecado e, pela intercessão de ~
+a Bem-Aventurada Virgem Maria, Mãe de Deus, torna-nos participantes do Teu celestial ~
+cura.
+$Per eundem
