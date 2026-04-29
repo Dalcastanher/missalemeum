@@ -32,12 +32,14 @@ RUN mkdir -pv \
              resources/divinum-officium/web/www/missa/Latin \
              resources/divinum-officium/web/www/missa/English \
              resources/divinum-officium/web/www/missa/Polski \
+             resources/divinum-officium/web/www/missa/Portugues \
              resources/divinum-officium/web/www/horas/Latin/Commune \
              resources/divinum-officium/web/www/horas/English/Commune \
-             resources/divinum-officium/web/www/horas/Polski/Commune 
+             resources/divinum-officium/web/www/horas/Polski/Commune
 COPY resources/divinum-officium/web/www/missa/Latin ./resources/divinum-officium/web/www/missa/Latin
 COPY resources/divinum-officium/web/www/missa/English ./resources/divinum-officium/web/www/missa/English
 COPY resources/divinum-officium/web/www/missa/Polski ./resources/divinum-officium/web/www/missa/Polski
+COPY resources/divinum-officium/web/www/missa/Portugues ./resources/divinum-officium/web/www/missa/Portugues
 COPY resources/divinum-officium/web/www/horas/Latin/Commune ./resources/divinum-officium/web/www/horas/Latin/Commune
 COPY resources/divinum-officium/web/www/horas/English/Commune ./resources/divinum-officium/web/www/horas/English/Commune
 COPY resources/divinum-officium/web/www/horas/Polski/Commune ./resources/divinum-officium/web/www/horas/Polski/Commune
