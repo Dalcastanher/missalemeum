@@ -63,11 +63,11 @@ class ProperParser:
 
         # Moving data from "Comment" section up as direct properties of a Proper object
         parsed_comment: dict = self._parse_comment(proper.pop_section('Comment'))
-        try:
-            proper.title = self.translations[lang].TITLES[self.config.title_id or self.proper_id]
-        except KeyError:
+        title_id = self.config.title_id or self.proper_id
+        proper.title = parsed_comment['title'] or self.translations[lang].TITLES.get(title_id)
+        if proper.title is None:
             # Handling very rare case when proper's source exists but rank or color in the ID is invalid
-            raise ProperNotFound(f"Proper {self.config.title_id or self.proper_id} not found")
+            raise ProperNotFound(f"Proper {title_id} not found")
         proper.description = parsed_comment['description']
         proper.tags = parsed_comment['tags']
         proper.tags.extend(self.translations[lang].PAGES.get(self.proper_id, []))
@@ -95,10 +95,11 @@ class ProperParser:
         else:
             try:
                 parsed_source = self._read_source(partial_path, lang, lookup_section, is_local=is_local)
-                parsed_source_latin = self._read_source(partial_path, LANGUAGE_LATIN, lookup_section, is_local=is_local)
-                parsed_source.merge(parsed_source_latin)
             except ProperNotFound:
-                parsed_source = self._read_source(partial_path, LANGUAGE_LATIN, lookup_section)
+                if is_local:
+                    parsed_source = self._read_source(partial_path, LANGUAGE_LATIN, lookup_section, is_local=True)
+                else:
+                    raise
 
         if is_local:
             parsed_source = self._resolve_references(parsed_source, partial_path, lang, coming_from)

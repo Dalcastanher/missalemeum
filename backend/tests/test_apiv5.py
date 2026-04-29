@@ -31,12 +31,28 @@ def test_api_date(client):
     assert "Środa po 23 Niedzieli po Zesłaniu Ducha Świętego" == info["tempora"]
     assert "Św. Marcina, Biskupa i Wyznawcy" == info["title"]
     assert "*Syr 45:30" in data[0]["sections"][0]["body"][0][0]
-    assert "*Eccli 45:30" in data[0]["sections"][0]["body"][0][1]
 
 
 def test_api_date_portuguese_prefaces_from_divinum_officium(client):
     resp = client.get('/pt/api/v5/proper/2026-04-29')
     assert 200 == resp.status_code
+
+
+def test_api_date_portuguese_returns_only_portuguese_sections(client):
+    resp = client.get('/pt/api/v5/proper/2026-04-29')
+    assert 200 == resp.status_code
+
+    proper = resp.json()[0]
+    assert "S. Pedro de Verona" in proper["info"]["title"]
+
+    sections = {section["id"]: section["body"][0][0] for section in proper["sections"]}
+    assert "Vos suplicamos" in sections["Oratio"]
+    assert "Dignai-Vos" in sections["Secreta"]
+    assert "Que os vossos fiéis" in sections["Postcommunio"]
+    assert "Evangelium" in sections
+    assert "Evangelho" == next(section["label"] for section in proper["sections"] if section["id"] == "Evangelium")
+    for section in proper["sections"]:
+        assert len(section["body"][0]) == 1
 
 
 def _get_dates():
@@ -115,7 +131,6 @@ def test_api_proper(client):
     assert 3 == info["rank"]
     assert "Św. Marcina, Biskupa i Wyznawcy" == info["title"]
     assert "*Syr 45:30" in data[0]["sections"][0]["body"][0][0]
-    assert "*Eccli 45:30" in data[0]["sections"][0]["body"][0][1]
 
 
 def test_api_proper_slug(client):

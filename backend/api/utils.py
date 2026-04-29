@@ -68,15 +68,10 @@ def format_propers(propers, day=None):
 
 def format_proper_sections(propers_vernacular, propers_latin):
     pv = propers_vernacular.serialize()
-    pl = {i["id"]: i["body"] for i in propers_latin.serialize()}
     result = []
     for section in pv:
-        try:
-            section["body"] = [[section["body"], pl[section["id"]]]]
-        except KeyError:
-            log.warning(f"Section `%s` not found in latin proper `%s`.", section['id'], propers_latin.id)
-        else:
-            result.append(section)
+        section["body"] = [[section["body"]]]
+        result.append(section)
     return result
 
 
