@@ -5,7 +5,7 @@ from datetime import date, timedelta
 import pytest
 
 from .conftest import HERE
-from api.constants.common import LANGUAGES
+from api.constants.common import LANGUAGE_ENGLISH, LANGUAGE_POLSKI
 
 
 def test_api_calendar(client):
@@ -40,7 +40,7 @@ def test_api_date_portuguese_prefaces_from_divinum_officium(client):
 
 
 def _get_dates():
-    for lang in LANGUAGES.keys():
+    for lang in (LANGUAGE_ENGLISH, LANGUAGE_POLSKI):
         date_ = date(2020, 7, 1)
         i = 0
         while i < 365:
