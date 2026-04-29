@@ -34,6 +34,11 @@ def test_api_date(client):
     assert "*Eccli 45:30" in data[0]["sections"][0]["body"][0][1]
 
 
+def test_api_date_portuguese_prefaces_from_divinum_officium(client):
+    resp = client.get('/pt/api/v5/proper/2026-04-29')
+    assert 200 == resp.status_code
+
+
 def _get_dates():
     for lang in LANGUAGES.keys():
         date_ = date(2020, 7, 1)

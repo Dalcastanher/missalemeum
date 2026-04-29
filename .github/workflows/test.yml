@@ -4,6 +4,11 @@
 name: Run backend tests
 
 on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - cursor/**
   workflow_call:
   pull_request:
     branches:

@@ -20,6 +20,7 @@ LANGUAGE_PORTUGUESE = 'pt'
 LANGUAGES = {'en': 'English', 'pl': 'Polski', 'pt': 'Português'}
 DIVOFF_LANG_MAP = {'la': 'Latin'}
 DIVOFF_LANG_MAP.update(LANGUAGES)
+DIVOFF_LANG_MAP[LANGUAGE_PORTUGUESE] = 'Portugues'
 TYPE_TEMPORA = 'tempora'
 TYPE_SANCTI = 'sancti'
 PREFATIO_COMMUNIS = 'Communis'
