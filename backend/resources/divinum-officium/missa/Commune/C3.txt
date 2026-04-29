@@ -1,0 +1,102 @@
+[Name]
+Comuna Plurimorum Martyrum; Intret in conspectu
+
+[Rule]
+
+[Introitus]
+!Ps 78:11; 78:12; 78:10
+v. Que os suspiros dos presos cheguem diante de ti, ó Senhor; retribuir nossos vizinhos~
+sete vezes em seus peitos; vinga o derramamento do sangue dos teus servos.
+!Ps 78:1
+Ó Deus, as nações entraram na tua herança; eles contaminaram seu santo ~
+templo, eles fizeram de Jerusalém um lugar para guardar frutas.
+&Gloria
+v. Que os suspiros dos presos cheguem diante de ti, ó Senhor; retribuir nossos vizinhos~
+sete vezes em seus peitos; vinga o derramamento do sangue dos teus servos.
+
+[Oratio] Dos Bispos Mártires
+Que a festa dos bem-aventurados Mártires e Bispos N. e N. nos proteja, Senhor, ~
+nós te suplicamos, e que sua santa oração nos recomende a ti.
+$Per Dominum
+
+[Oratio1]: Dos Mártires, não dos Bispos
+Ó Deus, que nos permite celebrar o aniversário da morte do Seu santo ~
+Mártires N. e N., concedam-nos que possamos desfrutar de sua companhia na eternidade.
+felicidade.
+$Per Dominum
+
+[Lectio]
+Lição do livro da Sabedoria
+!Wis 3:1-8
+As almas dos justos estão nas mãos de Deus e nenhum tormento de morte os atingirá. Eles pareciam, aos olhos dos tolos, estar mortos; e a sua morte foi considerada uma aflição, e a sua saída de nós, uma destruição total. Mas eles estão em paz. Pois se diante dos homens, de fato, eles são punidos, ainda assim sua esperança é cheia de imortalidade; um pouco castigados, serão grandemente abençoados, porque Deus os provou e os achou dignos de Si mesmo. Como ouro na fornalha, Ele os provou, e como ofertas de sacrifício Ele os levou para Si mesmo. No tempo de sua visitação eles brilharão e se espalharão como faíscas pelo restolho; eles julgarão as nações e governarão os povos, e o Senhor será seu Rei para sempre.
+
+[Graduale]
+!Exo 15:11; 15:6
+Deus é glorioso em Seus santos, maravilhoso em majestade, um operador de maravilhas.
+V. Tua mão direita, ó Senhor, é magnífica em poder; Sua mão direita tem ~
+destruiu o inimigo. Aleluia, aleluia. 
+!Sir 44:14
+V. Os corpos dos santos são sepultados em paz, mas seu nome continua vivo.
+Aleluia.
+
+[Tractus]
+!Exo 15:11; 15:6
+Deus é glorioso em Seus santos, maravilhoso em majestade, um operador de maravilhas.
+V. Tua mão direita, ó Senhor, é magnífica em poder; Sua mão direita tem ~
+destruiu o inimigo.
+!Ps. 125:5-6
+Aqueles que semeiam em lágrimas colherão com alegria.
+V. Embora saiam chorando, carregando a semente a ser semeada.
+V. Eles voltarão alegres, carregando seus molhos.
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo Lucas
+!Luke 21:9-19
+Naquele tempo, disse Jesus aos seus discípulos: Quando ouvirdes falar de guerras e
+insurreições, não tenham medo; essas coisas devem acontecer primeiro, mas ~
+o fim não será imediato. Então Ele lhes disse: A nação se levantará contra ~
+nação e reino contra reino; e haverá grandes terremotos em ~
+vários lugares, e pestilências e fomes, e haverá terrores e grandes
+sinais do céu. Mas antes de todas essas coisas eles vão te prender e~
+perseguem-vos, entregando-vos às sinagogas e às prisões, arrastando-vos.
+diante de reis e governadores, por amor do meu nome. Isso levará ao seu rumo ~
+testemunha. Portanto, decidam em seus corações não meditar de antemão sobre como vocês estão ~
+para fazer sua defesa. Pois eu mesmo lhe darei expressão e sabedoria, que tudo ~
+seus adversários não serão capazes de resistir ou contradizer. Mas você será ~
+entregue por seus pais e irmãos e parentes e amigos; e alguns de ~
+você eles vão matar. E sereis odiados de todos por causa do meu nome; ainda ~
+nem um fio de cabelo da sua cabeça perecerá. Pela sua paciência vocês ganharão suas almas.
+
+[Offertorium]
+!Ps 67:36
+Deus é maravilhoso em Seus Santos; o Deus de Israel é Aquele que dá poder e ~
+força ao Seu povo. Bendito seja Deus!
+Aleluia.
+(sed post Septuagesimam omittitur)
+
+[Secreta]: Dos Bispos Mártires
+Lembra-te, Senhor, das nossas humildes orações nesta comemoração dos Teus Santos, ~
+para que nós, que não confiamos em nossa própria justiça, possamos ser ajudados pelo ~
+méritos daqueles que Te agradaram.
+$Per Dominum
+
+[Secreta1]: Dos Mártires, não dos Bispos
+Oferecemos-te, Senhor, os dons da nossa homenagem; que eles sejam agradáveis ​​para você em ~
+honra de Teus justos e, por Tua misericórdia, que eles se tornem proveitosos para nossos ~
+salvação.
+$Per Dominum
+
+[Communio]
+!Wis 3:4-6
+Porque, se diante dos homens foram castigados, Deus os provou; como ouro na fornalha, Ele ~
+provou-os, e como ofertas de sacrifício Ele os levou para Si mesmo.
+
+[Pós-comunhão]: Dos Bispos Mártires
+Revigorados pelo sacramento da salvação, rogamos-te, Senhor, que sejamos ~
+auxiliados pelas orações daqueles cuja festa celebramos.
+$Per Dominum
+
+[Postcommunio1]: Dos Mártires, não dos Bispos
+Conceda, nós te imploramos, ó Senhor, pela intercessão de Seus santos Mártires N. e ~
+N., para que o que provamos com os lábios possamos consumir com coração puro.
+$Per Dominum

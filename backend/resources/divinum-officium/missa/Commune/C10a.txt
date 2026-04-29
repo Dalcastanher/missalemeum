@@ -1,0 +1,83 @@
+[Name]
+Sancta Maria Sabbato Tempore Adventi; Rorate coeli
+
+[Rule]
+Glória
+Suffr=Spiritu;;Ecclesiae,Papa
+Prefácio=Maria=Festa;
+
+[Introitus]
+!Isa 45:8
+v. Derrube o orvalho, ó céus, do alto, e deixe as nuvens choverem o justo: deixe ~
+a terra seja aberta e brote um Salvador.
+!Ps 84:2
+Tu favoreceste, ó Senhor, a tua terra; Você restaurou o bem-estar de Jacó.
+&Gloria
+v. Derrube o orvalho, ó céus, do alto, e deixe as nuvens choverem o justo: deixe ~
+a terra seja aberta e brote um Salvador.
+
+[Oratio]
+Ó Deus, que quiseste que pela mensagem de um anjo a Tua Palavra se encarnasse.
+o ventre da Bem-Aventurada Virgem Maria, conceda que nós, Teus suplicantes que cremos ~
+para que ela seja verdadeiramente Mãe de Deus, seja ajudada pela sua intercessão junto de Ti.
+$Per eundem
+
+[Lectio]
+Lição do livro de Isaías
+!Isa 7:10-15
+Naqueles dias, o Senhor falou a Acaz: Peça um sinal ao Senhor, seu Deus; que seja profundo como o mundo inferior, ou alto como o céu! Mas Acaz respondeu: Não perguntarei! Não tentarei o Senhor! Então ele disse: Ouça, ó casa de Davi! Não basta você cansar os homens, você também deve cansar meu Deus? Portanto o mesmo Senhor vos dará este sinal: a virgem conceberá e dará à luz um filho, e lhe dará o nome de Emanuel. Ele estará vivendo de coalhada e mel quando aprender a rejeitar o mal e escolher o bem.
+
+[Graduale]
+!Ps 23:7, 3 - 4.
+Levantem, ó portões, seus lintéis; alcancem, seus portais antigos, que o Rei de ~
+a glória pode entrar!
+V. Quem pode subir ao monte do Senhor? ou quem poderá permanecer em Seu lugar santo?
+Aquele cujas mãos não têm pecado, cujo coração está limpo. Aleluia, aleluia.
+!Luke 1:28
+Ave, Maria, cheia de graça, o Senhor é contigo; abençoada és você entre as mulheres.~
+Aleluia.
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo Lucas
+!Luke 1:26-38
+Naquele tempo, o anjo Gabriel foi enviado por Deus a uma cidade da Galiléia chamada ~
+Nazaré, a uma virgem desposada com um homem chamado José, da casa de Davi, ~
+e o nome da virgem era Maria. E quando o anjo veio até ela, ele disse: ~
+Salve, cheia de graça, o Senhor é contigo. Bendita seja você entre as mulheres. Quando ela ~
+Depois de ouvi-lo, ela ficou preocupada com sua palavra e ficou pensando que tipo de
+saudação, isso pode ser. E o anjo lhe disse: Não tenha medo, Maria, pois ~
+você encontrou graça com Deus. Eis que você conceberá em seu ventre e ~
+gerar um Filho; e lhe chamarás o nome de Jesus. Ele será ótimo, e ~
+será chamado Filho do Altíssimo; e o Senhor Deus lhe dará o ~
+trono de Davi, seu pai, e ele será rei sobre a casa de Jacó para sempre;
+e do Seu reino não haverá fim. Mas Maria disse ao anjo: Como irá?
+isso acontecer, já que eu não conheço cara? E o anjo respondeu e disse-lhe:~
+O Espírito Santo virá sobre você e o poder do Altíssimo virá.
+ofuscar você; e, portanto, o Santo que nascerá será chamado Filho de ~
+Deus. E eis que também Isabel, tua parenta, concebeu um filho na sua velhice.
+idade, e aquela que era chamada estéril está agora no sexto mês; por nada deve ~
+ser impossível para Deus. Mas Maria disse: Eis a serva do Senhor; seja isso ~
+feito comigo segundo a tua palavra.
+
+[Offertorium]
+!Lk 1:28, 42.
+Ave, Maria, cheia de graça, o Senhor é contigo; abençoada és você entre as mulheres, ~
+e bendito é o fruto do teu ventre.
+
+[Secreta]
+Fixe firmemente em nossas mentes, ó Senhor, nós te imploramos, os mistérios da verdadeira fé;
+para que nós que acreditamos Nele, concebido de uma virgem, como verdadeiro Deus e homem, possamos ser ~
+considerado digno de alcançar a felicidade eterna através do poder de Sua redenção ~
+ressurreição.
+$Per eundem
+
+[Communio]
+!Isa 7:14
+Eis que uma Virgem conceberá e dará à luz um Filho, e Seu nome será chamado ~
+Emanuel.
+
+[Postcommunio]
+Derrama, nós te suplicamos, ó Senhor, Tua graça em nossos corações, para que nós, a quem ~
+a encarnação de Cristo Teu Filho foi revelada pela mensagem de um anjo, ~
+possa, por Sua paixão e cruz, ser levado à glória de Sua ressurreição.
+$Per eundem

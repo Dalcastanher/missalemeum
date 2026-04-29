@@ -1,0 +1,55 @@
+[Name]
+Comuna Unius Martyris Pontificis, Estatuto
+
+[Rule]
+
+[Introitus]
+!Ecclus 45:30
+v. O Senhor fez com ele uma aliança de amizade e fez dele um príncipe; que ele deveria possuir a dignidade do sacerdócio para sempre.
+!Ps 131:1
+Lembra-te, Senhor, de David e de toda a sua mansidão.
+&Gloria
+v. O Senhor fez com ele uma aliança de amizade e fez dele um príncipe; que ele deveria possuir a dignidade do sacerdócio para sempre.
+
+[Oratio]
+Esteja atento à nossa fraqueza, Deus Todo-Poderoso, e porque o peso dos nossos pecados pesa sobre nós, que a gloriosa intercessão do bem-aventurado N., Seu Mártir e Bispo, nos sustente.
+$Per Dominum
+
+[Lectio]
+Lição do Livro de São Tiago Apóstolo
+!James 1:12 - 18.
+Amados: Bem-aventurado o homem que suporta a tentação; pois quando for provado, receberá a coroa da vida que Deus prometeu àqueles que O amam. Ninguém diga, quando for tentado, que é tentado por Deus; pois Deus não é tentador para o mal, e Ele mesmo não tenta ninguém. Mas todos são tentados por serem atraídos e seduzidos pela sua própria paixão. Então, quando a paixão concebeu, ela produz o pecado; mas quando o pecado amadurece, ele gera a morte. Portanto, meus amados irmãos, não errem. Toda boa dádiva e todo dom perfeito vêm do alto, descendo do Pai das Luzes, em Quem não há mudança, nem sombra de alteração. Por Sua própria vontade, Ele nos gerou pela palavra da verdade, para que pudéssemos ser, por assim dizer, as primícias de Suas criaturas.
+
+[Graduale]
+!Ps 88:21-23
+Encontrei Davi, meu servo, com o meu santo óleo o ungi, para que a minha mão esteja sempre com ele e o meu braço o fortaleça.
+V. Nenhum inimigo o enganará, nem os ímpios o afligirão. Aleluia, aleluia.
+!Ps 109:4
+V. Você é sacerdote para sempre, segundo a ordem de Melquisedeque. Aleluia.
+
+[Tractus]
+!Ps 20:3-4      
+Você concedeu-lhe o desejo do seu coração; Você não recusou o desejo de seus lábios.
+V. Pois você o acolheu com boas bênçãos.
+V. Você colocou em sua cabeça uma coroa de ouro puro.
+
+[Evangelium]
+Continuação do Santo Evangelho segundo Lucas
+!Luke 14:26 - 33.
+Naquele tempo, disse Jesus às multidões: Se alguém vier a mim e não aborrecer a seu pai e mãe, e mulher e filhos, e irmãos e irmãs, sim, e até a sua própria vida, não pode ser meu discípulo. E quem não carrega a sua cruz e não Me segue, não pode ser Meu discípulo. Pois qual de vocês, querendo construir uma torre, não se senta primeiro e calcula os gastos que são necessários, se tem meios para completá-la? Para que, depois de ter lançado os alicerces e não possa terminá-lo, todos os que o vêem comecem a zombar dele, dizendo: “Este homem começou a construir e não foi capaz de terminar!” Ou que rei, partindo para a batalha com outro rei, não se senta primeiro e considera se com dez mil homens pode enfrentar aquele que com vinte mil vem contra ele? Ou então, enquanto o outro ainda está distante, envia uma delegação e pede os termos da paz. Assim, portanto, cada um de vocês que não renuncia a tudo o que possui, não pode ser Meu discípulo.
+
+[Offertorium]
+!Ps 88:25
+Que a fidelidade e a Minha bondade estejam com ele, e através do Meu nome o seu poder seja exaltado.
+
+[Secreta]
+Ó Senhor, aceita graciosamente, pelos méritos do Teu abençoado Mártir e Bispo N., os dons sacrificiais dedicados a Ti, e concede que eles possam ser para nós uma ajuda duradoura.
+$Per Dominum
+
+[Communio]
+!Ps 88:36-38.
+Uma vez, pela Minha santidade, jurei; sua posteridade durará para sempre; e o seu trono será como o sol diante de mim; como a lua, que permanece para sempre, testemunha fiel no céu.
+
+[Postcommunio]
+Revigorados pela participação no dom sagrado, suplicamos-te, ó Senhor nosso Deus, que possamos desfrutar dos benefícios do rito que realizamos por intercessão do bem-aventurado N., teu mártir e bispo.
+$Per Dominum

@@ -1,0 +1,383 @@
+&Vidiaquam
+
+#Iniciar
+![:1965=If another rite immediately preceeding all the prayers at the foot of the altar are omitted:]!The priest, bowing down at the foot of the altar, makes the Sign of the Cross, from his forehead to his breast, and says: 
+v. Em Nome do Pai e do Filho + e do Espírito Santo. Amém.
+
+!*D
+!In Masses for the Dead and from Passion Sunday till Holy Saturday exclusively, this psalm is omitted.
+
+![:1965=Psalm 42 omitted:]
+
+!The priest, signing himself with the Sign of the Cross, says:
+P. Nossa ajuda + está em Nome do Senhor.
+S. Quem fez o céu e a terra.
+!Then, joining his hands, and humbly bowing down, he says the Confiteor:
+P. Confesso a Deus Todo-Poderoso, à bem-aventurada Maria sempre Virgem, ao bem-aventurado Miguel Arcanjo, ao bem-aventurado João Batista, aos santos apóstolos Pedro e Paulo, a todos os santos, e a vocês, irmãos, que pequei excessivamente em pensamento, palavra e ação, (Aqui ele bate no peito três vezes.) por minha culpa, por minha culpa, por minha culpa mais grave. Por isso rogo à bem-aventurada Maria, sempre Virgem, ao bem-aventurado Miguel Arcanjo, ao bem-aventurado João Batista, aos santos apóstolos Pedro e Paulo, a todos os santos e a vocês, irmãos, que orem por mim ao Senhor nosso Deus.
+!x!S. May almighty God be merciful to thee, and forgiving thy sins, bring thee to everlasting life. 	
+!x!!The priest answers: 
+!x!P. Amen.
+!x!!The server says the Confiteor.
+!x!S. I confess to almighty God, to the blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, to all the Saints, and to you, Father, that I have sinned exceedingly in thought, word, and deed, through my fault, through my fault, through my most grievous fault. Therefore I beseech the blessed Mary, ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, all the Saints, and you, Father, to pray to the Lord our God for me. 	
+!Then the priest, with his hands joined, says:
+P. Que Deus Todo-Poderoso seja misericordioso conosco (ti), e perdoando os teus pecados, leve-nos (ti) à vida eterna. 
+S. Amém.
+!  
+P. Que o Senhor todo-poderoso e misericordioso nos conceda o perdão, a absolvição e a remissão dos nossos pecados.
+S. Amém.
+
+!Bowing down, he proceeds:
+P. Ó Deus, Tu voltarás novamente e nos vivificarás.
+S. E o teu povo se alegrará em Ti.
+P. Mostra-nos, Senhor, a Tua misericórdia.
+S. E conceda-nos a Tua salvação.
+P. Ó Senhor, ouça minha oração.
+S. E deixe meu clamor chegar diante de Ti.
+P. O Senhor esteja convosco.
+S. E com o teu espírito.
+!First extending, then joining his hands, the priest says audibly Let us pray then ascending to the altar, he says secretly:
+v. Oremos. 
+v. Tira de nós as nossas iniqüidades, rogamos-Te, ó Senhor, para que sejamos dignos de entrar com a mente pura no Santo dos Santos, por meio de Cristo nosso Senhor. Amém.
+!His hands joined, and bowing down over the altar, the priest says:
+v. Rogamos-Te, ó Senhor, pelos méritos dos Teus Santos, (Ele beija a pedra sagrada) cujas relíquias estão aqui, e de todos os Santos, que te concedas perdoar-me todos os meus pecados. Amém.
+
+!*S 	
+#Incenso
+!In Solemn Masses the altar is here incensed. The deacon says:
+Abençoe, reverendo padre!
+!Whilst blessing the incense the priest says:
+Seja abençoado + por Aquele em cuja honra você foi queimado. Amém.
+
+#Intróito
+![:1965=The celebrant is not to say privately those parts sung or recited by the Choir or congregation; he may sing or recite along:]
+&introitus
+
+#Kyrie
+![:1965=May be sung or recited by the faithful in vernacular:]
+P. Senhor, tenha piedade.
+S. Senhor, tenha piedade.
+P. Senhor, tenha piedade.
+S. Cristo, tende piedade.
+P. Cristo, tenha piedade.
+S. Cristo, tende piedade.
+P. Senhor, tenha piedade.
+S. Senhor, tenha piedade.
+P. Senhor, tenha piedade.
+
+!! Gloria
+!*&GloriaM
+![:1965=May be sung or recited by the faithful in vernacular:]
+!Afterwards, standing at the middle of the altar, extending and then joining his hands, and bowing slightly, the priest says -- except during Lent and Advent and in Masses for the Dead -- the Gloria in excelsis. When he says the words: We adore Thee, We give Thee thanks; Jesus Christ; and Receive our prayer, he bows, and at the end he signs himself with the Sign of the Cross from forehead to breast:
+v. Glória a Deus nas alturas e paz na terra aos homens de boa vontade. Nós Te louvamos. Nós Te abençoamos. Nós Te adoramos. Nós Te glorificamos. Damos-Te graças pela Tua grande glória. Ó Senhor Deus, Rei celestial, Deus Pai todo-poderoso. Ó Senhor Jesus Cristo, Filho Unigênito. Ó Senhor Deus, Cordeiro de Deus, Filho do Pai. Quem tira os pecados do mundo, tenha piedade de nós. Quem tira os pecados do mundo, receba nossa oração. Você que está sentado à direita do Pai, tenha misericórdia de nós. Pois só tu és santo. Tu és apenas o Senhor. Tu és o Altíssimo, ó Jesus Cristo. Juntos com o Espírito Santo + na glória de Deus Pai. Amém.
+
+# Coletar
+!Then the priest turning to the people says:
+P. O Senhor esteja convosco.
+S. E com o teu espírito.
+!The Collects mean the collected prayers of all the faithful assisting at the Holy Sacrifice. Raising his voice, his hands, and his sentiments to God, the priest excites the faithful to unite their prayers with his.
+&collect
+
+# Lição
+![:Lessons epistle and Gospel are to be read or sung facing people. It there is reader, the celebrant sits and listen:]
+&lectio
+
+# Gradual
+![:1965=The celebrant is not to say privately those parts sung or recited by the Choir or congregation; he may sing or recite along:]
+&graduale
+
+!*SnD
+#Evangelho
+!In Solemn Masses the priest blesses the incense, and the deacon, kneeling before the altar with his hands joined, says the Munda cor. 
+Limpa meu coração e meus lábios, ó Deus Todo-Poderoso, que limpaste os lábios do profeta Isaías com uma brasa, e concede, por Tua graciosa misericórdia, purificar-me, para que eu possa anunciar dignamente Teu santo Evangelho. Através de Cristo nosso Senhor. Amém. 
+!Afterwards he takes the book from the altar, and again kneeling down before the priest, asks his blessing, saying:
+D. Senhor, dê-me sua bênção.
+!The priest answers:
+P. O Senhor esteja em teu coração e em teus lábios, para que dignamente e de maneira adequada proclame Seu santo Evangelho.
+v. Em Nome do Pai, e do Filho, e do Espírito Santo. Amém.
+Então, voltando-se para o livro, com as mãos unidas, o
+o sacerdote – nas missas solenes o diácono – diz:
+P. O Senhor esteja convosco.
+S. E com o teu espírito.
+&evangelium
+
+!*RnD
+#Evangelho
+!The Missal is transferred to the other side of the altar to symbolize that the divine favor was taken away from the unfaithful Jews and given to the Gentiles. At Low Masses, the priest, bowing down at the middle of the altar, with his hands joined, says:
+Limpa meu coração e meus lábios, ó Deus Todo-Poderoso, que limpaste os lábios do profeta Isaías com uma brasa, e concede, por Tua graciosa misericórdia, purificar-me, para que eu possa anunciar dignamente Teu santo Evangelho. Através de Cristo nosso Senhor. Amém.
+v. Dá-me Tua bênção, ó Senhor. O Senhor esteja em meu coração e em meus lábios, para que eu possa dignamente e de maneira adequada proclamar Seu santo Evangelho. Amém.
+!  
+P. O Senhor esteja convosco.
+S. E com o teu espírito.
+&evangelium
+_
+![:Homily is obligatory in Sunday Holy Days of obligations and if some number of faithful are gathered for the Mass:]
+
+!*D
+#Evangelho
+!In Masses for the Dead, the Munda cor is said, but the blessing is not asked, and the priest does not kiss the Gospel.
+Limpa meu coração e meus lábios, ó Deus Todo-Poderoso, que limpaste os lábios do profeta Isaías com uma brasa, e concede, por Tua graciosa misericórdia, purificar-me, para que eu possa anunciar dignamente Teu santo Evangelho. Através de Cristo nosso Senhor. Amém.
+!  
+P. O Senhor esteja convosco.
+S. E com o teu espírito.
+&evangelium
+
+# Crença
+!*&Credo
+![:1965=May be sung or recited by the faithful in vernacular:]
+!On Sundays and certain Feasts the priest recites the Creed, a summary of the Catholic Doctrine. This profession of faith was drawn up in the General Councils of Nice in 325 and Constantinople in 381 to condemn heretics who denied that Jesus Christ and the Holy Ghost were God.
+v. Acredito em um só Deus, o Pai todo-poderoso, Criador do céu e da terra, e de todas as coisas, visíveis e invisíveis. 
+E em um só Senhor Jesus Cristo, o Filho unigênito de Deus. E nascido do Pai, antes de todos os tempos. Deus de Deus: Luz da Luz: verdadeiro Deus do verdadeiro Deus. Gerado, não feito, consubstancial ao Pai, por quem todas as coisas foram feitas. Que, por nós, homens, e para nossa salvação, desceu do céu. (curva-se) E encarnou pelo Espírito Santo da Virgem Maria: e foi feito homem. Ele foi crucificado também por nós, sofreu sob Pôncio Pilatos e foi sepultado. E no terceiro dia Ele ressuscitou segundo as Escrituras. E ascendeu ao céu e está sentado à direita do Pai. E Ele voltará com glória para julgar tanto os vivos como os mortos, cujo reino não terá fim. 
+E no Espírito Santo, o Senhor e Doador da Vida, procedente do Pai e do Filho. Que juntamente com o Pai e o Filho é adorado e glorificado: Quem falou pelos profetas. E numa Igreja una, santa, católica e apostólica. Confesso um batismo para a remissão dos pecados. E procuro a ressurreição dos mortos. E a vida do mundo que está por vir. Amém.
+
+# Ofertório
+!The priest turning to the people says:
+P. O Senhor esteja convosco.
+S. E com o teu espírito.
+!After saluting the people once more, the priest enters upon the Sacrifice of the Mass proper and urges the faithful to pray with him.
+v. Oremos.
+![:1965=Universal prayer or prayer of the faithful is lead by the celebrant either at his chair, the altar, the lectern or the edge of the sanctuary:]
+_
+![:1965=The celebrant is not to say privately those parts sung or recited by the Choir or congregation; he may sing or recite along:]
+&offertorium 	
+
+!Then the priest reads the Offertory-verse, a short quotation from Holy Scripture which varies with the Mass of each day. This being finished, he offers the bread and wine, which, by virtue of the words of consecration, he is going to change into the adorable Body and Blood of Jesus Christ. He takes the paten with the host and offering it up, says:
+v. Aceite, ó Pai santo, Deus todo-poderoso e eterno, esta hoste imaculada, que eu, Teu servo indigno, ofereço a Ti, meu Deus vivo e verdadeiro, por meus inúmeros pecados, ofensas e negligências, e por todos aqui presentes: como também por todos os cristãos fiéis, vivos e mortos, para que possa servir tanto a mim quanto a eles para a salvação para a vida eterna. Amém.
+
+!Making the Sign of the Cross with the paten, he places the host upon the corporal. He pours wine and water into the chalice, blessing the water before it is mixed. He pours a few drops of water into the chalice containing wine, in remembrance of the water and blood which flowed from the side of Jesus when pierced by the soldier's lance.
+v. Ó Deus, que, ao criar a natureza humana, a dignificaste maravilhosamente, e ainda mais maravilhosamente a restauraste, concede que, pelo Mistério desta água e deste vinho, possamos ser feitos participantes da Sua natureza divina, que nos concedeu ser feitos participantes da nossa natureza humana, sim, Jesus Cristo, nosso Senhor, Teu Filho, que contigo vive e reina na unidade do Espírito Santo, Deus: mundo sem fim. Amém.
+
+!*D
+!In Masses for the Dead, the foregoing prayer is said, but the water is not blessed.
+
+!Then the priest takes the chalice, and offers it, saying:
+v. Oferecemos-Te, Senhor, o cálice da salvação, suplicando a Tua clemência, para que suba diante da Tua divina Majestade, como suave aroma, para a nossa salvação e para a do mundo inteiro. Amém.
+!The priest makes the Sign of the Cross with the chalice, places it upon the corporal, and covers it with the pall. Then, with his hands joined upon the Altar, and slightly bowing down, he says:
+v. Aceita-nos, ó Senhor, com espírito de humildade e contrição de coração, e faz com que o sacrifício que oferecemos hoje aos teus olhos seja agradável a Ti, ó Senhor Deus.
+!Raising his eyes towards heaven, extending and then joining his hands, the priest makes the Sign of the Cross over the host and the chalice, while he invokes the Holy Spirit.
+v. Vem, ó Deus todo-poderoso e eterno, o Santificador, e abençoa + este Sacrifício, preparado para a glória do Teu santo Nome.
+
+!*S
+# Incenso
+!At Solemn Masses, the priest now blesses incense, saying the following prayers:
+v. Que o Senhor, pela intercessão do bem-aventurado Miguel Arcanjo, que está à direita do altar do incenso, e de todos os Seus Eleitos, conceda abençoar + este incenso e recebê-lo como um odor de doçura: através de Jesus Cristo nosso Senhor. Amém.
+!Receiving the thurible from the deacon, the priest incenses the bread and the wine, while he says:
+v. Que este incenso, que abençoaste, ó Senhor, suba a Ti, e que Tua misericórdia desça sobre nós.
+!Then he incenses the altar, saying:
+!Ps. 140, 2-4. 
+v. Que minha oração, ó Senhor, seja dirigida como incenso à Tua vista: o levantamento de minhas mãos como um sacrifício noturno.
+Põe uma sentinela, Senhor, diante da minha boca, e uma porta ao redor dos meus lábios. Que meu coração não se incline para palavras más, para dar desculpas aos pecados.
+!Giving the censor to the deacon, he says:
+v. Que o Senhor acenda em nós o fogo do seu amor e a chama da caridade eterna. Amém.
+!The priest is then incensed by the deacon, who then incenses the others in order.
+
+!The priest washes his fingers to symbolize the great purity and inner cleanliness of those who offer or participate in this great Sacrifice.
+!Psalm 25. 6-12
+Lavarei as minhas mãos entre os inocentes e cercarei o teu altar, ó Senhor, para ouvir a voz do louvor e contar todas as tuas maravilhas. Eu amei, ó Senhor, a beleza da Tua casa e o lugar onde habita a Tua glória. Não leves a minha alma, ó Deus, com os ímpios; nem a minha vida com os homens sanguinários. Em cujas mãos há iniquidades, a sua mão direita está cheia de dádivas. Mas eu andei na minha inocência: redime-me e tenha piedade de mim. Meu pé esteve no caminho direto, nas igrejas eu Te abençoarei, ó Senhor.
+&Gloria
+
+!Bowing down before the middle of the alter, the priest, with joined hands, says:
+v. Recebe, ó Santíssima Trindade, esta oblação que te fazemos, em memória da Paixão, Ressurreição e Ascensão de nosso Senhor Jesus Cristo, e em honra de Maria Santíssima, sempre Virgem, do bem-aventurado João Baptista, dos santos Apóstolos Pedro e Paulo, e de todos os Santos, para que sirva para sua honra e nossa salvação, e que eles se concedam interceder por nós no céu, cuja memória celebramos na terra. Através do mesmo Cristo nosso Senhor. Amém.
+
+!The priest turning towards the people, extending, then joining his hands, says audibly:
+P. Irmãos, orem para que meu sacrifício e o seu sejam aceitáveis ​​a Deus Pai todo-poderoso.
+!The server answers:
+S. Receba o Senhor o Sacrifício das tuas mãos, para louvor e glória do Seu Nome, para nosso benefício e de toda a Sua santa Igreja.
+!The priest answers in a low voice:
+P. Amém.
+!Then, with outstretched hands, he recites the Secret Prayers, not beginning with Oremus. The Secret Prayers vary with the Mass, and are found in the Mass of the Day. These being finished, the priest says or sings: P. World without end. S. Amen. 	
+_
+!!Secret
+![:1965=Secret is sung or recited aloud:]
+&secreta
+
+# Prefácio
+!The priest begins the preface, a call to render thanks to God the Father, through Jesus Christ, in union with all the heavenly spirits. The prayer of thanksgiving and praise varies with inportant Feasts. There are at the present time 15 different prefaces which are given in the Ordinary of the Mass. The priest begins the Preface, holding his hands over the altar:
+P. O Senhor esteja convosco.
+S. E com o teu espírito.
+P. Elevem seus corações.
+S. Nós os elevamos ao Senhor.
+P. Demos graças ao Senhor nosso Deus.
+S. É adequado e justo.
+_
+&prefatio
+_
+![:1965=May be sung or recited by the faithful in vernacular:]
+v. Santo, Santo, Santo, Senhor Deus de Sabaoth! O céu e a terra estão cheios da Tua glória! Hosana nas alturas! Bendito aquele que vem em Nome do Senhor! Hosana nas alturas!
+
+# Cânon
+![:1967=May be recited aloud:]
+v. Nós, portanto, oramos humildemente e suplicamos a Ti, Pai misericordioso, por meio de Jesus Cristo; Teu Filho, nosso Senhor, que Tu te concedas aceitar e abençoar (Ele junta as mãos e assina a oblação com o Sinal da Cruz.) estes + presentes, estes presentes, estes santos Sacrifícios imaculados, (Então estendendo as mãos, ele prossegue:) que em primeiro lugar Te oferecemos pela Tua santa Igreja Católica à qual te garanto conceder a paz, como também preservá-la, uni-la e governá-la em todo o mundo, junto com Teu servo N.p nosso Papa, e N.b nosso Bispo, e todos os crentes ortodoxos e professores da Fé Católica e Apostólica.
+
+!Commemoration of the Living
+Lembra-te, Senhor, dos Teus servos e servas, N. e N. espera10 (O sacerdote junta as mãos e reza silenciosamente por aqueles por quem pretende orar. Depois estendendo as mãos, ele prossegue:) e de todos aqui presentes, cuja fé e devoção são conhecidas por Ti, por quem oferecemos, ou que Te oferecem, este sacrifício de louvor para si, suas famílias e amigos, pela redenção de suas almas, pela saúde e salvação que eles esperam; e que agora pagam seus votos a Ti, o Deus eterno, vivo e verdadeiro. 
+	
+&communicantes
+e dos bem-aventurados Apóstolos e Mártires Pedro e Paulo, André, Tiago, João, Tomé, Tiago, Filipe, Bartolomeu, Mateus, Simão e Tadeu; Lino, Cleto, Clemente, Xisto, Cornélio, Cipriano, Lourenço, Crisógono, João e Paulo, Cosme e Damião, e de todos os Teus Santos, por cujos méritos e orações, concedei que possamos em todas as coisas ser defendidos pela ajuda de Tua proteção. (Ele junta as mãos.) Pelo mesmo Cristo nosso Senhor. Amém.
+
+(Abrindo as mãos sobre a oblação, ele diz:)
+v. Suplicamos-Te, portanto, Senhor, que aceites graciosamente esta oblação do nosso serviço, como também de toda a Tua família; 
+&hancigitur
+e para dispor nossos dias em Tua paz, preserva-nos da condenação eterna e classifica-nos no número de Teus Eleitos. (Ele junta as mãos.) Pelo mesmo Cristo nosso Senhor. Amém.
+
+v. Qual oblação Tu, ó Deus, concedes em todos os aspectos, para abençoar, aprovar, ratificar, tornar digna e aceitável; para que se faça para nós o Corpo e o Sangue de Teu Amadíssimo Filho Jesus Cristo nosso Senhor.
+
+v. O qual, na véspera de sofrer, (Ele pega a hóstia.) tomou o pão em Suas santas e veneráveis ​​​​mãos, (Ele levanta os olhos para o céu.) e com os olhos elevados para o céu a Ti, Deus, Seu Pai todo-poderoso, dando graças a Ti, (Ele assina a hóstia com o Sinal da Cruz) Ele abençoou-a, partiu-a e deu-a aos Seus discípulos dizendo: Tomai e comei tudo isto,
+
+!The words of the Consecration of the Host:
+_
+!!! FOR THIS IS MY BODY.
+espere5
+_
+!After pronouncing the words of the Consecration, the priest, he elevates It. -- Look up at the Sacred Host, with faith, piety, and love, saying: "My Lord and my God." -- and then placing It on the corporal, again adores It kneeling. After this he never disjoins his fingers and thumbs, except when he is to take the Host, until after the washing of his fingers.
+
+(Consagração do Vinho Depois, descobrindo o cálice, o sacerdote diz:) ~
+v. Da mesma forma, depois de ter ceado, (Ele pega o cálice com ambas as mãos.) Tomando também este excelente cálice em Suas santas e veneráveis ​​​​mãos (Ele pega o cálice com a mão esquerda, e com a direita ele o assina com o Sinal da Cruz.) Ele abençoou e deu-o aos Seus discípulos, dizendo: Tomai e bebei tudo isto,
+
+!The words of Consecration of the Chalice
+_
+!!! FOR THIS IS THE CHALICE OF MY BLOOD OF THE NEW AND ETERNAL TESTAMENT, THE MYSTERY OF FAITH; WHICH SHALL BE SHED FOR YOU AND FOR MANY UNTO THE REMISSION OF SINS.
+espere5
+_
+!After the elevation of the Chalice, the priest says in a low voice:
+v. Sempre que fizerdes estas coisas, fareis-nas em memória de Mim.
+!The priest elevates the Chalice, and setting it down he covers it and adores it kneeling.
+
+(Com as mãos abertas, ele então prossegue)
+v. Portanto, ó Senhor, nós, Teus servos, como também Teu povo santo, lembrando-nos da bendita Paixão do mesmo Cristo, Teu Filho, nosso Senhor, e também Sua Ressurreição dos mortos e Sua gloriosa Ascensão ao céu: oferecemos a Tua excelsa Majestade os Teus próprios dons, concedidos a nós, (Ele junta suas mãos e assina três vezes a Hóstia e o Cálice com o Sinal da Cruz.) uma Hóstia pura, uma Hóstia santa, uma Hóstia imaculada, a santa Pão da vida eterna e o Cálice da salvação eterna. 
+
+(Estendendo as mãos, ele prossegue)~
+v. Para o qual te concedes olhar com um semblante propício e sereno, e aceitá-los, como Te agradaste graciosamente em aceitar os presentes de Teu justo servo Abel, e o sacrifício de nosso patriarca Abraão, e aquilo que Teu sumo sacerdote Melquisedeque ofereceu a Ti, um sacrifício santo e vítima imaculada.
+ 	
+!Bowing down, with his hands joined and placed upon the altar, he says:
+v. Nós mais humildemente Te suplicamos, Deus Todo-Poderoso, ordena que essas ofertas sejam levadas pelas mãos de Teus santos Anjos ao Teu altar no alto, à vista de Tua majestade divina, que todos os que participarem do santíssimo (Ele une sua mão e assina a Hóstia e o Cálice com o Sinal da Cruz.) Corpo e Sangue de Teu Filho neste altar, possam ser preenchidos com toda graça e bênção celestial. Através do mesmo Cristo nosso Senhor. Amém.
+
+! Commemoration of the Dead
+v. Lembre-se também, ó Senhor, de Teus servos e servas N. e N., que partiram diante de nós com o sinal da fé, e descansa no sono da paz. espere10 (Ele junta suas mãos e ora pelos mortos como ele pretende orar, então estendendo suas mãos ele prossegue:) A estes, ó Senhor, e a todos os que descansam em Cristo, conceda, nós Te pedimos, um lugar de refrigério, luz e paz; (Ele junta as mãos e inclina a cabeça:) Através do mesmo Cristo nosso Senhor. Amém.
+
+!Pronounces in a somewhat elevated tone of voice, to symbolize an act of public self-humiliation; at the same time he strikes his breast in a token of contrition.
+v. A nós também, Teus servos pecadores, confiando na multidão de Tuas misericórdias, concedemos alguma parte e comunhão com Teus santos Apóstolos e Mártires, com João, Estêvão, Matias, Barnabé, Inácio, Alexandre, Marcelino, Pedro, Felicitas, Perpétua, Ágata, Lúcia, Inês, Cecília, Anastácia, e com todos os Teus Santos, em cuja companhia Te pedimos que nos admitas, sem pesar nossos méritos, mas perdoando nossas ofensas. (Ele junta as mãos.) Através de Cristo nosso Senhor.
+
+v. Por Quem, ó Senhor, Tu sempre crias, (Ele assina três vezes a Hóstia e o Cálice, dizendo:) santifica, vivifica, abençoa e dá-nos todas estas coisas boas.
+!He uncovers the Chalice, and genuflects: then taking the Host in his right hand, and holding the Chalice in his left, he signs with the Sign of the Cross three times across the Chalice, saying:
+![:1965=Doxology is sung of recited aloud the celebrant elevates the chalice with the host, omitting the signs of the cross:]
+v. Por Ele, e com Ele, e Nele é para Ti, Deus Pai todo-poderoso, na unidade do Espírito Santo,
+!He elevates a little the Chalice with the Host.
+toda honra e glória.
+P. Mundo sem fim.
+S. Amém.
+!Replacing the Host, covers the Chalice
+
+# Preparação para a Comunhão
+v. Oremos. Instruídos por Teus preceitos salvadores, e seguindo Tua divina instituição, ousamos dizer:
+![:1965=The congregation may recite or sing the Lords prayer in vernacular, or in Latin:]
+v. Pai nosso que estás nos céus, santificado seja o Teu Nome; Venha o teu reino; Seja feita a tua vontade, assim na terra como no céu. O pão nosso de cada dia dá-nos hoje. E perdoa-nos as nossas ofensas, assim como nós perdoamos aqueles que nos ofenderam. E não nos deixe cair em tentação.
+M. Mas livra-nos do mal.
+P. Amém.
+
+!Then the priest takes the paten between the first and second finger and says:
+v. Livra-nos, ó Senhor, nós te pedimos, de todos os males, passados, presentes e futuros; e pela intercessão da Bem-Aventurada e gloriosa sempre Virgem Maria, Mãe de Deus, e dos santos Apóstolos Pedro e Paulo, e de André, e de todos os Santos, (Ele se assina com a patena.) misericordiosamente conceda a paz em nossos dias, para que através da ajuda de Tua misericórdia possamos estar sempre livres do pecado e seguros de toda perturbação.
+!He places the paten under the Host, uncovers the Chalice, and makes a genuflection; rising, he takes the Host and breaks It in the middle over the Chalice, saying:
+v. Através do mesmo Jesus Cristo, Teu Filho, nosso Senhor.
+!He puts the Part which is in his right hand upon the paten, and breaks a Particle from the other Part in his left hand, saying:
+Quem contigo na unidade do Espírito Santo vive e reina a Deus,
+!He places the Half which is in his left hand on the paten, and holding the Particle which he broke off in his right hand, and the Chalice in his left, he says:
+P. Mundo sem fim.
+S. Amém.
+!The priest makes the Sign of the Cross with the Particle over the Chalice, saying:
+P. A paz do Senhor esteja sempre convosco.
+S. E com o teu espírito.
+
+!He puts the Particle into the Chalice, saying:
+v. Que esta mistura e consagração do Corpo e Sangue de nosso Senhor Jesus Cristo seja para nós que a recebemos eficaz para a vida eterna. Amém.
+!He covers the Chalice, genuflects and rises; than bowing down and striking his breast thrice, he says:
+
+!*nD
+![:1965=May be sung or recited by the faithful in vernacular:]
+v. Cordeiro de Deus, que tirais os pecados do mundo, tende piedade de nós.
+v. Cordeiro de Deus, que tirais os pecados do mundo, tende piedade de nós.
+v. Cordeiro de Deus, que tiras os pecados do mundo, concede-nos a paz.
+
+!*D
+!In Masses for the Dead, he says twice, instead of Miserere nobis: have mercy on us. Grant them rest. And lastly: Grant them eternal rest.
+v. Cordeiro de Deus, que tiras os pecados do mundo, concede-lhes descanso.
+v. Cordeiro de Deus, que tiras os pecados do mundo, concede-lhes descanso.
+v. Cordeiro de Deus, que tiras os pecados do mundo, concede-lhes o descanso eterno.
+!&AgnusHook
+
+!With his hands joined and resting on the altar, standing inclined, he says the three following prayers:
+!*&CheckQuiDixisti
+v. Ó Senhor Jesus Cristo, que disseste aos Teus Apóstolos: Deixo-vos a paz, a Minha paz vos dou: não tenhais em conta os meus pecados, mas a fé da Tua Igreja; e conceda-lhe conceder-lhe aquela paz e unidade que está de acordo com a Tua vontade: Quem vive e reina a Deus, mundo sem fim. Amém.
+
+!*&CheckPax
+!In Solemn Masses the kiss of peace is now given; the Celebrant saluting the deacon, says:
+P. A paz esteja contigo.
+S. E com o teu espírito. 
+	
+!*D
+!In Masses of the Dead, the kiss of peace is not given.
+
+v. Ó Senhor Jesus Cristo, Filho do Deus vivo, que, segundo a vontade de Teu Pai, com a cooperação do Espírito Santo, por Tua morte deste vida ao mundo; livra-me por este Teu santíssimo Corpo e Sangue, de todas as minhas iniqüidades e de todos os males; e faze-me sempre apegar-me aos Teus mandamentos, e permite que eu nunca me separe de Ti, que vive e reina, com o mesmo Deus Pai e o Espírito Santo, Deus, mundo sem fim. Amém.
+
+v. Não permita que a participação do Teu Corpo, ó Senhor, Jesus Cristo, que eu, embora indigno, presumo receber, recorra ao meu julgamento e condenação; mas deixe-o, através de Tua misericórdia, tornar-se uma salvaguarda e remédio, tanto para a alma como para o corpo; Quem com Deus Pai, na unidade do Espírito Santo, vive e reina a Deus, mundo sem fim. Amém.
+
+!  
+v. Tomarei o Pão do céu e invocarei o Nome do Senhor.
+![:1967=The celebrannt takes the Host and, facing the people, rises it, saying:]
+v. Ecce Agnus Dei
+![:1967=then adding three times with the poeple:]
+V. Senhor, não sou digno de que entres sob meu teto; diga apenas uma palavra, e minha alma será curada.
+V. Senhor, não sou digno de que entres sob meu teto; diga apenas uma palavra, e minha alma será curada.
+V. Senhor, não sou digno de que entres sob meu teto; diga apenas uma palavra, e minha alma será curada.
+
+![:1967=He then communicates himself with the host and chaliceand immediatally distributes communion to the people:]
+
+_
+
+# Comunhão dos fiéis
+![:1965=The formulary for distributing communion is to be:]
+P. O Corpo de Cristo
+R. Amém
+espere16
+{Alma de Cristo, santifica-me. Corpo de Cristo, salva-me. Sangue de Cristo, embriague-me. Água do lado de Cristo, lave-me. Paixão de Cristo, fortalece-me. Ó bom Jesus, ouve-me. Dentro de Tuas feridas me esconda. Não permita que eu me separe de Ti. Do inimigo malicioso defenda-me. Na hora da minha morte me ligue. E peça-me que venha a Ti. Para que eu possa Te louvar com Teus santos. e com Teus anjos, para todo o sempre. Amém. }   
+
+!The priest says silently:
+v. Concede, ó Senhor, que o que tomamos com a boca, possamos receber com uma mente pura; e de um dom temporal que se torne para nós um remédio eterno.
+!Then he holds out the Chalice to the server -- in Solemn Masses to the deacon -- who pours wine into it for the first ablution, then the priest proceeds:
+v. Que o Teu Corpo, ó Senhor, que recebi, e o Teu Sangue que bebi, se apeguem às minhas entranhas; e fazei com que nenhuma mancha de pecado permaneça em mim, que fui alimentado com este puro e santo Sacramento; Quem vive e reina para todo o sempre. Amém.
+!The priest then washes his fingers and receives the second ablution. Then he covers the chalice and folding the corporal, places it on the chalice, as at the beginning of Mass, kneels and goes to the right side of the altar to say the prayers from the Missal.
+
+# Comunhão
+![:1965=The celebrant is not to say privately those parts sung or recited by the Choir or congregation; he may sing or recite along:]
+&communio
+
+# Pós Comunhão
+!The priest turns to the people, and says or sings:
+P. O Senhor esteja convosco.
+S. E com o teu espírito.
+&postcommunio
+
+# Conclusão
+!He turns to the people and says:
+P. O Senhor esteja convosco.
+S. E com o teu espírito.
+_
+!*&CheckBlessing
+!He kisses the altar, and raising his eyes, extending, raising and joining his hands, he bows down his head and says:
+P. Que Deus Todo-Poderoso Pai, Filho + e Espírito Santo, 
+!  
+abençoe.
+S. Amém.
+
+&itemissaest
+
+!*&placeattibi	
+![:Priest recites silently:]
+v. Que a prestação da minha homenagem seja agradável a Ti, ó Santíssima Trindade: e concede que o Sacrifício que eu, embora indigno, ofereci aos olhos de Tua Majestade, seja aceitável para Ti, e através de Tua misericórdia, seja uma propiciação para mim e para todos aqueles por quem o ofereci. Através de Cristo nosso Senhor. Amém.
+
+_  
+
+![:1965=Last Gospel is omitted:]
+
+!*R
+![:1965=Leonine prayer is suppressed:]
+

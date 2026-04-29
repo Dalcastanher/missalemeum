@@ -1,0 +1,88 @@
+[Name]
+Comuna não Virginum não Martyrum
+
+[Rule]
+
+[Introitus]
+!Ps 118:75; 118:120
+v. Eu sei, ó Senhor, que as tuas ordenanças são justas, e na tua fidelidade você ~
+me afligiram. Perfura minha carne com Teu medo; Temo as tuas ordenanças.
+!Ps 118:1
+Felizes aqueles cujo caminho é irrepreensível, que andam na lei do Senhor.
+&Gloria
+v. Eu sei, ó Senhor, que as tuas ordenanças são justas, e na tua fidelidade você ~
+me afligiram. Perfura minha carne com Teu medo; Temo as tuas ordenanças.
+
+[Oratio]
+Ouça-nos graciosamente, ó Deus, nosso Salvador; que enquanto nos alegramos no festival de ~
+abençoada N., podemos ser nutridos pelo alimento de seus ensinamentos celestiais, a ponto de ~
+deixai-vos iluminar pelo fervor da sua consagrada santidade.
+$Per Dominum
+
+[Lectio]
+Lição do livro de Provérbios
+!Prov 31:10-31
+Quando alguém encontra uma esposa digna, seu valor vai muito além das pérolas. Seu marido, confiando-lhe o coração, tem um prêmio infalível. Ela lhe traz o bem, e não o mal, todos os dias de sua vida. Ela obtém lã e linho e faz tecidos com mãos hábeis. Tal como os navios mercantes, ela assegura as suas provisões à distância. Ela se levanta enquanto ainda é noite e distribui comida para sua casa. Ela escolhe um campo para comprar; com os seus ganhos ela planta uma vinha. ela está cingida de força e fortes são os seus braços. Ela gosta do sucesso de suas negociações; à noite, sua lâmpada não está apagada. Ela coloca as mãos na roca e os dedos manuseiam o fuso. Ela estende as mãos aos pobres e estende os braços aos necessitados. Ela não teme a neve em sua casa; todos os seus pupilos estão duplamente vestidos. Ela faz suas próprias colchas; linho fino e púrpura são as suas vestes. Seu marido é proeminente nos portões da cidade enquanto se senta com os anciãos do país. Ela faz roupas e as vende, e abastece os comerciantes com cintos. Ela está vestida de força e dignidade e ri dos dias que virão. Ela abre a boca com sabedoria e na sua língua há conselhos bondosos. Ela observa a conduta de sua casa e não come na ociosidade. Seus filhos se levantam e a elogiam; seu marido também a exalta: Muitas são as mulheres de valor comprovado, mas você superou todas elas. O encanto engana e a beleza é passageira; a mulher que teme ao Senhor será louvada. Dê-lhe uma recompensa pelo seu trabalho e deixe que suas obras a louvem nas portas da cidade.
+
+[Graduale]
+!Ps 44:3; 44:5
+A graça é derramada em seus lábios; assim Deus o abençoou para sempre.
+V. Pela causa da verdade e da misericórdia e por uma questão de justiça: que o seu direito ~
+mão mostrar-lhe feitos maravilhosos. Aleluia, aleluia.
+!Ps 44.5
+V. Em seu esplendor e beleza, cavalgue triunfante e reine. Aleluia.
+
+[Tractus]
+!Ps 44:3; 44:5
+A graça é derramada em seus lábios; assim Deus o abençoou para sempre.
+V. Pela causa da verdade e da misericórdia e por uma questão de justiça: que o seu direito ~
+mão mostrar-lhe feitos maravilhosos.
+V. Vem, ó esposa de Cristo, receber a coroa que o Senhor preparou para você para sempre; pelo amor de quem você derramou seu sangue.
+!Ps 44:8 
+Você ama a justiça e odeia a maldade; portanto, Deus, o seu Deus, o ungiu com o óleo da alegria mais do que a seus companheiros.
+!Ps 44:5
+V. Em seu esplendor e beleza, cavalgue triunfante e reine.
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo Mateus
+!Matt 13:44-52
+Naquele tempo, Jesus contou esta parábola aos seus discípulos: O reino dos céus~
+é como um tesouro escondido num campo; quem o encontra esconde-o, e na sua alegria~
+vai, vende tudo o que tem e compra aquele campo. Novamente, o reino dos céus ~
+é como um comerciante em busca de pérolas finas. Quando ele encontra uma única pérola de ~
+ótimo preço, ele vai, vende tudo o que tem e compra. Novamente, o reino ~
+do céu é como uma rede lançada ao mar que apanha peixes de toda espécie.
+Quando ficou cheio, eles o retiraram e, sentados na praia, eles ~
+juntou os peixes bons em recipientes, mas jogou fora os ruins. Então será em ~
+o fim do mundo. Os anjos sairão e separarão os ímpios do meio ~
+os justos, e os lançará na fornalha de fogo, onde haverá o ~
+choro e ranger de dentes. Você entendeu todas essas coisas? Eles ~
+disse-lhe: Sim. E Ele lhes disse: Então, todo escriba instruído no ~
+O reino dos céus é como um chefe de família que tira do seu depósito.
+coisas novas e velhas.
+
+[Offertorium]
+!Ps 44:3
+A graça é derramada em seus lábios; assim, Deus o abençoou para sempre e para ~
+eras de eras.
+
+[Secreta]
+Ó Senhor, que as ofertas do Teu povo devotado sejam agradáveis ​​​​a Ti em homenagem a ~
+Seus santos, por cujos méritos eles sabem que receberam ajuda em tempos de ~
+julgamento.
+$Per Dominum
+
+[Communio]
+!Ps 44:8
+Você ama a justiça e odeia a maldade; portanto Deus, o seu Deus, o ungiu ~
+com o óleo da alegria acima de seus companheiros.
+
+[Postcommunio]
+Tu encheste o Teu povo, ó Senhor, com presentes sagrados; sempre nos conforte, nós ~
+suplico-te, pela intercessão daquela cuja festa celebramos.
+$Per Dominum
+
+[Lectio1]
+Lição da primeira carta do Apóstolo São Paulo a Timóteo
+!1 Tim. 5:3 - 10.
+Caríssimos: Honrem as viúvas, que são realmente viúvas. Mas se alguma viúva tiver filhos ou netos, aprenda primeiro a governar a sua própria casa e a retribuir o dever para com os pais: pois isto é aceitável diante de Deus. Mas aquela que é realmente viúva e desolada, confie em Deus e continue em orações e súplicas noite e dia. Pois aquela que vive em prazeres está morta enquanto vive. E isto dá o comando, para que sejam irrepreensíveis. Mas se alguém não cuida dos seus, e especialmente dos da sua casa, negou a fé e é pior que um infiel. Que seja escolhida uma viúva com pelo menos sessenta anos de idade, que tenha sido esposa de um só marido, tendo testemunho de suas boas palavras, se ela criou os filhos, se ela recebeu abrigo, se ela lavou os pés dos santos, se ela ministrou aos que sofrem tribulações, se ela seguiu diligentemente toda boa obra.

@@ -1,0 +1,81 @@
+[Name]
+Vigilia Apostolorum, Ego autem
+
+[Rule]
+não, Glória
+sem Credo
+Suffr=Maria;;Ecclesiae,Papa
+
+[Introitus]
+!Ps 51:10-11
+v. Mas eu, como oliveira frutífera na casa de Deus, esperei na misericórdia.
+de Deus para sempre, sim, para todo o sempre. Eu te louvarei para sempre, porque ~
+tu o fizeste: e esperarei no teu nome, porque é bom aos olhos de ~
+teus santos.
+!Ps 51:3
+v. Por que te glorias na malícia, tu que és poderoso na iniqüidade?
+&Gloria
+v. Mas eu, como oliveira frutífera na casa de Deus, esperei na misericórdia.
+de Deus para sempre, sim, para todo o sempre. Eu te louvarei para sempre, porque ~
+tu o fizeste: e esperarei no teu nome, porque é bom aos olhos de ~
+teus santos.
+
+[Oratio]
+Conceda, nós te suplicamos, Deus Todo-Poderoso, que a adorada Festa do teu bem-aventurado ~
+Apóstolo (e Evangelista) N., na véspera de onde estamos agora, pode nos servir para o ~
+aumenta tanto a piedade para contigo como a saúde para as nossas próprias almas.
+$Per Dominum
+
+[Oratio1]
+Conceda, nós te suplicamos, Deus Todo-Poderoso, que a adorada Festa do teu bem-aventurado ~
+Apóstolo N., na véspera de onde estamos agora, pode nos servir para o ~
+aumenta tanto a piedade para contigo como a saúde para as nossas próprias almas.
+$Per Dominum
+
+[Lectio]
+Lição do livro de Eclesiástico
+!Sir 44:25-27; 45:2-4; 45:6-9
+v. O Senhor deu-lhe a bênção de todas as nações e confirmou sua aliança sobre a cabeça de Jacó. Ele o reconheceu em suas bênçãos, deu-lhe uma herança e dividiu-lhe sua porção em doze tribos. E preservou para ele homens misericordiosos, que acharam graça aos olhos de toda carne. Ele o fez como os santos na glória, e o engrandeceu no medo de seus inimigos, e com suas palavras ele fez cessar os prodígios. Ele o glorificou diante dos reis, e deu-lhe mandamentos diante do seu povo, e mostrou-lhe a sua glória. Ele o santificou em sua fé e mansidão, e o escolheu dentre toda a carne. E ele lhe deu mandamentos diante de sua face, e uma lei de vida e instrução, para que ele pudesse ensinar a Jacó sua aliança, e a Israel seus julgamentos. Ele exaltou Arão, seu irmão, e como ele mesmo, da tribo de Levi: Ele fez uma aliança eterna com ele, e deu-lhe o sacerdócio da nação, e o fez abençoado em glória, E ele o cingiu com um cinto glorioso, e o vestiu com um manto de glória, e o coroou com trajes majestosos.
+
+[Graduale]
+!Ps 91:13; 91:14
+v. O justo florescerá como a palmeira: crescerá como o cedro.
+do Líbano. Aqueles que estão plantados na casa do Senhor florescerão no ~
+átrios da casa do nosso Deus.
+!Ps 91:3
+v. Para mostrar a tua misericórdia pela manhã e a tua verdade à noite:
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo João
+!John 15:12-16
+v. Este é o meu mandamento: que vos ameis uns aos outros, como eu vos amei.~
+Maior amor do que este ninguém tem, de dar alguém a sua vida pelos seus ~
+amigos. Vocês são meus amigos, se fizerem as coisas que eu lhes ordeno. eu não vou~
+agora chamai-vos servos; porque o servo não sabe o que faz o seu senhor. Mas eu ~
+chamei vocês de amigos: porque tudo o que ouvi de meu Pai, eu
+dei a conhecer a você. Você não me escolheu: mas eu escolhi você; e tem ~
+designei você, para que você fosse e desse fruto; e sua fruta ~
+deve permanecer: para que tudo o que pedirdes ao Pai em meu nome, ele possa ~
+dê a você.
+
+[Offertorium]
+!Ps 8:6-7
+v. Tu o fizeste um pouco menor que os anjos, tu o coroaste com ~
+glória e honra; e o puseste sobre as obras das tuas mãos.
+
+[Secreta]
+Oferecendo a ti estes mistérios sagrados com reverência pela alta dignidade do ~
+Apostolado, nós te suplicamos, ó Senhor, que através das orações do bem-aventurado N., ~
+teu Apóstolo (e Evangelista), cuja festa aguardamos ansiosamente, teu povo sempre ~
+podem expor seus desejos diante de ti e obter o que procuram.
+$Per Dominum
+
+[Communio]
+!Ps 20:6
+v. Sua glória é grande em tua salvação: glória e grande beleza tu colocarás ~
+sobre ele.
+
+[Postcommunio]
+Seja apaziguado, nós te suplicamos, ó Senhor, pelas orações do teu santo Apóstolo (e ~
+Evangelista), N., e concede-nos perdão e remédios infalíveis.
+$Per Dominum

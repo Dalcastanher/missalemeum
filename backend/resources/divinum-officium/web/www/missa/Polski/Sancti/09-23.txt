@@ -1,0 +1,34 @@
+[Officium]
+Św. Lina Papieża i Męczennika
+
+[Comment]
+# 23 IX – Św. Linusa, Papieża i Męczennika
+! 3 klasy
+! Szaty czerwone
+Św. Linus był bezpośrednim następcą św. Piotra na stolicy rzymskiej. Zmarł około roku 79. Imię jego wymienia się w kanonie Mszy Świętej.
+
+Msza wspólna nr 8 Si diligis.
+
+Wspomnienie św. Tekli
+Św. Tekla, dziewica z Małej Azji, poniosła męczeństwo za Chrystusa około roku 100. Kult jej rozpoczął się w II wieku.
+
+[Name]
+Lina
+
+[Introitus]
+@Commune/C4b:Introitus
+
+[Lectio]
+@Commune/C4b:Lectio
+
+[Graduale]
+@Commune/C4b:Graduale
+
+[Evangelium]
+@Commune/C4b:Evangelium
+
+[Offertorium]
+@Commune/C4b:Offertorium
+
+[Communio]
+@Commune/C4b:Communio

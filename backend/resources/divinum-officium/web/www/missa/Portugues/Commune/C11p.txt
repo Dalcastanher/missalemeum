@@ -1,0 +1,68 @@
+[Name]
+In Festis Beatae Mariae Virginis
+
+[Rule]
+Glória
+Credo
+Prefácio=Maria=Festivitar
+
+[Introitus]
+!  
+v. Salve, Santa Mãe, que no parto deu à luz o Rei que governa o céu.
+e mundo terrestre sem fim. Aleluia, aleluia
+!Ps 44:2
+Meu coração transborda com um belo tema; enquanto canto minha ode ao Rei.
+&Gloria
+v. Salve, Santa Mãe, que no parto deu à luz o Rei que governa o céu.
+e mundo terrestre sem fim.
+
+[Oratio]
+Concede-nos, Teus servos, ó Senhor Deus, nós Te suplicamos, para desfrutarmos de saúde duradoura de ~
+mente e corpo; e pela intercessão da gloriosa e bendita Maria, sempre virgem, ~
+possa ser libertado da tristeza presente e participar da plenitude do eterno ~
+felicidade.
+$Per Dominum
+
+[Lectio]
+Lição do livro de Eclesiástico
+!Sir 24:14-16
+Antes de todos os tempos, no princípio, Ele me criou, e através de todos os tempos não deixarei de existir. Na tenda sagrada ministrei diante dele e em Sião fixei minha morada. Assim, na cidade escolhida Ele me deu descanso, em Jerusalém está o meu domínio. Criei raízes entre o povo glorioso, na porção do meu Deus, Sua herança, e minha morada está na plena assembléia dos Santos.
+
+[Graduale]
+!  
+Bem-aventurada e venerável és tu, ó Virgem Maria, que, sem mácula em teu ~
+virgindade, foram feitas Mãe do Salvador.
+V. Ó Virgem Mãe de Deus, Aquele que o mundo inteiro não contém, tornando-se~
+homem, feche-se em seu ventre. Aleluia, aleluia.
+V. Depois do parto você ainda permaneceu virgem inviolável: Ó Mãe de Deus, ~
+interceda por nós. Aleluia.
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo Lucas
+!Luke 11:27-28
+Naquele tempo, enquanto Jesus falava às multidões, certa mulher do
+multidão levantou a voz e disse-lhe: Bem-aventurado o ventre que te trouxe, ~
+e os seios que te amamentaram. Mas Ele disse: Antes, bem-aventurados os que ouvem.
+a palavra de Deus e guardá-la.
+
+[Offertorium]
+!Luke 1:28, 42.
+Ave, Maria, cheia de graça, o Senhor é contigo; abençoada é você entre as mulheres e ~
+bendito é o fruto do seu ventre. Aleluia.
+
+[Secreta]
+Pela Vossa misericórdia, Senhor, e pela intercessão da bem-aventurada Maria, sempre virgem, ~
+a Mãe do Teu Filho unigênito, que esta oferta nos beneficie para a prosperidade ~
+e paz, agora e para sempre.
+$Per Dominum
+
+[Communio]
+!  
+Bem-aventurado o ventre da Virgem Maria, que deu à luz o Filho do eterno.
+Pai. Aleuia.
+
+[Postcommunio]
+Recebemos ajuda para a nossa salvação, ó Senhor; conceda, nós te imploramos, que nós ~
+possa em toda parte ser protegido pelo patrocínio da bem-aventurada Maria, sempre virgem, em ~
+cuja honra fizemos estas ofertas a Vossa Majestade.
+$Per Dominum

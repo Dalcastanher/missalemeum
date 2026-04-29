@@ -15,7 +15,6 @@ RUN apt-get update \
     fonts-liberation \
     fonts-dejavu-core \
     shared-mime-info \
-    git \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
@@ -35,17 +34,7 @@ COPY resources/propers ./resources/propers
 COPY resources/supplement ./resources/supplement
 COPY resources/divinum-officium-local ./resources/divinum-officium-local
 
-RUN if ! test -f resources/divinum-officium/web/www/missa/Latin/Ordo/Prefationes.txt \
-        || ! test -f resources/divinum-officium/web/www/missa/Portugues/Ordo/Prefationes.txt; then \
-        rm -rf resources/divinum-officium \
-        && git clone --depth=1 \
-            https://github.com/joaodalcastanher/divinum-officium.git /tmp/divoff \
-        && mkdir -p /app/resources/divinum-officium/web/www \
-        && cp -r /tmp/divoff/web/www/missa /app/resources/divinum-officium/web/www/missa \
-        && cp -r /tmp/divoff/web/www/horas /app/resources/divinum-officium/web/www/horas \
-        && rm -rf /tmp/divoff; \
-    fi \
-    && test -f resources/divinum-officium/web/www/missa/Latin/Ordo/Prefationes.txt \
+RUN test -f resources/divinum-officium/web/www/missa/Latin/Ordo/Prefationes.txt \
     && test -f resources/divinum-officium/web/www/missa/Portugues/Ordo/Prefationes.txt
 
 ENV PORT=8080

@@ -1,0 +1,58 @@
+[Name]
+Comuna Unius Martyris, In virtute
+
+[Rule]
+
+[Introitus]
+!Ps 20:2-3
+v. Na tua força, ó Senhor, o rei se alegrará; e na tua salvação ele se regozijará excessivamente. Você deu a ele o desejo de seu coração
+!Ps 20:4
+v. Pois tu o preveniste com bênçãos de doçura: puseste em sua cabeça uma coroa de pedras preciosas.
+&Gloria
+v. Na tua força, ó Senhor, o rei se alegrará; e na tua salvação ele se regozijará excessivamente. Você deu a ele o desejo de seu coração
+
+[Oratio]
+Conceda, nós te pedimos, Deus Todo-Poderoso, que nós que celebramos o martírio de ~
+bem-aventurado N., por sua intercessão seja fortalecido em seu amor.
+$Per Dominum
+
+[Lectio]
+Lição do livro da Sabedoria
+!Wis 10:10-14
+Ela conduziu o justo, quando ele fugiu da ira de seu irmão, pelos caminhos certos, e mostrou-lhe o reino de Deus, e deu-lhe o conhecimento das coisas sagradas, tornou-o honrado em seus trabalhos e realizou seus trabalhos. No engano daqueles que o alcançaram, ela ficou ao lado dele e o tornou honrado. Ela o manteve a salvo de seus inimigos, e o defendeu dos sedutores, e deu-lhe um forte conflito, para que ele pudesse vencer e saber que a sabedoria é mais poderosa que tudo. Ela não abandonou o justo quando ele foi vendido, mas o livrou dos pecadores: ela desceu com ele na cova. E ela não o deixou em bandos, até que lhe trouxe o cetro do reino e o poder contra aqueles que o oprimiam; e mostrou que eram mentirosos os que o acusaram, e lhe deu glória eterna.
+ 
+[Graduale]
+!Ps 111:1-2
+v. Bem-aventurado o homem que teme ao Senhor: ele se deleitará excessivamente nos seus mandamentos. A sua descendência será poderosa na terra; a geração dos justos será abençoada. Allelàja, allelàja.
+!Ps 20:4
+v. Pois tu o preveniste com bênçãos de doçura: puseste em sua cabeça uma coroa de pedras preciosas. Alelíja.
+
+[Tractus]
+!Ps 111:1-2
+v. Bem-aventurado o homem que teme ao Senhor: ele se deleitará excessivamente nos seus mandamentos. A sua descendência será poderosa na terra; a geração dos justos será abençoada.
+!Ps 20:3-4
+v. Tu lhe concedeste o desejo do seu coração; e não lhe negaste a vontade dos seus lábios. 
+V. Pois tu o preveniste com bênçãos de doçura: 
+V. Colocaste em sua cabeça uma coroa de pedras preciosas.
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo Mateus
+!Matt 10:34-42 
+Naquele tempo: Jesus disse aos seus discípulos: Não penseis que vim trazer paz à terra: não vim trazer paz, mas espada. Pois eu vim pôr em conflito o homem contra seu pai, e a filha contra sua mãe, e a nora contra sua sogra. E como inimigos do homem serão os da sua própria casa. Quem ama o pai ou a mãe mais do que a mim não é digno de mim; e quem ama o filho ou a filha mais do que a mim não é digno de mim. E quem não toma a sua cruz e não me segue não é digno de mim. Quem achar a sua vida, perdê-la-á; e quem perder a sua vida por minha causa, achá-la-á. Quem vos recebe, recebe a mim; e quem me recebe, recebe aquele que me enviou. Quem recebe um profeta na qualidade de profeta, receberá a recompensa de profeta; e quem recebe um justo na qualidade de justo, receberá a recompensa de justo. E qualquer que der de beber a um destes pequeninos, somente em nome de discípulo, em nome de discípulo, em verdade vos digo, não perderá a sua recompensa.
+
+[Offertorium]
+!Ps 8:6-7
+v. Tu o fizeste um pouco menor que os anjos, tu o coroaste de glória e honra: e o puseste sobre as obras das tuas mãos.
+
+[Secreta]
+Como recebeste nossas dádivas e orações, ó Senhor, purifica-nos, pedimos por teus mistérios celestiais e ouve-nos graciosamente.
+$Per Dominum
+
+[Communio]
+!Matt 16:24
+Quem quiser vir após Mim, negue-se a si mesmo, e tome a sua cruz, e ~
+me siga.
+
+[Postcommunio]
+Conceda, nós te suplicamos, ó nosso Deus, que nós, que no tempo prestamos alegres serviços em memória dos teus santos, possamos nos alegrar com sua companhia na eternidade.
+$Per Dominum

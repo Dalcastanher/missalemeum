@@ -1,0 +1,94 @@
+[Name]
+Commune Virgine et martyre=Loquebar
+
+[Rule]
+Glória
+
+[Introitus]
+!Ps 118:46 - 47.
+v. Falarei dos Teus decretos diante dos reis sem me envergonhar. E eu vou ~
+deleito-me nos teus mandamentos, que eu amo muito. 
+!Ps 118:1
+Felizes aqueles cujo caminho é irrepreensível, que andam na lei do Senhor.
+&Gloria
+v. Falarei dos Teus decretos diante dos reis sem me envergonhar. E eu vou ~
+deleito-me nos teus mandamentos, que eu amo muito. 
+
+[Oratio]
+Ó Deus, que entre os outros milagres do Teu poder concedeu a vitória de ~
+martírio mesmo sobre o sexo mais fraco, conceda graciosamente que nós que comemoramos o ~
+aniversário da morte do bem-aventurado N., Vossa Virgem e Mártir, chegue até você ~
+pelo caminho de seu exemplo.
+$Per Dominum
+
+[Lectio]
+Lição do livro de Eclesiástico
+!Sir 51:1-8; 5:12
+Eu te darei graças, ó Senhor, ó Rei; Eu te louvarei, ó Deus meu Salvador! Darei a conhecer o teu nome; pois tu preservaste o meu corpo da destruição, do flagelo da língua caluniosa e dos lábios que se entregam à falsidade; e aos olhos dos que estavam por perto: Tu foste meu ajudador. E tu me livraste, segundo a multidão da misericórdia do teu nome, daqueles que rugiam, preparados para devorar; do poder daqueles que buscaram minha vida e das portas das aflições que me cercaram; da opressão das chamas que me cercaram por todos os lados, e no meio do fogo não fui queimado; das profundezas do mundo inferior, e de uma língua impura, e de palavras mentirosas, de um rei injusto, e de línguas desonestas. A minha alma louvará ao Senhor até à morte; porque tu, Senhor, nosso Deus, salva aqueles que em ti se refugiam e os livra das mãos das nações.
+
+[Graduale]
+!Ps 44:8
+Você ama a justiça e odeia a maldade.
+V.Portanto Deus, o teu Deus, te ungiu com o óleo da alegria. Aleluia, ~
+Aleluia.
+!Ps 44:15-16
+V. Atrás dela as virgens de sua comitiva são levadas ao rei. Eles são suportados ~
+em Ti com alegria. Aleluia.
+
+[Tractus]
+!Ps 44:8
+Você ama a justiça e odeia a maldade.
+V.Portanto Deus, o teu Deus, te ungiu com o óleo da alegria.
+!  
+Vem, ó esposa de Cristo, receber a coroa que o Senhor preparou para você para sempre; pelo amor de quem você derramou seu sangue
+!Ps 44:8; 44:5
+V. Você ama a justiça e odeia a maldade; portanto, Deus, o seu Deus, o ungiu com o óleo da alegria mais do que a seus companheiros.
+V. Em seu esplendor e beleza, cavalgue triunfante e reine.
+
+[GradualeP]
+Aleluia, aleluia.
+!Ps 44:15-16
+V. Atrás dela as virgens de sua comitiva são levadas ao rei. Eles são suportados ~
+em Ti com alegria. Aleluia.
+!Ps 44:5
+V. Em seu esplendor e beleza, cavalgue triunfante e reine. Aleluia.
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo Mateus
+!Matt 25:1 - 13.
+Naquele tempo, Jesus contou esta parábola aos seus discípulos: “Então o reino
+do céu sejam como dez virgens que pegaram suas lâmpadas e saíram ao encontro do ~
+noivo e a noiva. Cinco deles eram tolos e cinco sábios. Mas os cinco ~
+as tolas, quando pegaram suas lâmpadas, não levaram óleo consigo, enquanto as sábias o fizeram.
+levem óleo nos seus recipientes junto com as lâmpadas. Então, como o noivo já estava há muito tempo ~
+chegando, todos ficaram sonolentos e dormiram. E à meia-noite surgiu um grito: 'Eis que ~
+o noivo está chegando, vá ao seu encontro!' Então todas aquelas virgens surgiram~
+e apararam suas lâmpadas. E os tolos disseram aos sábios: 'Dê-nos um pouco do seu ~
+óleo, pois nossas lâmpadas estão se apagando.' Os sábios responderam, dizendo: 'Para que não haja ~
+não for suficiente para nós e para você, vá até quem vende e compre alguns ~
+para vocês mesmos. Ora, enquanto elas iam comprá-lo, chegou o noivo; e ~
+aqueles que estavam prontos entraram com ele para a festa de casamento, e a porta estava ~
+fechar. Finalmente chegaram também as outras virgens, que disseram: 'Senhor, senhor, abra o ~
+porta para nós!' Mas ele respondeu e disse: 'Em verdade, eu te digo, não te conheço.'
+Vigiai, pois, porque não sabeis nem o dia nem a hora."
+
+[Offertorium]
+!Ps 44:15 - 16.
+Atrás dela, as virgens de sua comitiva são levadas ao rei. Eles são nascidos em ~
+para Ti com alegria e alegria; eles entram no palácio do Senhor, o Rei.
+
+[Secreta]
+Aceita, Senhor, os presentes que trazemos na festa da bem-aventurada N., tua Virgem.
+e Mártir, através de cujo patrocínio esperamos ser libertos.
+$Per Dominum
+
+[Communio]
+!Ps 118:78, 80.
+Sejam envergonhados os orgulhosos por me oprimirem injustamente; Vou meditar ~
+nos teus preceitos, nos teus estatutos, para que eu não seja envergonhado.
+
+[Postcommunio]
+Que o sacramento que recebemos nos ajude, Senhor, e pela intercessão de ~
+bendito N., Sua Virgem e Mártir, que nos mantenha para sempre sob Seu ~
+proteção eterna.
+$Per Dominum
