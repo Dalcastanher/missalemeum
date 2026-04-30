@@ -96,6 +96,18 @@ def test_portuguese_saint_titles_are_translated():
     assert [] == untranslated
 
 
+@pytest.mark.parametrize("source,expected", [
+    ("Lição da Ep.ª do B. Ap.º Paulo aos Coríntios", "Leitura da carta de São Paulo aos Coríntios"),
+    ("Lição da Ep.ª do B. Ap.º Paulo a Timóteo.", "Leitura da carta de São Paulo a Timóteo."),
+])
+def test_portuguese_epistle_heading_is_normalized(source, expected):
+    transformed = source
+    for condition, pattern, replacement in TRANSLATION[LANGUAGE_PORTUGUESE].TRANSFORMATIONS:
+        if condition(transformed):
+            transformed = pattern.sub(replacement, transformed)
+    assert expected == transformed
+
+
 def _get_dates():
     for lang in (LANGUAGE_ENGLISH, LANGUAGE_POLSKI):
         date_ = date(2020, 7, 1)
