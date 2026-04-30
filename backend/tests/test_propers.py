@@ -27,7 +27,7 @@ def test_parse_proper_no_refs():
     assert 'Ml 3:1' in proper_vernacular.get_section(INTROIT).body[0]
     assert 'Boże, w dniu dzisiejszym' in proper_vernacular.get_section(ORATIO).body[0]
     assert '*Is 60:1-6*' in proper_vernacular.get_section(LECTIO).body[1]
-    assert 'Iz 60:6; 60:1' in proper_vernacular.get_section(GRADUALE).body[0]
+    assert 'Is 60:6; 60:1' in proper_vernacular.get_section(GRADUALE).body[0]
     assert '*Mt 2:1-12*' in proper_vernacular.get_section(EVANGELIUM).body[1]
     assert 'Ps 71:10-11' in proper_vernacular.get_section(OFFERTORIUM).body[0]
     assert 'Wejrzyj miłościwie' in proper_vernacular.get_section(SECRETA).body[0]
