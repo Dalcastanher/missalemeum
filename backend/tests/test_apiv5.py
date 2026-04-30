@@ -31,7 +31,7 @@ def test_api_date(client):
     assert [] == info["supplements"]
     assert "Środa po 23 Niedzieli po Zesłaniu Ducha Świętego" == info["tempora"]
     assert "Św. Marcina, Biskupa i Wyznawcy" == info["title"]
-    assert "*Syr 45:30" in data[0]["sections"][0]["body"][0][0]
+    assert "*Eus 45:30" in data[0]["sections"][0]["body"][0][0]
 
 
 def test_api_date_portuguese_prefaces_from_divinum_officium(client):
@@ -187,7 +187,7 @@ def test_api_proper(client):
     assert "sancti:11-11:3:w" == info["id"]
     assert 3 == info["rank"]
     assert "Św. Marcina, Biskupa i Wyznawcy" == info["title"]
-    assert "*Syr 45:30" in data[0]["sections"][0]["body"][0][0]
+    assert "*Eus 45:30" in data[0]["sections"][0]["body"][0][0]
 
 
 def test_api_proper_slug(client):

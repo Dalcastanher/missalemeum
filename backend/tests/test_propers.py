@@ -35,14 +35,14 @@ def test_parse_proper_no_refs():
     assert 'Spraw, prosimy,' in proper_vernacular.get_section(POSTCOMMUNIO).body[0]
     assert 'Prefacja o Objawieniu' in proper_vernacular.get_section(PREFATIO).body[0]
 
-    assert 'Malach 3:1' in proper_latin.get_section(INTROIT).body[0]
+    assert 'Ml 3:1' in proper_latin.get_section(INTROIT).body[0]
     assert 'Deus, qui hodiérna die' in proper_latin.get_section(ORATIO).body[0]
     assert '*Is 60:1-6*' in proper_latin.get_section(LECTIO).body[1]
-    assert '*Isa 60:6; 60:1*' in proper_latin.get_section(GRADUALE).body[0]
-    assert '*Matt 2:1-12*' in proper_latin.get_section(EVANGELIUM).body[1]
+    assert '*Is 60:6; 60:1*' in proper_latin.get_section(GRADUALE).body[0]
+    assert '*Mt 2:1-12*' in proper_latin.get_section(EVANGELIUM).body[1]
     assert '*Ps 71:10-11*' in proper_latin.get_section(OFFERTORIUM).body[0]
     assert 'Ecclésiæ tuæ, quǽsumus' in proper_latin.get_section(SECRETA).body[0]
-    assert '*Matt 2:2*' in proper_latin.get_section(COMMUNIO).body[0]
+    assert '*Mt 2:2*' in proper_latin.get_section(COMMUNIO).body[0]
     assert 'Præsta, quǽsumus, omnípotens' in proper_latin.get_section(POSTCOMMUNIO).body[0]
     assert '*de Epiphania Domini*' in proper_latin.get_section(PREFATIO).body[0]
 
@@ -50,7 +50,7 @@ def test_parse_proper_ref_outside_sections():
     proper_vernacular, proper_latin = ProperParser(c.SANCTI_10_DU, language).parse()
     assert 'Chrystusa Króla' in proper_vernacular.title
     assert '*Ap 5:12; 1:6*' in proper_vernacular.get_section(INTROIT).body[0]
-    assert '*Apoc 5:12; 1:6*' in proper_latin.get_section(INTROIT).body[0]
+    assert '*Ap 5:12; 1:6*' in proper_latin.get_section(INTROIT).body[0]
 
 
 def test_invalid_proper_id():
@@ -67,7 +67,7 @@ def test_get_proper_from_observance():
     proper_vernacular, proper_latin = Observance(c.SANCTI_01_06, date(2018, 1, 6), language).get_proper()
     assert 'Objawienie' in proper_vernacular.title
     assert 'Ml 3:1' in proper_vernacular.get_section(INTROIT).body[0]
-    assert 'Malach 3:1' in proper_latin.get_section(INTROIT).body[0]
+    assert 'Ml 3:1' in proper_latin.get_section(INTROIT).body[0]
     assert 'Deus, qui hodiérna die' in proper_latin.get_section(ORATIO).body[0]
 
 
@@ -75,7 +75,7 @@ def test_latin_st_peter_of_verona_has_gospel():
     _, proper_latin = ProperParser(c.SANCTI_04_29, LANGUAGE_LATIN).parse()
     evangelium = proper_latin.get_section(EVANGELIUM)
     assert evangelium is not None
-    assert 'Matt 10:34-42' in evangelium.serialize()["body"]
+    assert 'Mt 10:34-42' in evangelium.serialize()["body"]
 
 
 def test_get_proper_from_day():
@@ -83,7 +83,7 @@ def test_get_proper_from_day():
     proper_vernacular, proper_latin = missal.get_day(date(2018, 1, 6)).get_proper()[0]
     assert 'Objawienie' in proper_vernacular.title
     assert 'Ml 3:1' in proper_vernacular.get_section(INTROIT).body[0]
-    assert 'Malach 3:1' in proper_latin.get_section(INTROIT).body[0]
+    assert 'Ml 3:1' in proper_latin.get_section(INTROIT).body[0]
     assert 'Deus, qui hodiérna die' in proper_latin.get_section(ORATIO).body[0]
 
 
@@ -287,16 +287,16 @@ def test_calculated_commemorations(date_, collect_contains,secreta_contains,post
 
 @pytest.mark.parametrize("date_,introit,collect,lectio,gradual,evangelium,offertorium,secreta,communio,postcommunio", [
     # 4th Sunday after Epiphany moved to the period after Pentecost
-    ((2018, 11, 4), "Jer 29:11; 29:12; 29:14", "Deus, qui nos", "Rom 13:8-10", "Ps 43:8-9", "Matt 8:23-27",
+    ((2018, 11, 4), "Je 29:11; 29:12; 29:14", "Deus, qui nos", "Rm 13:8-10", "Ps 43:8-9", "Mt 8:23-27",
      "Ps 129:1-2", "Concéde, quǽsumus", "Marc 11:24", "Múnera tua nos"),
     # Monday after 4th Sunday after Epiphany moved to the period after Pentecost
-    ((2018, 11, 5), "Jer 29:11; 29:12; 29:14", "Deus, qui nos", "Rom 13:8-10", "Ps 43:8-9", "Matt 8:23-27",
+    ((2018, 11, 5), "Je 29:11; 29:12; 29:14", "Deus, qui nos", "Rm 13:8-10", "Ps 43:8-9", "Mt 8:23-27",
      "Ps 129:1-2", "Concéde, quǽsumus", "Marc 11:24", "Múnera tua nos"),
     # 5th Sunday after Epiphany moved to the period after Pentecost
-    ((2018, 11, 11), "Jer 29:11; 29:12; 29:14", "Famíliam tuam", "Col 3:12-17", "Ps 43:8-9", "Matt 13:24-30",
+    ((2018, 11, 11), "Je 29:11; 29:12; 29:14", "Famíliam tuam", "Cl 3:12-17", "Ps 43:8-9", "Mt 13:24-30",
      "Ps 129:1-2", "Hóstias tibi", "Marc 11:24", "Quǽsumus, omnípotens"),
     # 6th Sunday after Epiphany moved to the period after Pentecost
-    ((2018, 11, 18), "Jer 29:11; 29:12; 29:14", "Præsta, quǽsumus", "1 Thess 1:2-10", "Ps 43:8-9", "Matt 13:31-35",
+    ((2018, 11, 18), "Je 29:11; 29:12; 29:14", "Præsta, quǽsumus", "1Ts 1:2-10", "Ps 43:8-9", "Mt 13:31-35",
      "Ps 129:1-2", "Hæc nos oblátio", "Marc 11:24", "Cœléstibus, Dómine"),
 ])
 def test_sundays_shifted_from_post_epiphany_to_post_pentecost_have_proper_sections(
