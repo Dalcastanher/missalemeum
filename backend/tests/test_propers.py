@@ -26,7 +26,7 @@ def test_parse_proper_no_refs():
     assert 'Szaty białe' in proper_vernacular.tags
     assert 'Ml 3:1' in proper_vernacular.get_section(INTROIT).body[0]
     assert 'Boże, w dniu dzisiejszym' in proper_vernacular.get_section(ORATIO).body[0]
-    assert '*Iz 60:1-6*' in proper_vernacular.get_section(LECTIO).body[1]
+    assert '*Is 60:1-6*' in proper_vernacular.get_section(LECTIO).body[1]
     assert 'Iz 60:6; 60:1' in proper_vernacular.get_section(GRADUALE).body[0]
     assert '*Mt 2:1-12*' in proper_vernacular.get_section(EVANGELIUM).body[1]
     assert 'Ps 71:10-11' in proper_vernacular.get_section(OFFERTORIUM).body[0]
@@ -288,16 +288,16 @@ def test_calculated_commemorations(date_, collect_contains,secreta_contains,post
 @pytest.mark.parametrize("date_,introit,collect,lectio,gradual,evangelium,offertorium,secreta,communio,postcommunio", [
     # 4th Sunday after Epiphany moved to the period after Pentecost
     ((2018, 11, 4), "Je 29:11; 29:12; 29:14", "Deus, qui nos", "Rm 13:8-10", "Ps 43:8-9", "Mt 8:23-27",
-     "Ps 129:1-2", "Concéde, quǽsumus", "Marc 11:24", "Múnera tua nos"),
+     "Ps 129:1-2", "Concéde, quǽsumus", "Mc 11:24", "Múnera tua nos"),
     # Monday after 4th Sunday after Epiphany moved to the period after Pentecost
     ((2018, 11, 5), "Je 29:11; 29:12; 29:14", "Deus, qui nos", "Rm 13:8-10", "Ps 43:8-9", "Mt 8:23-27",
-     "Ps 129:1-2", "Concéde, quǽsumus", "Marc 11:24", "Múnera tua nos"),
+     "Ps 129:1-2", "Concéde, quǽsumus", "Mc 11:24", "Múnera tua nos"),
     # 5th Sunday after Epiphany moved to the period after Pentecost
     ((2018, 11, 11), "Je 29:11; 29:12; 29:14", "Famíliam tuam", "Cl 3:12-17", "Ps 43:8-9", "Mt 13:24-30",
-     "Ps 129:1-2", "Hóstias tibi", "Marc 11:24", "Quǽsumus, omnípotens"),
+     "Ps 129:1-2", "Hóstias tibi", "Mc 11:24", "Quǽsumus, omnípotens"),
     # 6th Sunday after Epiphany moved to the period after Pentecost
     ((2018, 11, 18), "Je 29:11; 29:12; 29:14", "Præsta, quǽsumus", "1Ts 1:2-10", "Ps 43:8-9", "Mt 13:31-35",
-     "Ps 129:1-2", "Hæc nos oblátio", "Marc 11:24", "Cœléstibus, Dómine"),
+     "Ps 129:1-2", "Hæc nos oblátio", "Mc 11:24", "Cœléstibus, Dómine"),
 ])
 def test_sundays_shifted_from_post_epiphany_to_post_pentecost_have_proper_sections(
         date_, introit, collect, lectio, gradual, evangelium, offertorium, secreta, communio, postcommunio):
