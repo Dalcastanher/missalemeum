@@ -5,7 +5,8 @@ from datetime import date, timedelta
 import pytest
 
 from .conftest import HERE
-from api.constants.common import LANGUAGE_ENGLISH, LANGUAGE_POLSKI
+from api.constants import TRANSLATION
+from api.constants.common import LANGUAGE_ENGLISH, LANGUAGE_POLSKI, LANGUAGE_PORTUGUESE
 
 
 def test_api_calendar(client):
@@ -71,6 +72,28 @@ def test_api_date_portuguese_st_catherine_title(client):
 
     proper = resp.json()[0]
     assert "Santa Catarina de Sena, Virgem" == proper["info"]["title"]
+
+
+def test_portuguese_saint_titles_are_translated():
+    untranslated_markers = (
+        "St.",
+        "Sts.",
+        "Our Lady",
+        "Blessed",
+        "Blessed Virgin",
+        "Holy ",
+        " of the ",
+        " and ",
+        "Pope",
+        "For Octave",
+    )
+    untranslated = [
+        (proper_id, title)
+        for proper_id, title in TRANSLATION[LANGUAGE_PORTUGUESE].TITLES.items()
+        if proper_id.startswith("sancti:")
+        and any(marker in title for marker in untranslated_markers)
+    ]
+    assert [] == untranslated
 
 
 def _get_dates():
