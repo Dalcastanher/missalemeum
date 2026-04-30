@@ -65,6 +65,14 @@ def test_api_date_portuguese_returns_only_portuguese_sections(client):
         assert len(section["body"][0]) == 1
 
 
+def test_api_date_portuguese_st_catherine_title(client):
+    resp = client.get('/pt/api/v5/proper/2026-04-30')
+    assert 200 == resp.status_code
+
+    proper = resp.json()[0]
+    assert "Santa Catarina de Sena, Virgem" == proper["info"]["title"]
+
+
 def _get_dates():
     for lang in (LANGUAGE_ENGLISH, LANGUAGE_POLSKI):
         date_ = date(2020, 7, 1)

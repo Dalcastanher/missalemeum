@@ -540,7 +540,7 @@ TITLES = {
     constants.SANCTI_04_27: 'St. Peter Canisius',
     constants.SANCTI_04_28: 'St. Paul of the Cross',
     constants.SANCTI_04_29: 'S. Pedro de Verona, Mártir',
-    constants.SANCTI_04_30: 'St. Catherine of Siena',
+    constants.SANCTI_04_30: 'Santa Catarina de Sena, Virgem',
     constants.SANCTI_05_01: 'St. Joseph the Workman',
     constants.SANCTI_05_02: 'St. Athanasius',
     constants.SANCTI_05_03: 'Sts. Alexander & Companions',
