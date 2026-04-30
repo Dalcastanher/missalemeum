@@ -76,6 +76,9 @@ def test_api_date_portuguese_st_catherine_title(client):
 
 def test_portuguese_saint_titles_are_translated():
     untranslated_markers = (
+        "S.",
+        "S. ",
+        "SS.",
         "St.",
         "Sts.",
         "Our Lady",
@@ -99,6 +102,7 @@ def test_portuguese_saint_titles_are_translated():
 @pytest.mark.parametrize("source,expected", [
     ("Lição da Ep.ª do B. Ap.º Paulo aos Coríntios", "Leitura da carta de São Paulo aos Coríntios"),
     ("Lição da Ep.ª do B. Ap.º Paulo a Timóteo.", "Leitura da carta de São Paulo a Timóteo."),
+    ("Continuação ☩ do santo Evangelho segundo S. Mateus", "Continuação ☩ do santo Evangelho segundo São Mateus"),
 ])
 def test_portuguese_epistle_heading_is_normalized(source, expected):
     transformed = source
