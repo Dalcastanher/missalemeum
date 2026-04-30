@@ -20,6 +20,82 @@ from api.propers.models import Proper, Section, ProperConfig, ParsedSource
 
 log = logging.getLogger(__name__)
 
+SCRIPTURE_BOOK_REPLACEMENTS = (
+    (re.compile(r'(?<=\*)1\s*(?:Sam|Samuel|Sm)\.?(?=\s*\d)', re.I), '1Sm'),
+    (re.compile(r'(?<=\*)2\s*(?:Sam|Samuel|Sm)\.?(?=\s*\d)', re.I), '2Sm'),
+    (re.compile(r'(?<=\*)1\s*(?:Kgs?|Kings|Rs)\.?(?=\s*\d)', re.I), '1Rs'),
+    (re.compile(r'(?<=\*)2\s*(?:Kgs?|Kings|Rs)\.?(?=\s*\d)', re.I), '2Rs'),
+    (re.compile(r'(?<=\*)3\s*(?:Kgs?|Kings)\.?(?=\s*\d)', re.I), '1Rs'),
+    (re.compile(r'(?<=\*)4\s*(?:Kgs?|Kings)\.?(?=\s*\d)', re.I), '2Rs'),
+    (re.compile(r'(?<=\*)1\s*(?:Par|Chron|Chronicles|Pa)\.?(?=\s*\d)', re.I), '1Pa'),
+    (re.compile(r'(?<=\*)2\s*(?:Par|Chron|Chronicles|Pa)\.?(?=\s*\d)', re.I), '2Pa'),
+    (re.compile(r'(?<=\*)1\s*(?:Mach|Macc|Maccabees|Ma)\.?(?=\s*\d)', re.I), '1Ma'),
+    (re.compile(r'(?<=\*)2\s*(?:Mach|Macc|Maccabees|Ma)\.?(?=\s*\d)', re.I), '2Ma'),
+    (re.compile(r'(?<=\*)1\s*(?:Cor|Corinthians|Co)\.?(?=\s*\d)', re.I), '1Co'),
+    (re.compile(r'(?<=\*)2\s*(?:Cor|Corinthians|Co)\.?(?=\s*\d)', re.I), '2Co'),
+    (re.compile(r'(?<=\*)1\s*(?:Thess|Thessalonians|Ts)\.?(?=\s*\d)', re.I), '1Ts'),
+    (re.compile(r'(?<=\*)2\s*(?:Thess|Thessalonians|Ts)\.?(?=\s*\d)', re.I), '2Ts'),
+    (re.compile(r'(?<=\*)1\s*(?:Tim|Timothy|Tm)\.?(?=\s*\d)', re.I), '1Tm'),
+    (re.compile(r'(?<=\*)2\s*(?:Tim|Timothy|Tm)\.?(?=\s*\d)', re.I), '2Tm'),
+    (re.compile(r'(?<=\*)1\s*(?:Pet|Peter|Pe)\.?(?=\s*\d)', re.I), '1Pe'),
+    (re.compile(r'(?<=\*)2\s*(?:Pet|Peter|Pe)\.?(?=\s*\d)', re.I), '2Pe'),
+    (re.compile(r'(?<=\*)1\s*(?:John|Joann|Jo)\.?(?=\s*\d)', re.I), '1Jo'),
+    (re.compile(r'(?<=\*)2\s*(?:John|Joann|Jo)\.?(?=\s*\d)', re.I), '2Jo'),
+    (re.compile(r'(?<=\*)3\s*(?:John|Joann|Jo)\.?(?=\s*\d)', re.I), '3Jo'),
+    (re.compile(r'(?<=\*)(?:Gen|Genesis)\.?(?=\s*\d)', re.I), 'Gn'),
+    (re.compile(r'(?<=\*)(?:Exod|Exo|Exodus)\.?(?=\s*\d)', re.I), 'Ex'),
+    (re.compile(r'(?<=\*)(?:Lev|Leviticus)\.?(?=\s*\d)', re.I), 'Lv'),
+    (re.compile(r'(?<=\*)(?:Num|Numbers)\.?(?=\s*\d)', re.I), 'Nm'),
+    (re.compile(r'(?<=\*)(?:Deut|Deuteronomy)\.?(?=\s*\d)', re.I), 'Dt'),
+    (re.compile(r'(?<=\*)(?:Jos|Josh|Joshua)\.?(?=\s*\d)', re.I), 'Js'),
+    (re.compile(r'(?<=\*)(?:Judg|Judges)\.?(?=\s*\d)', re.I), 'Ju'),
+    (re.compile(r'(?<=\*)(?:Ruth)\.?(?=\s*\d)', re.I), 'Rt'),
+    (re.compile(r'(?<=\*)(?:Tob|Tobias)\.?(?=\s*\d)', re.I), 'Tob'),
+    (re.compile(r'(?<=\*)(?:Judith|Jdt?)\.?(?=\s*\d)', re.I), 'Jdi'),
+    (re.compile(r'(?<=\*)(?:Esther|Esth|Est)\.?(?=\s*\d)', re.I), 'Est'),
+    (re.compile(r'(?<=\*)(?:Job|Jó)\.?(?=\s*\d)', re.I), 'Job'),
+    (re.compile(r'(?<=\*)(?:Ps|Psalm|Sl)\.?(?=\s*\d)', re.I), 'Ps'),
+    (re.compile(r'(?<=\*)(?:Prov|Proverbs|Pv)\.?(?=\s*\d)', re.I), 'Pv'),
+    (re.compile(r'(?<=\*)(?:Ecclesiastes|Eccles|Ecl)\.?(?=\s*\d)', re.I), 'Ees'),
+    (re.compile(r'(?<=\*)(?:Cant|Canticle|Ct|Song)\.?(?=\s*\d)', re.I), 'Cc'),
+    (re.compile(r'(?<=\*)(?:Sap|Wis|Wisdom|Sb|Mdr)\.?(?=\s*\d)', re.I), 'Sa'),
+    (re.compile(r'(?<=\*)(?:Eccli|Ecclus|Sir|Syr|Eclo|Ecli)\.?(?=\s*\d)', re.I), 'Eus'),
+    (re.compile(r'(?<=\*)(?:Is|Isa|Isaiah|Isaias|Iz)\.?(?=\s*\d)', re.I), 'Is'),
+    (re.compile(r'(?<=\*)(?:Jer|Jeremiah|Jeremias|Jr)\.?(?=\s*\d)', re.I), 'Je'),
+    (re.compile(r'(?<=\*)(?:Lam|Lamentations)\.?(?=\s*\d)', re.I), 'Lm'),
+    (re.compile(r'(?<=\*)(?:Bar|Baruch)\.?(?=\s*\d)', re.I), 'Ba'),
+    (re.compile(r'(?<=\*)(?:Ezech|Ezek|Ezekiel)\.?(?=\s*\d)', re.I), 'Ez'),
+    (re.compile(r'(?<=\*)(?:Dan|Daniel)\.?(?=\s*\d)', re.I), 'Dn'),
+    (re.compile(r'(?<=\*)(?:Osee|Hos|Hosea|Os|Oz)\.?(?=\s*\d)', re.I), 'Os'),
+    (re.compile(r'(?<=\*)(?:Joel|Jl)\.?(?=\s*\d)', re.I), 'Jl'),
+    (re.compile(r'(?<=\*)(?:Amos|Am)\.?(?=\s*\d)', re.I), 'Am'),
+    (re.compile(r'(?<=\*)(?:Abd|Obad|Obadiah)\.?(?=\s*\d)', re.I), 'Ab'),
+    (re.compile(r'(?<=\*)(?:Jonah|Jonas)\.?(?=\s*\d)', re.I), 'Jn'),
+    (re.compile(r'(?<=\*)(?:Mich|Micah|Mq)\.?(?=\s*\d)', re.I), 'Mic'),
+    (re.compile(r'(?<=\*)(?:Nah|Nahum)\.?(?=\s*\d)', re.I), 'Na'),
+    (re.compile(r'(?<=\*)(?:Hab|Habacuc)\.?(?=\s*\d)', re.I), 'Hc'),
+    (re.compile(r'(?<=\*)(?:Soph|Sophonias|Zephaniah)\.?(?=\s*\d)', re.I), 'So'),
+    (re.compile(r'(?<=\*)(?:Agg|Hag|Haggai)\.?(?=\s*\d)', re.I), 'Ag'),
+    (re.compile(r'(?<=\*)(?:Zach|Zech|Zacharias)\.?(?=\s*\d)', re.I), 'Zc'),
+    (re.compile(r'(?<=\*)(?:Mal|Malach|Malachias)\.?(?=\s*\d)', re.I), 'Ml'),
+    (re.compile(r'(?<=\*)(?:Matt|Matthew|Mt)\.?(?=\s*\d)', re.I), 'Mt'),
+    (re.compile(r'(?<=\*)(?:Marc|Mark|Mc|Mr)\.?(?=\s*\d)', re.I), 'Mc'),
+    (re.compile(r'(?<=\*)(?:Luc|Luke|Lc)\.?(?=\s*\d)', re.I), 'Lc'),
+    (re.compile(r'(?<=\*)(?:Joann|John|Jo|J)\.?(?=\s*\d)', re.I), 'Jo'),
+    (re.compile(r'(?<=\*)(?:Acts|Act|At)\.?(?=\s*\d)', re.I), 'At'),
+    (re.compile(r'(?<=\*)(?:Rom|Romans|Rm)\.?(?=\s*\d)', re.I), 'Rm'),
+    (re.compile(r'(?<=\*)(?:Gal|Galatians|Gl)\.?(?=\s*\d)', re.I), 'Gl'),
+    (re.compile(r'(?<=\*)(?:Eph|Ephesians|Ef)\.?(?=\s*\d)', re.I), 'Ef'),
+    (re.compile(r'(?<=\*)(?:Phil|Philippians|Fp|Fl)\.?(?=\s*\d)', re.I), 'Fp'),
+    (re.compile(r'(?<=\*)(?:Col|Colossians|Cl)\.?(?=\s*\d)', re.I), 'Cl'),
+    (re.compile(r'(?<=\*)(?:Tit|Titus|Tt)\.?(?=\s*\d)', re.I), 'Tt'),
+    (re.compile(r'(?<=\*)(?:Philem|Philemon|Fm)\.?(?=\s*\d)', re.I), 'Fm'),
+    (re.compile(r'(?<=\*)(?:Hebr|Heb|Hebrews|Hb)\.?(?=\s*\d)', re.I), 'Hb'),
+    (re.compile(r'(?<=\*)(?:Jas|James|Tg)\.?(?=\s*\d)', re.I), 'Tg'),
+    (re.compile(r'(?<=\*)(?:Jude|Judas|Jda)\.?(?=\s*\d)', re.I), 'Jda'),
+    (re.compile(r'(?<=\*)(?:Apoc|Apocalypse|Rev|Revelation|Ap)\.?(?=\s*\d)', re.I), 'Ap'),
+)
+
 
 class ProperParser:
     """
@@ -249,7 +325,16 @@ class ProperParser:
         for condition, from_, to_ in self.translations[lang].TRANSFORMATIONS:
             if condition(ln):
                 ln = re.sub(from_, to_, ln)
+        ln = self._normalize_scripture_references(ln)
         return ln.strip()
+
+    @staticmethod
+    def _normalize_scripture_references(ln: str) -> str:
+        if not ln.startswith('*'):
+            return ln
+        for pattern, replacement in SCRIPTURE_BOOK_REPLACEMENTS:
+            ln = pattern.sub(replacement, ln)
+        return ln
 
     @staticmethod
     def _parse_section_name(ln: str) -> str:

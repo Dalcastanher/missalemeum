@@ -5,7 +5,8 @@ from datetime import date, timedelta
 import pytest
 
 from .conftest import HERE
-from api.constants.common import LANGUAGE_ENGLISH, LANGUAGE_POLSKI
+from api.constants import TRANSLATION
+from api.constants.common import LANGUAGE_ENGLISH, LANGUAGE_POLSKI, LANGUAGE_PORTUGUESE
 
 
 def test_api_calendar(client):
@@ -30,7 +31,7 @@ def test_api_date(client):
     assert [] == info["supplements"]
     assert "Środa po 23 Niedzieli po Zesłaniu Ducha Świętego" == info["tempora"]
     assert "Św. Marcina, Biskupa i Wyznawcy" == info["title"]
-    assert "*Syr 45:30" in data[0]["sections"][0]["body"][0][0]
+    assert "*Eus 45:30" in data[0]["sections"][0]["body"][0][0]
 
 
 def test_api_date_portuguese_prefaces_from_divinum_officium(client):
@@ -50,7 +51,7 @@ def test_api_date_portuguese_returns_only_portuguese_sections(client):
     assert 200 == resp.status_code
 
     proper = resp.json()[0]
-    assert "S. Pedro de Verona" in proper["info"]["title"]
+    assert "São Pedro de Verona" in proper["info"]["title"]
 
     sections = {section["id"]: section["body"][0][0] for section in proper["sections"]}
     assert "Vos suplicamos" in sections["Oratio"]
@@ -63,6 +64,52 @@ def test_api_date_portuguese_returns_only_portuguese_sections(client):
     assert "Evangelho" == next(section["label"] for section in proper["sections"] if section["id"] == "Evangelium")
     for section in proper["sections"]:
         assert len(section["body"][0]) == 1
+
+
+def test_api_date_portuguese_st_catherine_title(client):
+    resp = client.get('/pt/api/v5/proper/2026-04-30')
+    assert 200 == resp.status_code
+
+    proper = resp.json()[0]
+    assert "Santa Catarina de Sena, Virgem" == proper["info"]["title"]
+
+
+def test_portuguese_saint_titles_are_translated():
+    untranslated_markers = (
+        "S.",
+        "S. ",
+        "SS.",
+        "St.",
+        "Sts.",
+        "Our Lady",
+        "Blessed",
+        "Blessed Virgin",
+        "Holy ",
+        " of the ",
+        " and ",
+        "Pope",
+        "For Octave",
+    )
+    untranslated = [
+        (proper_id, title)
+        for proper_id, title in TRANSLATION[LANGUAGE_PORTUGUESE].TITLES.items()
+        if proper_id.startswith("sancti:")
+        and any(marker in title for marker in untranslated_markers)
+    ]
+    assert [] == untranslated
+
+
+@pytest.mark.parametrize("source,expected", [
+    ("Lição da Ep.ª do B. Ap.º Paulo aos Coríntios", "Leitura da carta de São Paulo aos Coríntios"),
+    ("Lição da Ep.ª do B. Ap.º Paulo a Timóteo.", "Leitura da carta de São Paulo a Timóteo."),
+    ("Continuação ☩ do santo Evangelho segundo S. Mateus", "Continuação ☩ do santo Evangelho segundo São Mateus"),
+])
+def test_portuguese_epistle_heading_is_normalized(source, expected):
+    transformed = source
+    for condition, pattern, replacement in TRANSLATION[LANGUAGE_PORTUGUESE].TRANSFORMATIONS:
+        if condition(transformed):
+            transformed = pattern.sub(replacement, transformed)
+    assert expected == transformed
 
 
 def _get_dates():
@@ -140,7 +187,7 @@ def test_api_proper(client):
     assert "sancti:11-11:3:w" == info["id"]
     assert 3 == info["rank"]
     assert "Św. Marcina, Biskupa i Wyznawcy" == info["title"]
-    assert "*Syr 45:30" in data[0]["sections"][0]["body"][0][0]
+    assert "*Eus 45:30" in data[0]["sections"][0]["body"][0][0]
 
 
 def test_api_proper_slug(client):

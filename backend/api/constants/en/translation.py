@@ -919,6 +919,11 @@ PATERNOSTER = \
     "But deliver us from evil. Amen."
 
 TRANSFORMATIONS = TRANSFORMATIONS_COMMON + [
+    (
+        lambda x: 'Lesson from the' in x and 'Paul' in x,
+        re.compile(r'^Lesson from the (?:Epistle|letter) of (?:Blessed )?(?:St\. )?Paul(?: the Apostle)? to the (.*)$'),
+        r'Reading from the letter of Saint Paul to the \1',
+    ),
     (lambda x: 'Gloria' in x, re.compile(r'^[&$]Gloria\.*'), 'Glory Be to the Father…'),
     (lambda x: 'Oremus' in x, re.compile(r'^\$Oremus\.*'), 'Let us pray.'),
     (lambda x: 'eiusde,' in x, re.compile(r'^\$Per D[oó]minum eiusdem\.*'), 'Through our Lord…'),
