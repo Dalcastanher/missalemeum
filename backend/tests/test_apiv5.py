@@ -51,7 +51,7 @@ def test_api_date_portuguese_returns_only_portuguese_sections(client):
     assert 200 == resp.status_code
 
     proper = resp.json()[0]
-    assert "S. Pedro de Verona" in proper["info"]["title"]
+    assert "São Pedro de Verona" in proper["info"]["title"]
 
     sections = {section["id"]: section["body"][0][0] for section in proper["sections"]}
     assert "Vos suplicamos" in sections["Oratio"]
