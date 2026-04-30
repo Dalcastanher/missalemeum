@@ -32,6 +32,7 @@ from api.schemas import CalendarItem, ContentItem, Info, Proper, VersionInfo
 
 
 class LanguageCode(str, Enum):
+    LA = "la"
     EN = "en"
     PL = "pl"
     PT = "pt"

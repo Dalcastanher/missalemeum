@@ -34,6 +34,11 @@ Aleluia, aleluia.
 v. Quem me segue não anda nas trevas, mas terá a luz da vida ~
 eterno. Aleluia.
 
+[GradualeP]
+Aleluia, aleluia
+!Sl 88:6
+Senhor, que os céus festejem as vossas maravilhas; que a vossa verdade seja exaltada na assembleia dos santos. Aleluia.
+
 [Tractus]
 !Ps 36:24, 26.
 Embora o justo caia, ele não fica prostrado, pela mão do Senhor.

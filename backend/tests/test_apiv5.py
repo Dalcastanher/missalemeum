@@ -38,6 +38,13 @@ def test_api_date_portuguese_prefaces_from_divinum_officium(client):
     assert 200 == resp.status_code
 
 
+def test_api_date_latin(client):
+    resp = client.get('/la/api/v5/proper/2026-04-29')
+    assert 200 == resp.status_code
+    proper = resp.json()[0]
+    assert "S. Petri Martyris" == proper["info"]["title"]
+
+
 def test_api_date_portuguese_returns_only_portuguese_sections(client):
     resp = client.get('/pt/api/v5/proper/2026-04-29')
     assert 200 == resp.status_code
@@ -47,8 +54,11 @@ def test_api_date_portuguese_returns_only_portuguese_sections(client):
 
     sections = {section["id"]: section["body"][0][0] for section in proper["sections"]}
     assert "Vos suplicamos" in sections["Oratio"]
+    assert "Senhor, que os céus festejem" in sections["GradualeP"]
     assert "Dignai-Vos" in sections["Secreta"]
+    assert "Por Nosso Senhor" in sections["Secreta"]
     assert "Que os vossos fiéis" in sections["Postcommunio"]
+    assert "Por Nosso Senhor" in sections["Postcommunio"]
     assert "Evangelium" in sections
     assert "Evangelho" == next(section["label"] for section in proper["sections"] if section["id"] == "Evangelium")
     for section in proper["sections"]:
