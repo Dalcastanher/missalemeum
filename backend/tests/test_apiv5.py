@@ -54,8 +54,11 @@ def test_api_date_portuguese_returns_only_portuguese_sections(client):
 
     sections = {section["id"]: section["body"][0][0] for section in proper["sections"]}
     assert "Vos suplicamos" in sections["Oratio"]
+    assert "Senhor, que os céus festejem" in sections["GradualeP"]
     assert "Dignai-Vos" in sections["Secreta"]
+    assert "Por Nosso Senhor" in sections["Secreta"]
     assert "Que os vossos fiéis" in sections["Postcommunio"]
+    assert "Por Nosso Senhor" in sections["Postcommunio"]
     assert "Evangelium" in sections
     assert "Evangelho" == next(section["label"] for section in proper["sections"] if section["id"] == "Evangelium")
     for section in proper["sections"]:

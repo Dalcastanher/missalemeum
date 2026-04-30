@@ -919,16 +919,16 @@ PATERNOSTER = \
     "But deliver us from evil. Amen."
 
 TRANSFORMATIONS = TRANSFORMATIONS_COMMON + [
-    (lambda x: 'Gloria' in x, re.compile(r'^[&$]Gloria\.*'), 'Glory Be to the Father…'),
-    (lambda x: 'Oremus' in x, re.compile(r'^\$Oremus\.*'), 'Let us pray.'),
-    (lambda x: 'eiusde,' in x, re.compile(r'^\$Per D[oó]minum eiusdem\.*'), 'Through our Lord…'),
-    (lambda x: 'Per' in x and 'minum' in x, re.compile(r'^\$Per D[oó]minum\.*'), 'Through our Lord…'),
-    (lambda x: 'Per' in x and 'de' in x, re.compile(r'^\$Per eu[mn]dem\.*'), 'Through the same Christ our Lord…'),
-    (lambda x: 'Qui tecum' in x, re.compile(r'^\$Qui tecum eiusdem\.*'), 'Who livest and reignest with God the Father…'),
-    (lambda x: 'Qui tecum' in x, re.compile(r'^\$Qui tecum\.*'), 'Who livest and reignest with God the Father…'),
-    (lambda x: 'Qui vivis' in x, re.compile(r'^\$Qui vivis\.*'), 'Who livest…'),
-    (lambda x: 'Deo' in x and 'ratias' in x, re.compile(r'^\$Deo [Gg]ratias\.*'), 'Thanks be to God.'),
-    (lambda x: 'Dominus' in x and 'obiscum' in x, re.compile(r'^[&$]Dominus *[Vv]obiscum\.*'), '℣. The Lord be with you. \n\r℟. And with thy spirit.'),
+    (lambda x: 'Gloria' in x, re.compile(r'^[&$]Gloria\.*'), 'Glória ao Pai…'),
+    (lambda x: 'Oremus' in x, re.compile(r'^\$Oremus\.*'), 'Oremos.'),
+    (lambda x: 'eiusde,' in x, re.compile(r'^\$Per D[oó]minum eiusdem\.*'), 'Pelo mesmo Nosso Senhor…'),
+    (lambda x: 'Per' in x and 'minum' in x, re.compile(r'^\$Per D[oó]minum\.*'), 'Por Nosso Senhor…'),
+    (lambda x: 'Per' in x and 'de' in x, re.compile(r'^\$Per eu[mn]dem\.*'), 'Pelo mesmo Cristo Nosso Senhor…'),
+    (lambda x: 'Qui tecum' in x, re.compile(r'^\$Qui tecum eiusdem\.*'), 'Que convosco vive e reina…'),
+    (lambda x: 'Qui tecum' in x, re.compile(r'^\$Qui tecum\.*'), 'Que convosco vive e reina…'),
+    (lambda x: 'Qui vivis' in x, re.compile(r'^\$Qui vivis\.*'), 'Vós que viveis…'),
+    (lambda x: 'Deo' in x and 'ratias' in x, re.compile(r'^\$Deo [Gg]ratias\.*'), 'Graças a Deus.'),
+    (lambda x: 'Dominus' in x and 'obiscum' in x, re.compile(r'^[&$]Dominus *[Vv]obiscum\.*'), '℣. O Senhor esteja convosco. \n\r℟. E com o vosso espírito.'),
     (lambda x: 'Pater noster' in x, re.compile(r'^\$Pater noster.*'), PATERNOSTER),
 ]
 
