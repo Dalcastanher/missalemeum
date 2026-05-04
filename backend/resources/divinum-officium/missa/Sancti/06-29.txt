@@ -27,8 +27,15 @@ Naqueles dias, mandou o rei Herodes que perseguissem alguns membros pertencentes
 !Sl 44:17-18
 Constitui-los-eis príncipes em toda a terra: e perpetuarão, ó Senhor, a recordação do vosso nome.
 Para substituir vossos pais, dar-vos-á filhos: e, assim, os povos Vos louvarão em todos os séculos dos séculos. Aleluia, aleluia.
-!Mt 18:18
+!Mt 16:18
 Tu és Pedro e sobre esta pedra edificarei a minha Igreja. Aleluia.
+
+[GradualeP]
+Aleluia, aleluia.
+!Mt 16:18
+Tu és Pedro, e sobre esta pedra edificarei a minha Igreja. Aleluia.
+!Sl 44:17-18.
+Constitui-los-eis príncipes sobre toda a terra: lembrar-se-ão do vosso nome, ó Senhor. Aleluia.
 
 [Evangelium]
 @Commune/C4b:Evangelium
