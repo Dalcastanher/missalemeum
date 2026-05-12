@@ -1,0 +1,20 @@
+[Officium]
+Wigilia Wniebowstąpienia Pańskiego
+
+[Introitus]
+@Tempora/Pasc5-0:Introitus
+
+[Oratio]
+@Tempora/Pasc5-0:Oratio
+
+[Graduale]
+@Tempora/Pasc5-0:Graduale
+
+[Offertorium]
+@Tempora/Pasc5-0:Offertorium
+
+[Communio]
+@Tempora/Pasc5-0:Communio
+
+[Postcommunio]
+@Tempora/Pasc5-0:Postcommunio
