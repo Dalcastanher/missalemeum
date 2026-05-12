@@ -216,7 +216,7 @@ TITLES = {
     constants.TEMPORA_PASC5_0: 'V Sunday after Easter',
     constants.TEMPORA_PASC5_1: 'The Minor Litanies – Rogations',
     constants.TEMPORA_PASC5_2: 'The Minor Litanies – Rogations',
-    constants.TEMPORA_PASC5_3: 'Vigil of the Ascension',
+    constants.TEMPORA_PASC5_3: 'Vigília da Ascensão',
     constants.TEMPORA_PASC5_4: 'Ascension of the Lord',
     constants.TEMPORA_PASC5_5: 'Feria VI after the Ascension',
     constants.TEMPORA_PASC5_6: 'Saturday after the Ascension',
