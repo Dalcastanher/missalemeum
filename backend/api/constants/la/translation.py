@@ -230,7 +230,7 @@ TITLES = {
     constants.TEMPORA_PASC5_0: 'Dominica V Post Pascha',
     constants.TEMPORA_PASC5_1: 'Feria II in Rogationibus',
     constants.TEMPORA_PASC5_2: 'Feria III in Rogationibus',
-    constants.TEMPORA_PASC5_3: 'Wigilia Wniebowstąpienia Pańskiego',
+    constants.TEMPORA_PASC5_3: 'In Vigilia Ascensionis',
     constants.TEMPORA_PASC5_4: 'In Ascensione Domini',
     constants.TEMPORA_PASC5_5: 'Feria VI post Ascensionem',
     constants.TEMPORA_PASC5_6: 'Sabbato post Ascensionem',
