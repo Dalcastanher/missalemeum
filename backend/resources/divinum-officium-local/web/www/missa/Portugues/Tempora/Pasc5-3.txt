@@ -1,0 +1,33 @@
+[Comment]
+# Vigília da Ascensão do Senhor
+! 1 classe
+! Paramentos branco
+
+[Introitus]
+@Tempora/Pasc5-0:Introitus
+
+[Oratio]
+@Tempora/Pasc5-0:Oratio
+
+[Graduale]
+@Tempora/Pasc5-0:Graduale
+
+[Evangelium]
+Continuação ++ do Santo Evangelho segundo São João.
+!Jo 17:1-11
+v. Naquele tempo, levantou Jesus os olhos ao céu e disse: "Pai, veio a hora: glorificai o vosso Filho, para que o vosso Filho Vos glorifique, pois que Lhe concedestes poder sobre toda a carne humana, para que a todos quantos Lhe destes Ele dê a vida eterna! Ora a vida eterna consiste em que Vos conheçam como o único verdadeiro Deus, e a Jesus Cristo, que enviastes. Já Vos glorifiquei na terra; já cumpri a missão que me distribuístes. Agora, pois, ó Pai, glorificai-me junto de Vós com aquela glória que Eu possuía antes que o mundo fosse criado. Já manifestei o vosso nome aos homens, que me destes, no meio do mundo. Eles eram vossos, e Vós mos destes; e eles guardaram a vossa palavra. Agora já conhecem que tudo o que me destes vem de Vós; pois as palavras que me destes Eu lhas dei e as receberam: reconheceram verdadeiramente que saí de Vós e acreditaram que me enviastes. Eu rogo por eles. Não rogo pelo mundo, mas por aqueles que me destes, pois são vossos: todas minhas coisas são vossas, e sou glorificado neles. Já não pertenço mais ao mundo, porém eles ficam no mundo. E Eu vou para Vós".
+
+[Offertorium]
+@Tempora/Pasc5-0:Offertorium
+
+[Secreta]
+v. Recebei, Senhor, as preces dos vossos fiéis, unidas às oblações destas hóstias, a fim de que, por meio destes cultos de devoção piedosa, alcancemos glória celestial. Por Nosso Senhor…
+
+[Prefatio]
+v. É verdadeiramente digno e justo, racional e salutar, que Vos louvemos sempre, mas principalmente... em que Jesus Cristo foi imolado, como nova Páscoa. Pois Ele é o verdadeiro Cordeiro que tirou os pecados do mundo e que pela sua Ressurreição nos restituiu a vida. Por isso, com os Anjos e Arcanjos, com os Tronos e Dominações e com toda a milícia do exército celestial, cantamos o hino da vossa glória, dizendo incessantemente:
+
+[Communio]
+@Tempora/Pasc5-0:Communio
+
+[Postcommunio]
+@Tempora/Pasc5-0:Postcommunio
