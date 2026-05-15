@@ -1,0 +1,5 @@
+[GradualeP]
+@Sancti/05-15:Graduale
+
+[Evangelium]
+@Sancti/01-31:Evangelium

@@ -14,10 +14,10 @@
 @Sancti/05-15:Graduale
 
 [GradualeP]
-@Sancti/05-15:Graduale
+@Commune/C5
 
 [Evangelium]
-@Sancti/01-31:Evangelium
+@Sancti/05-15:Evangelium
 
 [Offertorium]
 @Commune/C2

@@ -14,7 +14,7 @@
 @Sancti/03-24:Graduale
 
 [Evangelium]
-@Tempora/Adv3-3:Evangelium
+@Sancti/03-24:Evangelium
 
 [Offertorium]
 @Sancti/03-24:Offertorium
