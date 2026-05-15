@@ -37,7 +37,7 @@ _
 @Sancti/01-25:Postcommunio Pauli
 
 [GradualeP]
-@Commune/Coronatio
+@Sancti/02-22:GradualeP
 
 [Tractus]
 !Ps 106:32; 106:31
