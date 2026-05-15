@@ -14,7 +14,7 @@
 @Sancti/08-09t:Graduale
 
 [Evangelium]
-@Commune/C2a:Evangelium
+@Sancti/08-09t:Evangelium
 
 [Offertorium]
 @Sancti/08-09t:Offertorium

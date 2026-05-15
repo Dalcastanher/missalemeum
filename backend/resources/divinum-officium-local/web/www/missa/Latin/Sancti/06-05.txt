@@ -14,7 +14,7 @@
 @Sancti/06-05:Graduale
 
 [Evangelium]
-@Sancti/11-01:Evangelium
+@Sancti/06-05:Evangelium
 
 [Offertorium]
 @Sancti/06-05:Offertorium
