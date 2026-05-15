@@ -14,7 +14,7 @@
 @Sancti/01-15:Graduale
 
 [Evangelium]
-@Sancti/01-15:Evangelium
+@Sancti/02-24:Evangelium
 
 [Offertorium]
 @Commune/C5-1

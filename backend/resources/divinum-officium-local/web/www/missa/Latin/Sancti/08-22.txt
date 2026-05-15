@@ -14,7 +14,7 @@
 @Sancti/08-22:Graduale
 
 [Evangelium]
-@Sancti/08-22:Evangelium
+@Commune/C10Pasc:Evangelium
 
 [Offertorium]
 @Sancti/08-22:Offertorium
